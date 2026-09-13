@@ -1,0 +1,106 @@
+IMO_Number,MMSI,Ship_Name,Ship_Type,DWT,Capacity,Fuel_Type,Service_Speed,Year_Built,Flag_Country
+9800001,259239353,Terra Guardian 98,Bulk Carrier - Capesize Class,195900.0,182700.0,Bio-Methanol,13.6,2025,Singapore
+9800002,249957816,Nordic Hydro 34,Bulk Carrier - Panamax Class,75200.0,71400.0,Bio-Methanol,14.9,2016,Singapore
+9800003,238169370,Titan Trader 89,Bulk Carrier - Supramax Class,55300.0,52100.0,Ammonia,14.1,2024,Marshall Islands
+9800004,237732020,Aurora Guardian 73,Bulk Carrier - Handysize Class,30300.0,27800.0,Biofuel (B30),13.5,2019,Hong Kong
+9800005,286871268,Zephyr Frost 87,"Container - Ultra Large (24,000 TEU)",232600.0,211200.0,Hydrogen,18.8,2015,Hong Kong
+9800006,298032908,Global Voyager 32,"Container - Neo-Panamax (15,000 TEU)",135100.0,124200.0,LSMGO,18.3,2025,Denmark
+9800007,275694038,Global Trader 81,"Container - Post-Panamax (8,500 TEU)",88100.0,81500.0,Bio-Methanol,18.6,2016,Denmark
+9800008,279204468,Titan Mariner 89,"Container - Panamax (5,000 TEU)",73700.0,68000.0,Bio-Methanol,17.3,2015,Liberia
+9800009,271532017,Emerald Wind 9,"Container - Feeder Max (3,500 TEU)",46900.0,43300.0,Bio-Methanol,16.8,2022,Hong Kong
+9800010,253334226,Solaris Wave 71,"Container - Regional Feeder (1,800 TEU)",23800.0,22200.0,Bio-Methanol,16.3,2025,Panama
+9800011,216166355,Eco Navigator 59,Tanker - VLCC Class,280700.0,268300.0,LSMGO,14.9,2015,Denmark
+9800012,237154689,Poseidon Voyager 84,Tanker - Suezmax Class,147500.0,140500.0,LNG,14.4,2020,Hong Kong
+9800013,221062296,Neptune Navigator 22,Tanker - Aframax Class,96300.0,90300.0,Ammonia,14.7,2018,Denmark
+9800014,297977738,Pacific Harvest 1,Tanker - MR2 Chemical Class,44800.0,40500.0,Biofuel (B30),13.9,2025,Greece
+9800015,211246473,Ocean Wave 16,Reefer - Arctic Pioneer,24900.0,23000.0,LSMGO,18.0,2018,Denmark
+9800016,221989814,Titan Harvest 14,Reefer - Nordic Carrier,13900.0,13200.0,LSMGO,17.4,2017,Netherlands
+9800017,229173414,Pacific Frost 73,General Cargo - Multi-Purpose Heavy Lift,28100.0,26400.0,Bio-Methanol,15.1,2018,Netherlands
+9800018,230317091,Starlight Pride 88,General Cargo - Standard Box-Hold,24400.0,22300.0,VLSFO,13.6,2016,Malta
+9800019,261543890,Neptune Star 41,General Cargo - Green Multi-Carrier,45300.0,41400.0,Ammonia,15.1,2023,Malta
+9800020,290531692,Titan Pride 37,Bulk Carrier - Capesize Class,198900.0,187300.0,Hydrogen,14.3,2019,Singapore
+9800021,279491111,Horizon Frost 25,Bulk Carrier - Panamax Class,81200.0,74500.0,VLSFO,14.8,2018,Greece
+9800022,261792685,Eco Green 64,Bulk Carrier - Supramax Class,59600.0,53900.0,VLSFO,14.7,2020,Marshall Islands
+9800023,261920550,Apex Star 47,Bulk Carrier - Handysize Class,33200.0,30200.0,Bio-Methanol,14.3,2016,Panama
+9800024,288834594,Pacific Leader 34,"Container - Ultra Large (24,000 TEU)",208600.0,199300.0,Hydrogen,18.4,2019,Netherlands
+9800025,277249653,Starlight Star 90,"Container - Neo-Panamax (15,000 TEU)",144100.0,135200.0,Biofuel (B30),18.1,2019,Liberia
+9800026,251594998,Pacific Frost 27,"Container - Post-Panamax (8,500 TEU)",109200.0,99300.0,LNG,18.9,2025,Netherlands
+9800027,296322745,Pacific Express 90,"Container - Panamax (5,000 TEU)",63700.0,61000.0,LSMGO,17.1,2016,Denmark
+9800028,225567455,Clean Pride 78,"Container - Feeder Max (3,500 TEU)",35800.0,33700.0,Ammonia,16.7,2016,Panama
+9800029,228416255,Poseidon Leader 21,"Container - Regional Feeder (1,800 TEU)",23000.0,21200.0,Biofuel (B30),16.3,2019,Marshall Islands
+9800030,259911470,Global Mariner 94,Tanker - VLCC Class,315500.0,298600.0,VLSFO,14.8,2021,Hong Kong
+9800031,280310522,Pacific Mariner 92,Tanker - Suezmax Class,164400.0,154100.0,Bio-Methanol,14.8,2020,Panama
+9800032,277056519,Apex Horizon 48,Tanker - Aframax Class,98900.0,93600.0,Biofuel (B30),14.7,2016,Singapore
+9800033,278293320,Ocean Guardian 2,Tanker - MR2 Chemical Class,45200.0,42000.0,Bio-Methanol,14.6,2017,Panama
+9800034,284204255,Poseidon Navigator 54,Reefer - Arctic Pioneer,19600.0,17900.0,Ammonia,17.8,2016,Malta
+9800035,260037465,Eco Frost 87,Reefer - Nordic Carrier,17400.0,15800.0,Hydrogen,17.5,2015,Denmark
+9800036,219251149,Clean Express 40,General Cargo - Multi-Purpose Heavy Lift,31900.0,29800.0,VLSFO,15.1,2019,Malta
+9800037,250790016,Titan Pride 32,General Cargo - Standard Box-Hold,24600.0,23000.0,Bio-Methanol,14.5,2018,Germany
+9800038,242900372,Global Leader 53,General Cargo - Green Multi-Carrier,35300.0,32900.0,Ammonia,15.8,2015,Norway
+9800039,210196231,Vanguard Titan 95,Bulk Carrier - Capesize Class,196400.0,178000.0,Biofuel (B30),14.5,2021,Greece
+9800040,218038980,Global Mariner 12,Bulk Carrier - Panamax Class,70700.0,64600.0,Hydrogen,14.5,2020,Greece
+9800041,221395409,Apex Harvest 65,Bulk Carrier - Supramax Class,52000.0,49400.0,VLSFO,14.3,2015,Denmark
+9800042,298911718,Global Green 38,Bulk Carrier - Handysize Class,28900.0,26600.0,Hydrogen,13.7,2020,Norway
+9800043,270768130,Zephyr Green 10,"Container - Ultra Large (24,000 TEU)",237700.0,215900.0,Hydrogen,18.6,2017,Liberia
+9800044,232062036,Clean Hydro 41,"Container - Neo-Panamax (15,000 TEU)",144200.0,134400.0,Hydrogen,17.7,2019,Greece
+9800045,245568761,Eco Pioneer 21,"Container - Post-Panamax (8,500 TEU)",104200.0,95700.0,Ammonia,19.2,2015,Singapore
+9800046,253995720,Global Pioneer 92,"Container - Panamax (5,000 TEU)",60000.0,55300.0,Biofuel (B30),17.0,2019,Hong Kong
+9800047,233336132,Ocean Titan 58,"Container - Feeder Max (3,500 TEU)",43300.0,40400.0,VLSFO,16.5,2017,Liberia
+9800048,211604831,Nordic Green 17,"Container - Regional Feeder (1,800 TEU)",20000.0,18500.0,Ammonia,16.1,2025,Liberia
+9800049,288158177,Apex Mariner 10,Tanker - VLCC Class,280900.0,253900.0,Ammonia,14.9,2017,Liberia
+9800050,254499873,Eco Guardian 60,Tanker - Suezmax Class,141300.0,135000.0,Bio-Methanol,15.1,2021,Greece
+9800051,213957046,Aegean Star 23,Tanker - Aframax Class,103800.0,99100.0,LNG,14.3,2017,Panama
+9800052,292423989,Horizon Pride 32,Tanker - MR2 Chemical Class,50400.0,46900.0,Biofuel (B30),14.2,2016,Hong Kong
+9800053,261407440,Global Star 26,Reefer - Arctic Pioneer,22500.0,21300.0,LSMGO,18.1,2023,Panama
+9800054,261338023,Poseidon Wind 62,Reefer - Nordic Carrier,15300.0,14200.0,Biofuel (B30),17.5,2021,Hong Kong
+9800055,234134478,Ocean Wave 77,General Cargo - Multi-Purpose Heavy Lift,30600.0,29200.0,Hydrogen,15.0,2022,Germany
+9800056,257973830,Apex Green 21,General Cargo - Standard Box-Hold,21000.0,19700.0,LNG,14.0,2015,Singapore
+9800057,287268086,Aegean Wind 23,General Cargo - Green Multi-Carrier,37300.0,34900.0,Hydrogen,15.7,2020,Malta
+9800058,213785821,Poseidon Wind 73,Bulk Carrier - Capesize Class,188200.0,175700.0,LSMGO,14.3,2022,Germany
+9800059,251480401,Quantum Crystal 5,Bulk Carrier - Panamax Class,71400.0,65300.0,LSMGO,14.0,2022,Panama
+9800060,254524582,Horizon Explorer 17,Bulk Carrier - Supramax Class,55100.0,50200.0,Hydrogen,14.5,2020,Panama
+9800061,212941099,Global Trader 91,Bulk Carrier - Handysize Class,38800.0,36700.0,Hydrogen,13.8,2020,Liberia
+9800062,260142505,Poseidon Titan 76,"Container - Ultra Large (24,000 TEU)",204000.0,187300.0,LSMGO,19.0,2021,Netherlands
+9800063,275390879,Emerald Wave 23,"Container - Neo-Panamax (15,000 TEU)",154800.0,144500.0,Biofuel (B30),18.3,2018,Netherlands
+9800064,289047551,Quantum Titan 40,"Container - Post-Panamax (8,500 TEU)",102000.0,93600.0,LSMGO,19.2,2024,Denmark
+9800065,286166246,Nordic Horizon 78,"Container - Panamax (5,000 TEU)",61400.0,58200.0,Biofuel (B30),17.2,2024,Liberia
+9800066,276596831,Global Wave 96,"Container - Feeder Max (3,500 TEU)",36200.0,33300.0,LNG,16.2,2016,Netherlands
+9800067,295778910,Titan Wave 58,"Container - Regional Feeder (1,800 TEU)",18100.0,16500.0,Ammonia,15.6,2019,Liberia
+9800068,210171954,Nordic Titan 57,Tanker - VLCC Class,309300.0,296400.0,Bio-Methanol,15.0,2021,Norway
+9800069,283286096,Aegean Harvest 62,Tanker - Suezmax Class,159700.0,149300.0,Hydrogen,15.0,2017,Greece
+9800070,219893106,Nordic Express 3,Tanker - Aframax Class,103000.0,98600.0,VLSFO,14.3,2021,Marshall Islands
+9800071,220066654,Terra Pioneer 44,Tanker - MR2 Chemical Class,49700.0,46600.0,Bio-Methanol,14.4,2021,Netherlands
+9800072,232145548,Horizon Star 21,Reefer - Arctic Pioneer,18400.0,16900.0,LSMGO,17.9,2023,Germany
+9800073,245603234,Vanguard Express 39,Reefer - Nordic Carrier,13400.0,12100.0,Biofuel (B30),17.5,2022,Marshall Islands
+9800074,217315517,Neptune Leader 55,General Cargo - Multi-Purpose Heavy Lift,29100.0,27600.0,Ammonia,15.3,2018,Liberia
+9800075,213454186,Aurora Horizon 82,General Cargo - Standard Box-Hold,22900.0,20700.0,Hydrogen,13.6,2021,Greece
+9800076,275645462,Vanguard Mariner 12,General Cargo - Green Multi-Carrier,43300.0,40000.0,LNG,15.9,2020,Marshall Islands
+9800077,269830944,Nordic Mariner 57,Bulk Carrier - Capesize Class,183300.0,167500.0,LNG,14.1,2017,Netherlands
+9800078,222979206,Pacific Wind 70,Bulk Carrier - Panamax Class,76200.0,72000.0,LSMGO,14.6,2021,Germany
+9800079,266187845,Terra Crystal 74,Bulk Carrier - Supramax Class,63200.0,58700.0,VLSFO,14.1,2015,Germany
+9800080,286667841,Baltic Trader 87,Bulk Carrier - Handysize Class,39700.0,36100.0,Hydrogen,13.7,2017,Singapore
+9800081,235867257,Global Guardian 55,"Container - Ultra Large (24,000 TEU)",203100.0,191100.0,LSMGO,19.0,2025,Marshall Islands
+9800082,289865944,Zephyr Wave 94,"Container - Neo-Panamax (15,000 TEU)",162000.0,146500.0,Bio-Methanol,18.1,2023,Norway
+9800083,247071046,Baltic Hydro 2,"Container - Post-Panamax (8,500 TEU)",103600.0,97100.0,Biofuel (B30),19.3,2016,Denmark
+9800084,230084652,Global Trader 76,"Container - Panamax (5,000 TEU)",66700.0,63900.0,VLSFO,17.9,2024,Liberia
+9800085,248398732,Terra Wind 53,"Container - Feeder Max (3,500 TEU)",39000.0,36600.0,Biofuel (B30),16.6,2015,Marshall Islands
+9800086,246965460,Aegean Voyager 80,"Container - Regional Feeder (1,800 TEU)",24100.0,22700.0,VLSFO,15.9,2020,Singapore
+9800087,216615722,Titan Crystal 35,Tanker - VLCC Class,315900.0,284700.0,Hydrogen,15.3,2019,Hong Kong
+9800088,275984013,Poseidon Harvest 30,Tanker - Suezmax Class,143400.0,137400.0,Bio-Methanol,15.1,2020,Hong Kong
+9800089,265938288,Horizon Navigator 12,Tanker - Aframax Class,99700.0,91000.0,Hydrogen,14.4,2022,Germany
+9800090,260185378,Nordic Frost 21,Tanker - MR2 Chemical Class,42900.0,40400.0,Bio-Methanol,13.8,2023,Malta
+9800091,213885356,Quantum Explorer 26,Reefer - Arctic Pioneer,23900.0,21900.0,Bio-Methanol,17.6,2020,Singapore
+9800092,246772637,Neptune Hydro 65,Reefer - Nordic Carrier,14400.0,13800.0,Ammonia,17.0,2020,Greece
+9800093,289731181,Clean Horizon 61,General Cargo - Multi-Purpose Heavy Lift,35000.0,32200.0,LSMGO,15.5,2019,Liberia
+9800094,248261364,Ocean Titan 7,General Cargo - Standard Box-Hold,21600.0,20200.0,LSMGO,14.4,2025,Singapore
+9800095,237746963,Zephyr Navigator 53,General Cargo - Green Multi-Carrier,41700.0,39700.0,Hydrogen,15.7,2022,Marshall Islands
+9800096,296888739,Quantum Pride 2,Bulk Carrier - Capesize Class,171200.0,160300.0,LNG,14.2,2025,Hong Kong
+9800097,266882385,Aegean Wind 59,Bulk Carrier - Panamax Class,73800.0,68500.0,Ammonia,14.5,2024,Denmark
+9800098,288448538,Eco Leader 66,Bulk Carrier - Supramax Class,65000.0,62300.0,Hydrogen,14.1,2025,Malta
+9800099,291745321,Solaris Express 88,Bulk Carrier - Handysize Class,26600.0,24000.0,LNG,13.9,2019,Hong Kong
+9800100,298062882,Poseidon Navigator 39,"Container - Ultra Large (24,000 TEU)",207500.0,193200.0,LSMGO,18.9,2024,Denmark
+9800101,298654879,Silver Voyager 93,"Container - Neo-Panamax (15,000 TEU)",130900.0,121700.0,LNG,17.8,2021,Denmark
+9800102,262113377,Titan Guardian 75,"Container - Post-Panamax (8,500 TEU)",101200.0,94600.0,LSMGO,18.8,2018,Netherlands
+9800103,281757508,Emerald Crystal 86,"Container - Panamax (5,000 TEU)",62200.0,57100.0,LSMGO,17.8,2023,Marshall Islands
+9800104,249431028,Eco Crystal 17,"Container - Feeder Max (3,500 TEU)",46100.0,43500.0,Biofuel (B30),16.8,2017,Netherlands
+9800105,255047826,Emerald Pioneer 29,"Container - Regional Feeder (1,800 TEU)",21600.0,20400.0,LNG,15.9,2020,Norway

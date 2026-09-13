@@ -1,0 +1,58 @@
+# ==============================================================================
+# QuantumFleet: Docker Compose Multi-Container Production Environment
+# ==============================================================================
+version: '3.8'
+
+services:
+  # 1. PostgreSQL Database
+  postgres-db:
+    image: postgres:15-alpine
+    container_name: quantumfleet-postgres
+    restart: always
+    environment:
+      POSTGRES_USER: quantum_user
+      POSTGRES_PASSWORD: quantum_password_2026
+      POSTGRES_DB: quantumfleet_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./database/database_schema.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U quantum_user -d quantumfleet_db"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  # 2. FastAPI Intelligence Engine Backend
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: quantumfleet-backend
+    restart: always
+    environment:
+      DATABASE_URL: postgresql://quantum_user:quantum_password_2026@postgres-db:5432/quantumfleet_db
+      SECRET_KEY: quantumfleet_production_secret_key_sih26138
+      EU_ETS_CARBON_TAX_PER_TON: 85.0
+    ports:
+      - "8001:8001"
+    depends_on:
+      postgres-db:
+        condition: service_healthy
+    command: ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8001"]
+
+  # 3. React Vite Frontend
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: quantumfleet-frontend
+    restart: always
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
+
+volumes:
+  pgdata:

@@ -1,0 +1,1312 @@
+Voyage_ID,Vessel_IMO,Departure_Port,Arrival_Port,Distance_NM,Travel_Time_Hours,Average_Speed,Cargo_Weight,Fuel_Consumed,Arrival_Delay
+VOY-10001,9800001,Port of Piraeus,Port of New York & New Jersey,5347.3,424.4,12.6,168700.0,2716.54,6.5
+VOY-10002,9800001,Port of Chennai,Port of Santos,9644.8,679.2,14.2,165300.0,6745.37,6.5
+VOY-10003,9800001,Port of Tanjung Pelepas,Port of Singapore,23.4,1.7,14.0,123100.0,14.16,0.0
+VOY-10004,9800001,Port of Piraeus,Port of Shenzhen,5754.4,439.3,13.1,136000.0,2988.63,24.0
+VOY-10005,9800001,Port of Valencia,Port of Algeciras,391.2,32.3,12.1,162800.0,196.94,0.0
+VOY-10006,9800001,Port of Valencia,Port of Rotterdam,968.2,77.5,12.5,123100.0,422.62,0.0
+VOY-10007,9800001,Port of Valencia,Port of Hong Kong,6992.3,537.9,13.0,162200.0,3748.52,6.5
+VOY-10008,9800001,Port of Antwerp-Bruges,Port of Le Havre,242.9,19.3,12.6,153100.0,127.51,12.0
+VOY-10009,9800001,Port of Buenos Aires,Jawaharlal Nehru Port (JNPT),10080.2,757.9,13.3,145900.0,5661.29,0.0
+VOY-10010,9800001,Port of Shenzhen,Port of Long Beach,7871.8,570.4,13.8,167700.0,4833.02,0.0
+VOY-10011,9800001,Port of Le Havre,Port of Kaohsiung,6793.2,503.2,13.5,123000.0,3782.7,24.0
+VOY-10012,9800001,Port of Tokyo,Port of Klang,3611.4,263.6,13.7,124200.0,1949.85,1.5
+VOY-10013,9800002,Port of Mundra,Port of Le Havre,4484.0,291.2,15.4,61000.0,1881.91,24.0
+VOY-10014,9800002,Port of Piraeus,Port of Ningbo-Zhoushan,5834.8,402.4,14.5,58700.0,2053.11,0.0
+VOY-10015,9800002,Port of Le Havre,Port of New York & New Jersey,3819.9,248.0,15.4,51900.0,1538.07,0.0
+VOY-10016,9800002,Port of Klang,Port of Genoa,6728.4,454.6,14.8,62300.0,2488.23,6.5
+VOY-10017,9800002,Port of Colon (Panama),Port of Savannah,1707.2,117.7,14.5,57600.0,619.11,6.5
+VOY-10018,9800002,Port of Mundra,Port of Tangier Med,4899.4,316.1,15.5,68600.0,2273.77,3.0
+VOY-10019,9800002,Port of Melbourne,Port of Yokohama,5510.5,377.4,14.6,61300.0,2052.33,3.0
+VOY-10020,9800002,Port of Melbourne,Port of Shanghai,5436.8,350.8,15.5,62200.0,2426.94,6.5
+VOY-10021,9800002,Port of Sydney,Port of Chennai,6159.3,459.6,13.4,47500.0,1635.31,0.0
+VOY-10022,9800002,Port of Hamburg,Port of Shanghai,5752.0,380.9,15.1,57900.0,2232.62,3.0
+VOY-10023,9800002,Port of Colon (Panama),Port of Tangier Med,5397.7,377.5,14.3,68100.0,2056.49,0.0
+VOY-10024,9800002,Port of Singapore,Port of Klang,224.2,15.8,14.2,59600.0,77.84,3.0
+VOY-10025,9800002,Port of Vancouver,Port of Le Havre,5244.0,364.2,14.4,53400.0,1784.84,24.0
+VOY-10026,9800002,King Abdullah Port,Port of Hong Kong,5144.9,362.3,14.2,51200.0,1754.37,12.0
+VOY-10027,9800003,Port of Ningbo-Zhoushan,Port of Colombo,3402.3,234.6,14.5,34400.0,955.41,6.5
+VOY-10028,9800003,Port of Rotterdam,Port of Chennai,5328.4,394.7,13.5,34500.0,1341.76,3.0
+VOY-10029,9800003,Port of Colon (Panama),Port of Le Havre,5735.2,412.6,13.9,50400.0,1791.73,0.0
+VOY-10030,9800003,Port of Tangier Med,Port of Colon (Panama),5397.7,385.6,14.0,36200.0,1493.92,1.5
+VOY-10031,9800003,Port of Rotterdam,Jawaharlal Nehru Port (JNPT),4652.2,372.2,12.5,40200.0,1039.46,0.0
+VOY-10032,9800003,Port of Sydney,Port of Valencia,11755.7,890.6,13.2,36600.0,2709.44,12.0
+VOY-10033,9800003,Jawaharlal Nehru Port (JNPT),Port of Le Havre,4852.1,370.4,13.1,50800.0,1410.83,3.0
+VOY-10034,9800003,Port of Savannah,Port of Cape Town,8583.6,596.1,14.4,48300.0,2934.77,12.0
+VOY-10035,9800003,Port of Hamburg,Port of Salalah,3750.4,279.9,13.4,41300.0,963.03,6.5
+VOY-10036,9800003,Port of Colombo,Port of Salalah,2038.8,143.6,14.2,39100.0,572.62,0.0
+VOY-10037,9800003,King Abdullah Port,Port of Cape Town,4487.4,353.3,12.7,43700.0,1098.62,1.5
+VOY-10038,9800003,Port of Durban,Port of Mundra,4840.0,336.1,14.4,50100.0,1587.61,24.0
+VOY-10039,9800003,Port of Salalah,Port of Chennai,1924.4,139.4,13.8,38500.0,514.4,0.0
+VOY-10040,9800003,Port of Savannah,Port of Santos,4888.8,381.9,12.8,37700.0,1129.27,12.0
+VOY-10041,9800003,Port of Klang,Port of Durban,5602.2,397.3,14.1,46300.0,1679.42,3.0
+VOY-10042,9800004,Port of Mundra,Port of Kaohsiung,3484.2,288.0,12.1,18100.0,212.58,24.0
+VOY-10043,9800004,Port of Klang,Port of Shenzhen,1732.0,128.3,13.5,19100.0,129.92,0.0
+VOY-10044,9800004,Port of Long Beach,Port of Rotterdam,6059.9,480.9,12.6,25900.0,450.27,3.0
+VOY-10045,9800004,Port of Tangier Med,Port of Felixstowe,1260.7,99.3,12.7,22400.0,91.09,0.0
+VOY-10046,9800004,Port of Ningbo-Zhoushan,Port of Mundra,3497.4,293.9,11.9,20800.0,211.96,3.0
+VOY-10047,9800004,Port of Algeciras,Port of Busan,7285.3,597.2,12.2,23700.0,496.44,0.0
+VOY-10048,9800004,Port of Tanjung Pelepas,Port of Hamburg,6830.7,564.5,12.1,25200.0,451.61,24.0
+VOY-10049,9800004,Port of Antwerp-Bruges,Port of Piraeus,1423.9,102.4,13.9,22900.0,125.79,1.5
+VOY-10050,9800004,Port of Antwerp-Bruges,Port of Buenos Aires,7650.8,602.4,12.7,24300.0,567.9,0.0
+VOY-10051,9800004,Port of Santos,Port of Le Havre,6322.9,448.4,14.1,18800.0,521.56,1.5
+VOY-10052,9800005,Port of Colombo,Port of Valencia,5859.7,320.2,18.3,150500.0,1122.1,12.0
+VOY-10053,9800005,Port of Algeciras,Port of Chennai,5923.3,352.6,16.8,152800.0,937.65,6.5
+VOY-10054,9800005,Port of Shenzhen,Jawaharlal Nehru Port (JNPT),2888.8,165.1,17.5,150100.0,510.9,0.0
+VOY-10055,9800005,Port of Klang,Port of Ningbo-Zhoushan,2473.5,128.2,19.3,150900.0,515.7,0.0
+VOY-10056,9800005,Port of Colombo,Port of Felixstowe,5814.7,338.1,17.2,144800.0,915.46,24.0
+VOY-10057,9800005,Port of Buenos Aires,Port of Felixstowe,7583.8,416.7,18.2,185600.0,1612.1,12.0
+VOY-10058,9800005,Port of Vancouver,Port of Shanghai,6091.1,366.9,16.6,192400.0,1110.49,6.5
+VOY-10059,9800005,Port of Tanjung Pelepas,Port of Colon (Panama),12664.1,656.2,19.3,163900.0,2789.35,0.0
+VOY-10060,9800005,Port of Tanjung Pelepas,Port of Port Said,5502.6,327.5,16.8,183500.0,947.25,3.0
+VOY-10061,9800005,Port of Busan,Port of Los Angeles,6504.1,373.8,17.4,206500.0,1252.27,6.5
+VOY-10062,9800006,Port of Tanjung Pelepas,Port of Chennai,1940.6,109.0,17.8,113200.0,747.11,0.0
+VOY-10063,9800006,Port of Kaohsiung,Port of Santos,12582.7,699.0,18.0,92200.0,4488.65,0.0
+VOY-10064,9800006,Port of Genoa,Port of Antwerp-Bruges,560.0,30.4,18.4,111600.0,240.19,1.5
+VOY-10065,9800006,Port of Melbourne,Port of Klang,4303.8,243.2,17.7,87000.0,1511.76,0.0
+VOY-10066,9800006,Port of Klang,Port of Shanghai,2550.6,154.6,16.5,97200.0,834.72,1.5
+VOY-10067,9800006,Jawaharlal Nehru Port (JNPT),Port of Singapore,2630.4,156.6,16.8,89700.0,787.85,24.0
+VOY-10068,9800006,Port of Genoa,Port of Busan,6280.4,341.3,18.4,85800.0,2406.37,24.0
+VOY-10069,9800006,Port of Valencia,Port of Singapore,7512.6,429.3,17.5,98200.0,2727.63,6.5
+VOY-10070,9800006,Port of Rotterdam,Port of Mundra,4282.6,226.6,18.9,83100.0,1588.13,6.5
+VOY-10071,9800006,Jawaharlal Nehru Port (JNPT),Port of Shenzhen,2888.8,177.2,16.3,117800.0,1006.14,3.0
+VOY-10072,9800007,Port of Kaohsiung,Port of Mundra,3484.2,211.2,16.5,60300.0,1820.4,0.0
+VOY-10073,9800007,Port of Ningbo-Zhoushan,Port of Klang,2473.5,136.7,18.1,65300.0,1638.08,0.0
+VOY-10074,9800007,Port of Hong Kong,Port of Los Angeles,7876.7,423.5,18.6,78700.0,5876.88,0.0
+VOY-10075,9800007,Port of Salalah,Port of Shenzhen,4236.1,220.6,19.2,54500.0,2862.84,12.0
+VOY-10076,9800007,Port of Colombo,Port of Vancouver,9029.7,507.3,17.8,73900.0,5554.52,24.0
+VOY-10077,9800007,Port of Port Said,Port of Tangier Med,2374.4,127.7,18.6,61600.0,1491.51,0.0
+VOY-10078,9800007,Port of Cape Town,Port of Durban,858.0,44.5,19.3,57900.0,565.72,12.0
+VOY-10079,9800007,Port of Valencia,Port of Tangier Med,406.1,22.4,18.1,67400.0,271.9,0.0
+VOY-10080,9800007,Port of Long Beach,Port of Tangier Med,6470.3,385.1,16.8,66600.0,3692.42,0.0
+VOY-10081,9800007,Port of Tanjung Pelepas,Port of Rotterdam,7092.4,387.6,18.3,74600.0,4929.54,6.5
+VOY-10082,9800007,Port of Algeciras,Port of Piraeus,1741.6,92.6,18.8,60600.0,1108.29,0.0
+VOY-10083,9800007,Port of Mundra,Port of New York & New Jersey,8109.4,471.5,17.2,58000.0,4357.87,0.0
+VOY-10084,9800007,Port of Sydney,Port of Tokyo,5282.0,314.4,16.8,55300.0,2475.3,24.0
+VOY-10085,9800008,Port of Ningbo-Zhoushan,Port of Mundra,3497.4,202.2,17.3,66200.0,1970.13,0.0
+VOY-10086,9800008,Port of Busan,Port of Los Angeles,6504.1,367.5,17.7,63600.0,3734.03,0.0
+VOY-10087,9800008,Port of Tangier Med,Port of Chennai,5928.9,348.8,17.0,52100.0,2862.68,3.0
+VOY-10088,9800008,Port of Hamburg,Port of Sydney,10986.5,646.3,17.0,60700.0,5937.5,0.0
+VOY-10089,9800008,Port of New York & New Jersey,Port of Tokyo,7324.3,466.5,15.7,47400.0,2825.08,12.0
+VOY-10090,9800008,Port of Colombo,Port of Mundra,1401.7,88.2,15.9,54400.0,570.8,6.5
+VOY-10091,9800008,Port of Salalah,Port of Tanjung Pelepas,3838.0,246.0,15.6,52600.0,1515.22,6.5
+VOY-10092,9800008,Port of Colombo,Port of Buenos Aires,9958.4,559.5,17.8,52800.0,5564.57,1.5
+VOY-10093,9800008,Port of Singapore,Port of Vancouver,8656.1,491.8,17.6,48700.0,4195.29,3.0
+VOY-10094,9800008,Port of Genoa,Port of Shanghai,6199.4,385.1,16.1,63100.0,2910.14,6.5
+VOY-10095,9800008,Port of Singapore,Port of Jebel Ali (Dubai),3952.9,238.1,16.6,62300.0,1850.16,6.5
+VOY-10096,9800008,Port of Cape Town,Port of Algeciras,5518.2,315.3,17.5,59600.0,2842.94,6.5
+VOY-10097,9800008,Port of Melbourne,Port of Genoa,11004.4,658.9,16.7,58200.0,5610.99,12.0
+VOY-10098,9800008,Port of Le Havre,Port of Tangier Med,1066.3,62.0,17.2,47800.0,523.36,6.5
+VOY-10099,9800009,Port of Chennai,Port of Jebel Ali (Dubai),1994.6,130.4,15.3,41300.0,629.74,0.0
+VOY-10100,9800009,Port of Kaohsiung,Port of Hamburg,6241.0,380.5,16.4,28400.0,1802.83,12.0
+VOY-10101,9800009,Port of Hamburg,Port of Vancouver,5240.8,349.4,15.0,39700.0,1491.21,6.5
+VOY-10102,9800009,Port of Colon (Panama),Port of Kaohsiung,10686.1,703.0,15.2,32200.0,2792.2,12.0
+VOY-10103,9800009,Jawaharlal Nehru Port (JNPT),Port of Ningbo-Zhoushan,3394.9,223.3,15.2,32700.0,971.07,12.0
+VOY-10104,9800009,Port of Chennai,Port of Le Havre,5533.3,357.0,15.5,37700.0,1782.32,12.0
+VOY-10105,9800009,Port of Sydney,Port of Cape Town,7432.3,442.4,16.8,37600.0,2877.54,0.0
+VOY-10106,9800009,Port of Le Havre,Port of Algeciras,1047.2,69.8,15.0,37600.0,307.51,0.0
+VOY-10107,9800009,Port of Port Said,Port of Santos,6999.1,443.0,15.8,30900.0,2104.81,1.5
+VOY-10108,9800009,Port of Port Said,Port of Vancouver,7244.5,426.1,17.0,28700.0,2322.95,1.5
+VOY-10109,9800009,Port of Kaohsiung,Port of Busan,1103.2,64.5,17.1,29300.0,387.36,0.0
+VOY-10110,9800009,Port of Sydney,Port of Busan,5410.2,342.4,15.8,32400.0,1652.91,0.0
+VOY-10111,9800009,Port of Valencia,Port of Vancouver,5847.3,384.7,15.2,34400.0,1647.52,24.0
+VOY-10112,9800010,King Abdullah Port,Port of Singapore,4973.5,340.7,14.6,18700.0,859.76,3.0
+VOY-10113,9800010,Port of Santos,Port of Vancouver,7496.0,517.0,14.5,16700.0,1174.65,0.0
+VOY-10114,9800010,Port of Singapore,Port of Ningbo-Zhoushan,2488.5,150.8,16.5,15700.0,534.15,24.0
+VOY-10115,9800010,Port of Genoa,Port of Tangier Med,1044.2,66.1,15.8,16200.0,193.28,6.5
+VOY-10116,9800010,Port of Algeciras,Port of Tangier Med,19.2,1.2,15.5,21400.0,3.85,3.0
+VOY-10117,9800010,Port of Yokohama,Port of Durban,9077.2,581.9,15.6,15400.0,1592.56,0.0
+VOY-10118,9800010,Port of Yokohama,Port of Cape Town,9934.8,675.8,14.7,21200.0,1919.35,0.0
+VOY-10119,9800010,Port of Busan,Port of Melbourne,5588.7,375.1,14.9,16700.0,899.77,3.0
+VOY-10120,9800010,Port of Kaohsiung,Port of Cape Town,8395.2,559.7,15.0,16000.0,1496.52,3.0
+VOY-10121,9800010,Port of New York & New Jersey,Port of Houston,1539.8,91.1,16.9,18600.0,375.09,0.0
+VOY-10122,9800010,Port of Hong Kong,Port of Long Beach,7878.9,471.8,16.7,17700.0,1818.49,12.0
+VOY-10123,9800010,Port of Buenos Aires,Port of Cape Town,4636.7,289.8,16.0,18900.0,981.81,0.0
+VOY-10124,9800010,Port of Port Said,Port of Kaohsiung,5768.9,365.1,15.8,15900.0,1112.57,0.0
+VOY-10125,9800011,Port of Chennai,Port of Le Havre,5533.3,389.7,14.2,176200.0,1944.14,0.0
+VOY-10126,9800011,Port of Singapore,Port of Shenzhen,1760.2,134.4,13.1,257300.0,635.72,6.5
+VOY-10127,9800011,Port of Melbourne,Port of Vancouver,8916.8,632.4,14.1,251700.0,3392.87,0.0
+VOY-10128,9800011,Port of Rotterdam,Port of Sydney,11264.6,816.3,13.8,252900.0,4575.66,0.0
+VOY-10129,9800011,Port of Hamburg,Port of Santos,6864.9,460.7,14.9,256300.0,3277.03,0.0
+VOY-10130,9800011,Port of Colon (Panama),Port of Cape Town,7661.3,576.0,13.3,214300.0,2535.0,12.0
+VOY-10131,9800011,Port of Kaohsiung,Port of Los Angeles,7561.4,504.1,15.0,257100.0,3673.33,0.0
+VOY-10132,9800011,Port of Santos,Jawaharlal Nehru Port (JNPT),9282.7,606.7,15.3,218800.0,4344.04,1.5
+VOY-10133,9800011,Jawaharlal Nehru Port (JNPT),Port of Long Beach,9472.9,671.8,14.1,240500.0,3745.18,0.0
+VOY-10134,9800011,Port of Tangier Med,Port of Vancouver,5891.8,382.6,15.4,240800.0,2893.49,0.0
+VOY-10135,9800012,Port of Los Angeles,Port of Tokyo,5965.1,448.5,13.3,116900.0,1194.52,0.0
+VOY-10136,9800012,Port of Singapore,Port of Busan,3093.5,236.1,13.1,122100.0,601.3,1.5
+VOY-10137,9800012,Port of Chennai,Port of Durban,4801.5,369.3,13.0,122500.0,926.18,1.5
+VOY-10138,9800012,Port of Hamburg,Port of Sydney,10986.5,796.1,13.8,119100.0,2370.23,24.0
+VOY-10139,9800012,Port of Rotterdam,Port of Shanghai,6025.3,439.8,13.7,132900.0,1298.14,0.0
+VOY-10140,9800012,Port of Port Said,Port of Ningbo-Zhoushan,5586.7,407.8,13.7,120500.0,1127.49,0.0
+VOY-10141,9800012,Port of Singapore,Port of Tangier Med,7864.4,527.8,14.9,116300.0,1798.24,3.0
+VOY-10142,9800012,Port of Mundra,Port of Busan,3947.5,278.0,14.2,113000.0,838.97,12.0
+VOY-10143,9800012,Port of Yokohama,Port of Los Angeles,5975.5,401.0,14.9,123500.0,1453.37,12.0
+VOY-10144,9800012,Port of Buenos Aires,Port of Vancouver,7626.1,537.0,14.2,116400.0,1616.11,24.0
+VOY-10145,9800012,Port of Sydney,Port of Shanghai,5319.5,352.3,15.1,129400.0,1329.65,12.0
+VOY-10146,9800012,Port of Algeciras,Port of Valencia,391.2,27.2,14.4,129400.0,92.86,0.0
+VOY-10147,9800012,Port of Cape Town,Port of Hamburg,6588.0,467.2,14.1,95700.0,1252.56,1.5
+VOY-10148,9800013,Port of Cape Town,Port of Houston,9350.3,649.3,14.4,85200.0,4332.91,6.5
+VOY-10149,9800013,Port of Chennai,Port of Durban,4801.5,353.1,13.6,71700.0,1914.56,24.0
+VOY-10150,9800013,King Abdullah Port,Port of Klang,4753.4,330.1,14.4,76800.0,2162.12,24.0
+VOY-10151,9800013,Port of Tanjung Pelepas,Port of Cape Town,6508.3,464.9,14.0,76300.0,2966.32,0.0
+VOY-10152,9800013,Port of Genoa,Port of Colon (Panama),6202.7,427.8,14.5,73100.0,2831.9,24.0
+VOY-10153,9800013,King Abdullah Port,Port of New York & New Jersey,6860.8,504.5,13.6,69200.0,2681.76,3.0
+VOY-10154,9800013,Port of Piraeus,Port of Jebel Ali (Dubai),2218.1,169.3,13.1,73900.0,846.07,3.0
+VOY-10155,9800013,Port of Yokohama,Port of Felixstowe,6401.5,454.0,14.1,67300.0,2612.18,6.5
+VOY-10156,9800013,Jawaharlal Nehru Port (JNPT),Port of Piraeus,3503.7,236.7,14.8,74700.0,1681.99,12.0
+VOY-10157,9800013,Port of Salalah,Port of Buenos Aires,8836.0,617.9,14.3,66600.0,3631.58,0.0
+VOY-10158,9800013,Port of Tangier Med,Port of Houston,5477.6,365.2,15.0,84800.0,2815.62,0.0
+VOY-10159,9800013,Port of Yokohama,Port of Ningbo-Zhoushan,1215.2,91.4,13.3,62900.0,424.6,12.0
+VOY-10160,9800014,Port of Salalah,Port of Santos,7953.4,580.5,13.7,27100.0,817.0,0.0
+VOY-10161,9800014,Port of Jebel Ali (Dubai),Port of Vancouver,7932.0,558.6,14.2,31100.0,859.24,1.5
+VOY-10162,9800014,Port of Singapore,Port of Santos,10754.9,752.1,14.3,34000.0,1249.07,0.0
+VOY-10163,9800014,Port of Antwerp-Bruges,Port of Long Beach,6094.8,468.8,13.0,37200.0,633.69,24.0
+VOY-10164,9800014,Port of Colombo,Port of Tokyo,4620.8,342.3,13.5,31900.0,499.45,0.0
+VOY-10165,9800014,Port of Tanjung Pelepas,Port of Genoa,6929.5,491.5,14.1,38600.0,818.75,1.5
+VOY-10166,9800014,Port of Ningbo-Zhoushan,Port of Hamburg,5838.8,420.1,13.9,36500.0,679.88,6.5
+VOY-10167,9800014,Port of Port Said,Jawaharlal Nehru Port (JNPT),2894.2,235.3,12.3,39300.0,269.25,3.0
+VOY-10168,9800014,Port of Tokyo,Port of Santos,12548.1,980.3,12.8,33900.0,1244.21,3.0
+VOY-10169,9800014,Port of Le Havre,Port of Genoa,591.7,43.5,13.6,33000.0,63.12,0.0
+VOY-10170,9800014,Port of Port Said,Port of Yokohama,6352.0,470.5,13.5,28500.0,650.86,0.0
+VOY-10171,9800014,Port of Shanghai,Port of Yokohama,1180.0,86.1,13.7,29100.0,118.61,0.0
+VOY-10172,9800014,Port of Shenzhen,Port of Chennai,2509.7,194.6,12.9,30300.0,242.8,3.0
+VOY-10173,9800015,Port of Durban,Port of Ningbo-Zhoushan,7862.4,462.5,17.0,17000.0,801.15,12.0
+VOY-10174,9800015,Port of Santos,Port of Piraeus,6767.4,369.8,18.3,17800.0,819.11,0.0
+VOY-10175,9800015,Port of Algeciras,Port of Tanjung Pelepas,7836.2,430.6,18.2,15900.0,890.08,6.5
+VOY-10176,9800015,Port of Cape Town,Port of Durban,858.0,49.9,17.2,18600.0,93.38,12.0
+VOY-10177,9800015,Port of Sydney,Port of Yokohama,5265.0,297.5,17.7,17500.0,583.13,3.0
+VOY-10178,9800015,Port of Genoa,Port of Shanghai,6199.4,373.5,16.6,17300.0,647.39,3.0
+VOY-10179,9800015,Port of Vancouver,Port of Salalah,8535.0,476.8,17.9,17400.0,1010.69,12.0
+VOY-10180,9800015,Port of Rotterdam,Port of Kaohsiung,6518.3,404.9,16.1,21200.0,652.99,1.5
+VOY-10181,9800015,Port of Rotterdam,Port of Singapore,7110.6,411.0,17.3,15600.0,702.98,6.5
+VOY-10182,9800015,Port of Hamburg,Jawaharlal Nehru Port (JNPT),4419.7,272.8,16.2,20300.0,472.82,0.0
+VOY-10183,9800015,Port of Singapore,Port of Mundra,2967.0,174.5,17.0,19900.0,351.03,0.0
+VOY-10184,9800016,Port of Long Beach,Port of Mundra,9223.2,512.4,18.0,11400.0,815.26,24.0
+VOY-10185,9800016,Port of New York & New Jersey,Port of Kaohsiung,8651.6,521.2,16.6,9800.0,598.69,1.5
+VOY-10186,9800016,Port of Cape Town,Port of Hamburg,6588.0,387.5,17.0,11700.0,504.08,6.5
+VOY-10187,9800016,Port of Kaohsiung,Port of Sydney,4780.3,281.2,17.0,9900.0,351.09,6.5
+VOY-10188,9800016,Port of Klang,Port of Rotterdam,6896.6,442.1,15.6,9100.0,397.33,24.0
+VOY-10189,9800016,Port of Valencia,Port of Cape Town,5660.9,362.9,15.6,8900.0,316.26,0.0
+VOY-10190,9800016,Port of Savannah,Port of Tangier Med,4590.9,296.2,15.5,9900.0,258.57,24.0
+VOY-10191,9800016,Port of Los Angeles,King Abdullah Port,8986.1,558.1,16.1,9600.0,558.43,1.5
+VOY-10192,9800016,Port of Hamburg,Port of Tanjung Pelepas,6830.7,421.6,16.2,12400.0,511.2,3.0
+VOY-10193,9800016,Port of Yokohama,Port of Los Angeles,5975.5,380.6,15.7,11100.0,394.2,24.0
+VOY-10194,9800016,Port of Melbourne,Port of Colombo,5640.3,348.2,16.2,12500.0,397.85,6.5
+VOY-10195,9800016,Port of Chennai,Port of New York & New Jersey,9093.5,541.3,16.8,8700.0,577.04,1.5
+VOY-10196,9800016,Port of Felixstowe,Port of Hong Kong,6418.6,358.6,17.9,8900.0,470.76,0.0
+VOY-10197,9800016,Port of Le Havre,Port of Ningbo-Zhoushan,6389.1,380.3,16.8,10800.0,489.71,0.0
+VOY-10198,9800016,Port of Hamburg,Port of Sydney,10986.5,657.9,16.7,10700.0,744.37,12.0
+VOY-10199,9800017,Port of Rotterdam,Port of Busan,6031.6,427.8,14.1,18200.0,1002.91,12.0
+VOY-10200,9800017,Port of Rotterdam,Jawaharlal Nehru Port (JNPT),4652.2,296.3,15.7,23500.0,1073.79,0.0
+VOY-10201,9800017,Port of Tokyo,Port of Houston,7249.2,493.1,14.7,18100.0,1270.95,24.0
+VOY-10202,9800017,Port of Melbourne,Port of Salalah,7582.4,541.6,14.0,20500.0,1223.27,24.0
+VOY-10203,9800017,Port of Genoa,Port of Algeciras,1029.4,65.6,15.7,22300.0,229.1,0.0
+VOY-10204,9800017,King Abdullah Port,Port of Chennai,3016.0,218.6,13.8,20600.0,503.17,3.0
+VOY-10205,9800017,Port of Algeciras,Port of Tangier Med,19.2,1.3,15.3,19400.0,4.15,0.0
+VOY-10206,9800017,Port of Cape Town,Port of Buenos Aires,4636.7,313.3,14.8,24000.0,979.56,0.0
+VOY-10207,9800017,Port of Shenzhen,Port of Vancouver,6909.3,466.8,14.8,20100.0,1262.29,0.0
+VOY-10208,9800017,Port of Vancouver,Port of Chennai,8578.7,557.1,15.4,23100.0,1852.88,0.0
+VOY-10209,9800017,Port of Hong Kong,Port of Vancouver,6919.1,467.5,14.8,22900.0,1360.22,3.0
+VOY-10210,9800018,Port of Port Said,Port of Salalah,1828.3,141.7,12.9,19900.0,117.18,3.0
+VOY-10211,9800018,Port of Cape Town,Port of Los Angeles,10829.9,814.3,13.3,17700.0,701.78,6.5
+VOY-10212,9800018,Port of New York & New Jersey,Port of Antwerp-Bruges,3966.6,296.0,13.4,18700.0,274.52,0.0
+VOY-10213,9800018,Port of Savannah,Port of Yokohama,7686.8,553.0,13.9,14900.0,477.73,24.0
+VOY-10214,9800018,Port of Buenos Aires,Port of Los Angeles,6634.4,484.3,13.7,19000.0,493.0,0.0
+VOY-10215,9800018,Port of Klang,King Abdullah Port,4753.4,360.1,13.2,15900.0,289.3,24.0
+VOY-10216,9800018,Port of Hong Kong,Port of Los Angeles,7876.7,656.4,12.0,16900.0,402.92,3.0
+VOY-10217,9800018,Port of Colombo,Port of Antwerp-Bruges,5667.4,410.7,13.8,20300.0,437.08,1.5
+VOY-10218,9800018,Port of Le Havre,Port of New York & New Jersey,3819.9,278.8,13.7,15700.0,261.24,0.0
+VOY-10219,9800018,Port of Hong Kong,Port of Sydney,4978.1,366.0,13.6,19200.0,337.36,6.5
+VOY-10220,9800018,Port of Le Havre,Port of Vancouver,5244.0,429.8,12.2,15100.0,252.56,24.0
+VOY-10221,9800019,Port of Hong Kong,Port of Jebel Ali (Dubai),4035.7,257.1,15.7,31500.0,1178.45,0.0
+VOY-10222,9800019,Port of Cape Town,Port of Colon (Panama),7661.3,514.2,14.9,29200.0,1954.84,24.0
+VOY-10223,9800019,Port of Colon (Panama),Port of Shenzhen,10904.0,767.9,14.2,28900.0,2740.3,12.0
+VOY-10224,9800019,Port of Buenos Aires,Jawaharlal Nehru Port (JNPT),10080.2,725.2,13.9,37700.0,2518.63,6.5
+VOY-10225,9800019,Port of Houston,Port of Vancouver,2151.9,141.6,15.2,37200.0,674.9,0.0
+VOY-10226,9800019,Port of Rotterdam,Port of Melbourne,11193.5,823.1,13.6,32300.0,2676.24,0.0
+VOY-10227,9800019,Port of Yokohama,Port of Colon (Panama),9134.3,657.1,13.9,34900.0,2172.53,0.0
+VOY-10228,9800019,Port of Colon (Panama),Port of Long Beach,3209.5,227.6,14.1,35700.0,826.48,0.0
+VOY-10229,9800019,Port of Mundra,Port of Le Havre,4484.0,334.6,13.4,27700.0,940.56,0.0
+VOY-10230,9800019,Port of Houston,Port of Yokohama,7262.0,541.9,13.4,31400.0,1685.35,3.0
+VOY-10231,9800019,Jawaharlal Nehru Port (JNPT),Port of Los Angeles,9473.8,686.5,13.8,27900.0,2073.63,24.0
+VOY-10232,9800019,Jawaharlal Nehru Port (JNPT),Port of Algeciras,5239.9,344.7,15.2,28800.0,1443.06,1.5
+VOY-10233,9800019,Port of Hamburg,Port of Houston,5611.8,371.6,15.1,32400.0,1576.12,6.5
+VOY-10234,9800019,Port of Mundra,Port of Cape Town,5615.9,419.1,13.4,27000.0,1136.55,6.5
+VOY-10235,9800020,Port of Hong Kong,Port of Valencia,6992.3,495.9,14.1,139800.0,723.8,0.0
+VOY-10236,9800020,Port of Port Said,Port of Antwerp-Bruges,2148.6,146.2,14.7,172500.0,256.48,24.0
+VOY-10237,9800020,Port of Colon (Panama),Port of Sydney,9548.5,707.3,13.5,170600.0,932.98,12.0
+VOY-10238,9800020,Port of Salalah,Port of Mundra,1192.1,88.3,13.5,163700.0,112.98,0.0
+VOY-10239,9800020,Port of Houston,Port of Mundra,9417.2,687.4,13.7,133000.0,828.51,0.0
+VOY-10240,9800020,Port of Vancouver,Port of Durban,11439.9,841.2,13.6,169100.0,1167.38,0.0
+VOY-10241,9800020,Port of Antwerp-Bruges,Port of Mundra,4282.3,322.0,13.3,154000.0,397.57,3.0
+VOY-10242,9800020,Port of Colombo,Port of Busan,3990.1,273.3,14.6,164000.0,448.15,0.0
+VOY-10243,9800020,Port of Cape Town,Port of Los Angeles,10829.9,726.8,14.9,141700.0,1300.78,6.5
+VOY-10244,9800020,Port of Vancouver,Port of Tangier Med,5891.8,398.1,14.8,147100.0,659.91,6.5
+VOY-10245,9800020,Port of Yokohama,Port of Ningbo-Zhoushan,1215.2,93.5,13.0,156400.0,103.44,24.0
+VOY-10246,9800020,Jawaharlal Nehru Port (JNPT),Port of Singapore,2630.4,199.3,13.2,151800.0,233.74,0.0
+VOY-10247,9800020,Port of Houston,Port of Tokyo,7249.2,549.2,13.2,137800.0,618.64,0.0
+VOY-10248,9800021,Port of Buenos Aires,Port of Chennai,10276.1,708.7,14.5,68000.0,1996.43,12.0
+VOY-10249,9800021,Port of Colon (Panama),Port of Ningbo-Zhoushan,10182.5,722.2,14.1,58300.0,1680.68,0.0
+VOY-10250,9800021,Port of Colon (Panama),Port of Sydney,9548.5,707.3,13.5,61600.0,1506.63,24.0
+VOY-10251,9800021,Port of Jebel Ali (Dubai),Port of Rotterdam,3493.8,234.5,14.9,57000.0,652.42,1.5
+VOY-10252,9800021,Port of Antwerp-Bruges,Port of Vancouver,5253.7,352.6,14.9,59600.0,1001.74,0.0
+VOY-10253,9800021,Port of Los Angeles,Port of Jebel Ali (Dubai),9073.9,593.1,15.3,48900.0,1685.35,0.0
+VOY-10254,9800021,Port of Tokyo,Port of Algeciras,7594.6,503.0,15.1,68600.0,1586.25,0.0
+VOY-10255,9800021,Port of Melbourne,King Abdullah Port,8687.2,564.1,15.4,62900.0,1805.81,0.0
+VOY-10256,9800021,Port of Houston,Port of New York & New Jersey,1539.8,114.1,13.5,60000.0,234.19,6.5
+VOY-10257,9800021,Port of Houston,Port of Chennai,10278.3,689.8,14.9,53700.0,1741.65,24.0
+VOY-10258,9800021,Port of Genoa,Port of Singapore,6949.5,460.2,15.1,50700.0,1240.83,0.0
+VOY-10259,9800021,Port of Cape Town,Port of Yokohama,9934.8,645.1,15.4,57000.0,1909.77,12.0
+VOY-10260,9800021,Port of Shanghai,Port of Sydney,5319.5,369.4,14.4,58200.0,879.66,0.0
+VOY-10261,9800021,Port of Ningbo-Zhoushan,Port of Colombo,3402.3,257.8,13.2,69300.0,544.07,1.5
+VOY-10262,9800022,Port of Cape Town,Port of Ningbo-Zhoushan,8719.8,593.2,14.7,41400.0,1223.19,0.0
+VOY-10263,9800022,Port of Jebel Ali (Dubai),Port of Busan,4759.1,366.1,13.0,47600.0,555.14,3.0
+VOY-10264,9800022,Port of Tokyo,Port of Colon (Panama),9122.0,675.7,13.5,39900.0,1118.75,1.5
+VOY-10265,9800022,Port of Santos,Port of Port Said,6999.1,534.3,13.1,46100.0,837.85,3.0
+VOY-10266,9800022,Port of Tokyo,Port of Tangier Med,7612.7,500.8,15.2,37600.0,1069.03,24.0
+VOY-10267,9800022,Port of Shanghai,Port of Buenos Aires,13255.8,895.7,14.8,45000.0,1892.22,12.0
+VOY-10268,9800022,Port of Colombo,Port of Colon (Panama),11563.8,826.0,14.0,38300.0,1394.86,24.0
+VOY-10269,9800022,King Abdullah Port,Port of Tanjung Pelepas,4950.6,369.4,13.4,35300.0,553.2,1.5
+VOY-10270,9800022,Port of Sydney,Port of Felixstowe,11393.3,863.1,13.2,44500.0,1346.65,0.0
+VOY-10271,9800022,Port of Melbourne,King Abdullah Port,8687.2,625.0,13.9,42700.0,1130.02,1.5
+VOY-10272,9800023,Port of Long Beach,Port of Singapore,9546.7,740.1,12.9,23600.0,1540.57,0.0
+VOY-10273,9800023,Port of Shenzhen,Port of Tanjung Pelepas,1764.8,121.7,14.5,19900.0,321.17,1.5
+VOY-10274,9800023,Port of Piraeus,Port of Felixstowe,1572.5,110.0,14.3,20300.0,281.55,12.0
+VOY-10275,9800023,Port of Vancouver,Port of Buenos Aires,7626.1,600.5,12.7,23000.0,1145.79,6.5
+VOY-10276,9800023,Port of Shanghai,Port of Shenzhen,818.9,64.0,12.8,22100.0,120.61,0.0
+VOY-10277,9800023,Port of Shanghai,Port of Los Angeles,7057.1,538.7,13.1,24200.0,1120.42,0.0
+VOY-10278,9800023,Port of Port Said,Port of Genoa,1689.7,130.0,13.0,20600.0,244.6,12.0
+VOY-10279,9800023,Port of Colon (Panama),Port of Ningbo-Zhoushan,10182.5,707.1,14.4,24300.0,1947.98,12.0
+VOY-10280,9800023,Port of New York & New Jersey,Port of Tanjung Pelepas,10346.9,795.9,13.0,19900.0,1586.61,6.5
+VOY-10281,9800023,Port of Jebel Ali (Dubai),Port of Felixstowe,3634.9,250.7,14.5,29600.0,783.65,0.0
+VOY-10282,9800024,Port of Busan,Port of Long Beach,6506.2,346.1,18.8,159500.0,1270.5,12.0
+VOY-10283,9800024,Port of Shenzhen,Port of Tanjung Pelepas,1764.8,93.9,18.8,179500.0,365.49,0.0
+VOY-10284,9800024,Port of Sydney,Port of Valencia,11755.7,708.2,16.6,172200.0,1771.99,6.5
+VOY-10285,9800024,Port of Sydney,Jawaharlal Nehru Port (JNPT),6845.5,360.3,19.0,147300.0,1277.58,0.0
+VOY-10286,9800024,Port of Buenos Aires,Port of Jebel Ali (Dubai),9191.4,537.5,17.1,183700.0,1676.16,24.0
+VOY-10287,9800024,Port of Sydney,Port of Algeciras,12068.0,666.7,18.1,143200.0,2031.28,6.5
+VOY-10288,9800024,Port of Rotterdam,Port of Tokyo,6307.4,373.2,16.9,138100.0,928.63,24.0
+VOY-10289,9800024,Port of Durban,King Abdullah Port,3975.2,216.0,18.4,131100.0,728.74,0.0
+VOY-10290,9800024,Port of Jebel Ali (Dubai),Port of Hamburg,3296.0,175.3,18.8,153200.0,648.75,0.0
+VOY-10291,9800024,Port of Algeciras,Port of Ningbo-Zhoushan,7305.4,440.1,16.6,136500.0,1062.38,6.5
+VOY-10292,9800024,Port of Vancouver,Port of Buenos Aires,7626.1,399.3,19.1,135500.0,1507.79,12.0
+VOY-10293,9800024,Port of Salalah,Port of Durban,3886.2,207.8,18.7,187700.0,810.44,12.0
+VOY-10294,9800024,Port of Houston,Port of Felixstowe,5315.9,320.2,16.6,160000.0,868.44,0.0
+VOY-10295,9800024,Port of Houston,Port of Savannah,934.9,55.0,17.0,159500.0,142.66,1.5
+VOY-10296,9800025,Port of Santos,Port of Hong Kong,12158.9,643.3,18.9,92800.0,4998.78,3.0
+VOY-10297,9800025,Port of Cape Town,Port of Colon (Panama),7661.3,470.0,16.3,107400.0,2483.09,12.0
+VOY-10298,9800025,Port of Colon (Panama),Port of Savannah,1707.2,90.8,18.8,122200.0,887.92,1.5
+VOY-10299,9800025,Port of Piraeus,Port of Durban,5114.8,270.6,18.9,115800.0,2584.61,6.5
+VOY-10300,9800025,Port of Chennai,Port of Jebel Ali (Dubai),1994.6,113.3,17.6,110600.0,792.74,0.0
+VOY-10301,9800025,Port of Houston,Port of Kaohsiung,8809.8,540.5,16.3,113500.0,3116.12,6.5
+VOY-10302,9800025,Port of Jebel Ali (Dubai),Port of Le Havre,3658.0,221.7,16.5,119800.0,1280.02,0.0
+VOY-10303,9800025,Port of Kaohsiung,Port of Melbourne,4858.4,266.9,18.2,109800.0,2234.41,0.0
+VOY-10304,9800025,Port of Singapore,Port of Hamburg,6848.5,366.2,18.7,87900.0,2742.79,1.5
+VOY-10305,9800025,Port of Singapore,Port of Shenzhen,1760.2,110.0,16.0,112400.0,585.02,3.0
+VOY-10306,9800025,Port of Piraeus,Port of Los Angeles,7509.2,449.7,16.7,92800.0,2372.65,0.0
+VOY-10307,9800025,Port of Yokohama,Port of Colombo,4616.2,283.2,16.3,123500.0,1602.0,0.0
+VOY-10308,9800025,Port of Algeciras,Port of Colon (Panama),5401.0,296.8,18.2,115900.0,2519.12,0.0
+VOY-10309,9800026,Port of New York & New Jersey,Port of Melbourne,11252.8,574.1,19.6,88900.0,4036.87,24.0
+VOY-10310,9800026,Port of Cape Town,Port of Ningbo-Zhoushan,8719.8,487.1,17.9,82300.0,2531.11,3.0
+VOY-10311,9800026,Port of Vancouver,Port of Hong Kong,6919.1,351.2,19.7,92900.0,2555.57,24.0
+VOY-10312,9800026,Port of Colombo,Port of Algeciras,6165.4,354.3,17.4,66200.0,1550.07,3.0
+VOY-10313,9800026,Port of Chennai,Port of Mundra,1050.4,58.4,18.0,93700.0,329.42,1.5
+VOY-10314,9800026,Port of Genoa,Port of Hong Kong,6357.5,324.4,19.6,81700.0,2056.99,0.0
+VOY-10315,9800026,Port of Durban,Port of Santos,5098.4,272.6,18.7,87300.0,1592.53,0.0
+VOY-10316,9800026,Port of Colon (Panama),King Abdullah Port,8428.2,492.9,17.1,65100.0,1961.21,0.0
+VOY-10317,9800026,Port of Busan,Port of Valencia,6903.8,399.1,17.3,89500.0,1843.37,12.0
+VOY-10318,9800026,Port of Shanghai,Port of Genoa,6199.4,350.2,17.7,95500.0,1868.06,3.0
+VOY-10319,9800026,Port of Salalah,Port of Buenos Aires,8836.0,453.1,19.5,73500.0,2792.25,24.0
+VOY-10320,9800026,Port of Tanjung Pelepas,Port of Shenzhen,1764.8,104.4,16.9,82600.0,430.06,0.0
+VOY-10321,9800026,Port of Klang,Port of Vancouver,8641.2,440.9,19.6,87100.0,2911.7,0.0
+VOY-10322,9800026,Port of Port Said,Port of Chennai,3568.8,195.0,18.3,84100.0,1101.33,0.0
+VOY-10323,9800026,Port of Tanjung Pelepas,Port of Piraeus,6094.7,356.4,17.1,81900.0,1559.9,0.0
+VOY-10324,9800027,Port of Colombo,Port of Rotterdam,5670.5,320.4,17.7,49100.0,1317.56,6.5
+VOY-10325,9800027,Port of Tangier Med,Port of Melbourne,11736.9,724.5,16.2,42900.0,2152.33,6.5
+VOY-10326,9800027,Port of Los Angeles,Port of Shanghai,7057.1,467.4,15.1,41400.0,1058.66,0.0
+VOY-10327,9800027,Port of Santos,Port of Antwerp-Bruges,6558.2,425.9,15.4,42000.0,1007.94,0.0
+VOY-10328,9800027,Port of Tangier Med,Port of Sydney,12070.8,697.7,17.3,59300.0,2794.15,0.0
+VOY-10329,9800027,Port of Salalah,Port of Piraeus,2543.1,165.1,15.4,40300.0,385.18,0.0
+VOY-10330,9800027,Port of Chennai,Port of Shenzhen,2509.7,158.8,15.8,47900.0,414.93,0.0
+VOY-10331,9800027,Port of Santos,Port of Mundra,9142.9,550.8,16.6,48900.0,1689.61,0.0
+VOY-10332,9800027,Port of Melbourne,Port of Klang,4303.8,257.7,16.7,59600.0,959.36,0.0
+VOY-10333,9800027,Port of Hamburg,Port of Hong Kong,6016.1,390.7,15.4,52800.0,1016.93,6.5
+VOY-10334,9800027,Port of Singapore,Port of New York & New Jersey,10353.3,601.9,17.2,48400.0,2127.52,3.0
+VOY-10335,9800027,King Abdullah Port,Port of Algeciras,3058.2,177.8,17.2,59200.0,695.3,0.0
+VOY-10336,9800027,Port of Tanjung Pelepas,Port of Genoa,6929.5,425.1,16.3,44100.0,1260.57,12.0
+VOY-10337,9800028,Port of Tokyo,Port of Cape Town,9940.3,667.1,14.9,24500.0,2304.75,1.5
+VOY-10338,9800028,King Abdullah Port,Port of New York & New Jersey,6860.8,401.2,17.1,24800.0,2132.7,12.0
+VOY-10339,9800028,Port of Hong Kong,Port of New York & New Jersey,8744.2,499.7,17.5,27900.0,2957.01,6.5
+VOY-10340,9800028,Port of Tokyo,Port of Klang,3611.4,212.4,17.0,29300.0,1180.74,24.0
+VOY-10341,9800028,Port of Singapore,Port of Houston,10802.2,683.7,15.8,26600.0,3109.71,6.5
+VOY-10342,9800028,Port of Piraeus,Port of Tanjung Pelepas,6094.7,356.4,17.1,25000.0,1838.65,24.0
+VOY-10343,9800028,Port of Felixstowe,Port of Vancouver,5127.3,320.5,16.0,31400.0,1546.42,3.0
+VOY-10344,9800028,Port of Long Beach,Port of Los Angeles,5.0,0.3,17.1,29300.0,1.78,1.5
+VOY-10345,9800028,Port of Valencia,Port of Singapore,7512.6,507.6,14.8,32700.0,1925.55,3.0
+VOY-10346,9800028,Port of Houston,Port of Colon (Panama),1876.8,116.6,16.1,25300.0,506.34,1.5
+VOY-10347,9800029,Port of Jebel Ali (Dubai),Jawaharlal Nehru Port (JNPT),1324.1,87.1,15.2,15900.0,110.05,12.0
+VOY-10348,9800029,Port of Santos,Port of Tanjung Pelepas,10741.1,631.8,17.0,14800.0,1079.84,12.0
+VOY-10349,9800029,Port of Colombo,Port of Durban,4470.2,272.6,16.4,16300.0,437.95,0.0
+VOY-10350,9800029,Port of Shanghai,Port of Piraeus,5770.0,356.2,16.2,15700.0,535.99,0.0
+VOY-10351,9800029,Port of Yokohama,Port of Tokyo,17.5,1.1,16.2,18100.0,1.88,0.0
+VOY-10352,9800029,Port of Savannah,Port of Tanjung Pelepas,10977.6,703.7,15.6,13800.0,927.5,1.5
+VOY-10353,9800029,King Abdullah Port,Port of Chennai,3016.0,197.1,15.3,17900.0,265.28,0.0
+VOY-10354,9800029,Port of Busan,Port of Savannah,8032.1,508.4,15.8,17900.0,768.28,0.0
+VOY-10355,9800029,Port of Piraeus,Port of Colombo,4455.7,266.8,16.7,13900.0,444.95,0.0
+VOY-10356,9800029,Port of Ningbo-Zhoushan,Port of Sydney,5225.6,357.9,14.6,19500.0,439.66,1.5
+VOY-10357,9800029,Port of Jebel Ali (Dubai),Port of Hong Kong,4035.7,243.1,16.6,15100.0,414.77,0.0
+VOY-10358,9800029,Port of Piraeus,Port of Shenzhen,5754.4,378.6,15.2,19000.0,529.88,0.0
+VOY-10359,9800030,Port of New York & New Jersey,Port of Tanjung Pelepas,10346.9,778.0,13.3,266000.0,4132.78,12.0
+VOY-10360,9800030,Port of Shenzhen,Port of Melbourne,5027.1,375.2,13.4,292600.0,1978.61,24.0
+VOY-10361,9800030,Port of Santos,Port of Buenos Aires,1120.7,76.8,14.6,284000.0,510.34,0.0
+VOY-10362,9800030,Port of Jebel Ali (Dubai),Port of Ningbo-Zhoushan,4382.2,284.6,15.4,214800.0,2151.11,24.0
+VOY-10363,9800030,Port of Yokohama,Port of Mundra,4588.5,345.0,13.3,262100.0,1792.79,24.0
+VOY-10364,9800030,Port of Port Said,Port of Santos,6999.1,496.4,14.1,271000.0,2909.98,12.0
+VOY-10365,9800030,Port of Tanjung Pelepas,Port of Hamburg,6830.7,464.7,14.7,254900.0,3248.15,0.0
+VOY-10366,9800030,Port of Houston,Port of Colombo,10734.3,807.1,13.3,257900.0,4206.95,24.0
+VOY-10367,9800030,Port of Savannah,Port of Antwerp-Bruges,4719.8,310.5,15.2,284900.0,2513.27,0.0
+VOY-10368,9800030,Jawaharlal Nehru Port (JNPT),Port of Genoa,4386.0,315.5,13.9,227400.0,1631.52,0.0
+VOY-10369,9800030,Port of Shanghai,Port of Long Beach,7059.1,461.4,15.3,249100.0,3576.9,24.0
+VOY-10370,9800031,Port of Singapore,Port of Long Beach,9546.7,712.4,13.4,124000.0,5030.68,1.5
+VOY-10371,9800031,Port of Los Angeles,Port of Yokohama,5975.5,388.0,15.4,105500.0,3564.17,0.0
+VOY-10372,9800031,Port of Cape Town,Port of Long Beach,10825.8,698.4,15.5,108000.0,7348.05,12.0
+VOY-10373,9800031,Port of Colombo,Port of Long Beach,10195.7,713.0,14.3,106300.0,5337.31,6.5
+VOY-10374,9800031,Port of Chennai,Port of Ningbo-Zhoushan,3123.7,221.5,14.1,121500.0,1834.73,0.0
+VOY-10375,9800031,Port of Sydney,Port of Salalah,7894.6,548.2,14.4,134400.0,5014.11,6.5
+VOY-10376,9800031,Port of Hamburg,Port of Los Angeles,6146.7,404.4,15.2,125600.0,3880.04,3.0
+VOY-10377,9800031,Port of Salalah,Port of Melbourne,7582.4,505.5,15.0,107000.0,4773.41,0.0
+VOY-10378,9800031,Port of Kaohsiung,Port of Yokohama,1587.0,113.4,14.0,102100.0,856.8,12.0
+VOY-10379,9800031,Port of Santos,Port of Hamburg,6864.9,451.6,15.2,113400.0,4460.27,0.0
+VOY-10380,9800031,Port of Algeciras,Port of Genoa,1029.4,70.0,14.7,118300.0,619.22,0.0
+VOY-10381,9800031,Port of Mundra,Port of Colon (Panama),10218.6,672.3,15.2,146700.0,7294.74,0.0
+VOY-10382,9800031,Port of Hong Kong,Port of Rotterdam,6294.8,476.9,13.2,106000.0,2853.82,3.0
+VOY-10383,9800031,Port of Tanjung Pelepas,Port of Algeciras,7836.2,593.7,13.2,124600.0,3661.28,1.5
+VOY-10384,9800032,Port of Ningbo-Zhoushan,Port of Port Said,5586.7,393.4,14.2,68800.0,1114.51,3.0
+VOY-10385,9800032,Jawaharlal Nehru Port (JNPT),Port of Yokohama,4536.4,312.9,14.5,87600.0,1043.4,3.0
+VOY-10386,9800032,Port of Vancouver,Port of Salalah,8535.0,601.1,14.2,67600.0,1537.35,0.0
+VOY-10387,9800032,Port of Le Havre,Port of Durban,6303.4,420.2,15.0,63100.0,1232.81,1.5
+VOY-10388,9800032,Port of Ningbo-Zhoushan,Port of Tanjung Pelepas,2494.9,189.0,13.2,89000.0,463.61,6.5
+VOY-10389,9800032,Port of Santos,Port of Algeciras,5360.8,364.7,14.7,73300.0,1188.52,1.5
+VOY-10390,9800032,Port of Cape Town,Port of Antwerp-Bruges,6456.9,478.3,13.5,77800.0,1133.41,6.5
+VOY-10391,9800032,Port of Shanghai,Port of Yokohama,1180.0,78.1,15.1,69400.0,260.02,3.0
+VOY-10392,9800032,Port of Tanjung Pelepas,Port of New York & New Jersey,10346.9,728.7,14.2,85800.0,2309.03,0.0
+VOY-10393,9800032,Port of Rotterdam,Port of Long Beach,6059.9,445.6,13.6,71200.0,1118.22,0.0
+VOY-10394,9800032,Port of Klang,Port of Vancouver,8641.2,579.9,14.9,88800.0,2201.83,6.5
+VOY-10395,9800032,Port of Tokyo,Port of Klang,3611.4,267.5,13.5,72300.0,647.12,0.0
+VOY-10396,9800033,Port of Valencia,Port of Colombo,5859.7,443.9,13.2,39100.0,1337.37,24.0
+VOY-10397,9800033,Port of Kaohsiung,Port of Chennai,2938.2,199.9,14.7,27600.0,678.78,3.0
+VOY-10398,9800033,Port of Le Havre,Port of Valencia,752.8,50.9,14.8,33200.0,197.02,0.0
+VOY-10399,9800033,Port of Ningbo-Zhoushan,Port of Hamburg,5838.8,449.1,13.0,28700.0,1082.91,0.0
+VOY-10400,9800033,Port of Houston,Port of Los Angeles,1488.2,112.7,13.2,32600.0,295.96,24.0
+VOY-10401,9800033,Port of Vancouver,Port of Port Said,7244.5,492.8,14.7,34000.0,1949.34,1.5
+VOY-10402,9800033,Port of Tokyo,Port of New York & New Jersey,7324.3,538.6,13.6,40900.0,1798.65,0.0
+VOY-10403,9800033,Port of Genoa,Port of Salalah,3499.8,234.9,14.9,38900.0,1011.04,6.5
+VOY-10404,9800033,Port of Los Angeles,Port of Sydney,8136.5,589.6,13.8,29500.0,1673.47,3.0
+VOY-10405,9800033,Port of Piraeus,Port of Savannah,6078.5,440.5,13.8,29300.0,1289.41,3.0
+VOY-10406,9800033,Port of Ningbo-Zhoushan,Port of Genoa,6278.8,451.7,13.9,30800.0,1311.67,12.0
+VOY-10407,9800033,Jawaharlal Nehru Port (JNPT),Port of Tanjung Pelepas,2608.3,186.3,14.0,28200.0,585.77,1.5
+VOY-10408,9800034,Jawaharlal Nehru Port (JNPT),Port of Santos,9282.7,499.1,18.6,14000.0,2358.66,0.0
+VOY-10409,9800034,Port of Hamburg,Port of Durban,6408.2,400.5,16.0,16900.0,1307.4,24.0
+VOY-10410,9800034,Port of Durban,Port of Shenzhen,7158.3,423.6,16.9,15600.0,1496.48,3.0
+VOY-10411,9800034,Port of Savannah,Port of Piraeus,6078.5,347.3,17.5,13000.0,1253.21,6.5
+VOY-10412,9800034,Port of Valencia,Port of Mundra,4556.8,277.9,16.4,13700.0,837.81,0.0
+VOY-10413,9800034,Port of Long Beach,Port of Melbourne,8613.9,495.1,17.4,16000.0,2167.54,6.5
+VOY-10414,9800034,Port of Durban,Port of Genoa,5775.2,339.7,17.0,13200.0,1121.82,1.5
+VOY-10415,9800034,Port of Port Said,Port of Rotterdam,2175.3,128.7,16.9,12000.0,422.25,24.0
+VOY-10416,9800034,Port of New York & New Jersey,Port of Antwerp-Bruges,3966.6,237.5,16.7,12600.0,803.47,0.0
+VOY-10417,9800034,Port of Mundra,Port of Savannah,8885.1,541.8,16.4,16600.0,1902.24,12.0
+VOY-10418,9800034,Port of Klang,Port of Los Angeles,9576.4,535.0,17.9,12700.0,2215.44,0.0
+VOY-10419,9800034,Port of Port Said,Port of Tanjung Pelepas,5502.6,321.8,17.1,12300.0,1054.84,24.0
+VOY-10420,9800035,Port of Port Said,Port of New York & New Jersey,6078.4,364.0,16.7,10900.0,163.91,12.0
+VOY-10421,9800035,Port of Kaohsiung,Port of Shenzhen,432.7,24.4,17.7,11100.0,13.9,6.5
+VOY-10422,9800035,Port of Yokohama,Port of Salalah,5764.0,355.8,16.2,13200.0,161.76,1.5
+VOY-10423,9800035,Port of Ningbo-Zhoushan,Port of Valencia,6915.3,434.9,15.9,10800.0,166.11,0.0
+VOY-10424,9800035,Jawaharlal Nehru Port (JNPT),Port of Buenos Aires,10080.2,563.1,17.9,11200.0,300.87,0.0
+VOY-10425,9800035,Port of Felixstowe,Port of Colon (Panama),5798.3,325.7,17.8,10300.0,184.55,3.0
+VOY-10426,9800035,Port of Sydney,Port of Piraeus,10348.7,638.8,16.2,14600.0,286.93,0.0
+VOY-10427,9800035,Port of Busan,Port of Genoa,6280.4,373.8,16.8,14900.0,188.92,1.5
+VOY-10428,9800035,Port of Hong Kong,Port of Piraeus,5770.5,318.8,18.1,12600.0,204.5,6.5
+VOY-10429,9800035,Port of Singapore,Port of Ningbo-Zhoushan,2488.5,152.7,16.3,11300.0,62.5,24.0
+VOY-10430,9800035,Port of Sydney,Port of Colombo,5904.5,326.2,18.1,12200.0,192.7,0.0
+VOY-10431,9800035,Port of Genoa,Port of Kaohsiung,6629.5,387.7,17.1,14400.0,214.1,1.5
+VOY-10432,9800036,Port of Singapore,Port of Vancouver,8656.1,622.7,13.9,24900.0,779.56,6.5
+VOY-10433,9800036,Port of Colombo,Port of Shenzhen,2734.1,199.6,13.7,22800.0,228.27,6.5
+VOY-10434,9800036,Port of Tokyo,Port of Durban,9082.9,653.4,13.9,25300.0,765.63,0.0
+VOY-10435,9800036,Port of New York & New Jersey,Port of Sydney,10791.5,734.1,14.7,20200.0,1003.88,0.0
+VOY-10436,9800036,Port of Algeciras,Port of Chennai,5923.3,417.1,14.2,19800.0,512.16,12.0
+VOY-10437,9800036,Port of Shenzhen,Port of Klang,1732.0,112.5,15.4,26400.0,192.64,6.5
+VOY-10438,9800036,Port of Kaohsiung,Port of Los Angeles,7561.4,487.8,15.5,24800.0,810.76,1.5
+VOY-10439,9800036,Port of Buenos Aires,Port of New York & New Jersey,5754.7,411.1,14.0,26700.0,535.41,0.0
+VOY-10440,9800036,Port of Genoa,Port of Singapore,6949.5,476.0,14.6,24700.0,655.71,0.0
+VOY-10441,9800036,Port of Felixstowe,Port of New York & New Jersey,3813.8,241.4,15.8,26800.0,472.44,0.0
+VOY-10442,9800036,Port of Kaohsiung,Port of Ningbo-Zhoushan,549.8,37.4,14.7,25900.0,58.01,0.0
+VOY-10443,9800036,Port of Durban,Port of Ningbo-Zhoushan,7862.4,573.9,13.7,27000.0,729.41,3.0
+VOY-10444,9800036,Port of Mundra,Port of Cape Town,5615.9,419.1,13.4,21900.0,430.75,0.0
+VOY-10445,9800036,Port of Buenos Aires,Port of Chennai,10276.1,750.1,13.7,20900.0,844.09,1.5
+VOY-10446,9800037,Port of Sydney,Port of Singapore,4251.4,281.5,15.1,16800.0,710.24,0.0
+VOY-10447,9800037,Port of Valencia,Port of Port Said,2079.6,141.5,14.7,17600.0,374.58,0.0
+VOY-10448,9800037,Port of Cape Town,Port of Chennai,5645.7,371.4,15.2,17100.0,1053.62,0.0
+VOY-10449,9800037,Port of Chennai,Port of Piraeus,4189.4,295.0,14.2,21100.0,754.44,3.0
+VOY-10450,9800037,Jawaharlal Nehru Port (JNPT),Port of Cape Town,5560.2,421.2,13.2,20800.0,791.99,0.0
+VOY-10451,9800037,Port of Salalah,Port of Mundra,1192.1,87.0,13.7,16200.0,166.75,0.0
+VOY-10452,9800037,Port of Vancouver,Port of Shanghai,6091.1,447.9,13.6,20600.0,958.8,1.5
+VOY-10453,9800037,Port of Yokohama,Port of Klang,3601.1,243.3,14.8,20900.0,699.39,0.0
+VOY-10454,9800037,Port of Kaohsiung,Port of Buenos Aires,12606.1,977.2,12.9,20900.0,1834.47,12.0
+VOY-10455,9800037,Port of Rotterdam,Port of Cape Town,6508.0,458.3,14.2,16000.0,932.13,0.0
+VOY-10456,9800037,Port of Mundra,Port of New York & New Jersey,8109.4,591.9,13.7,15500.0,1115.13,6.5
+VOY-10457,9800038,Port of Kaohsiung,Port of Busan,1103.2,67.7,16.3,25600.0,323.75,3.0
+VOY-10458,9800038,Port of Port Said,Port of Hong Kong,5403.9,350.9,15.4,31200.0,1509.16,0.0
+VOY-10459,9800038,Port of Buenos Aires,Port of Klang,10749.5,746.5,14.4,26200.0,2490.57,0.0
+VOY-10460,9800038,Port of Long Beach,Port of Valencia,6522.7,449.8,14.5,25700.0,1561.43,3.0
+VOY-10461,9800038,Port of Long Beach,Port of Rotterdam,6059.9,423.8,14.3,30600.0,1484.44,12.0
+VOY-10462,9800038,Port of Colombo,Port of Algeciras,6165.4,434.2,14.2,31200.0,1515.91,12.0
+VOY-10463,9800038,Port of Yokohama,Port of Genoa,6641.4,412.5,16.1,23900.0,1707.05,0.0
+VOY-10464,9800038,Port of Vancouver,Port of Jebel Ali (Dubai),7932.0,535.9,14.8,22900.0,1685.35,0.0
+VOY-10465,9800038,Port of Tokyo,Port of Busan,647.5,43.5,14.9,23900.0,147.49,0.0
+VOY-10466,9800038,Port of Rotterdam,Port of Tokyo,6307.4,432.0,14.6,29200.0,1484.26,0.0
+VOY-10467,9800038,King Abdullah Port,Port of Mundra,2115.6,134.8,15.7,21900.0,548.12,24.0
+VOY-10468,9800038,Port of Buenos Aires,Port of Los Angeles,6634.4,425.3,15.6,24200.0,1728.7,0.0
+VOY-10469,9800039,Port of Colombo,Port of Klang,1636.8,124.9,13.1,121200.0,399.68,3.0
+VOY-10470,9800039,Port of Tangier Med,Port of Rotterdam,1316.2,90.8,14.5,147400.0,415.15,0.0
+VOY-10471,9800039,Port of Singapore,King Abdullah Port,4973.5,338.3,14.7,144100.0,1582.1,24.0
+VOY-10472,9800039,Port of Tangier Med,Port of Algeciras,19.2,1.3,14.8,127300.0,5.97,1.5
+VOY-10473,9800039,Port of Kaohsiung,Port of Buenos Aires,12606.1,887.8,14.2,148500.0,3936.13,6.5
+VOY-10474,9800039,Port of Cape Town,Port of Shenzhen,8016.2,607.3,13.2,143100.0,2156.24,3.0
+VOY-10475,9800039,Port of Le Havre,Port of Jebel Ali (Dubai),3658.0,283.6,12.9,146200.0,958.3,6.5
+VOY-10476,9800039,Port of Savannah,Port of Melbourne,10672.2,721.1,14.8,147500.0,3895.57,6.5
+VOY-10477,9800039,Port of Le Havre,Port of Long Beach,6034.6,460.7,13.1,162000.0,1594.29,3.0
+VOY-10478,9800039,Port of Piraeus,Port of Long Beach,7505.2,572.9,13.1,150000.0,1943.15,3.0
+VOY-10479,9800039,Jawaharlal Nehru Port (JNPT),Port of Tangier Med,5245.8,352.1,14.9,159000.0,1813.12,12.0
+VOY-10480,9800039,Port of Kaohsiung,Port of Santos,12582.7,953.2,13.2,126500.0,3113.44,0.0
+VOY-10481,9800040,Port of Sydney,Port of Hamburg,10986.5,752.5,14.6,56100.0,650.04,0.0
+VOY-10482,9800040,King Abdullah Port,Port of Genoa,2475.9,187.6,13.2,50800.0,112.19,3.0
+VOY-10483,9800040,Port of Sydney,Port of Port Said,9698.1,757.7,12.8,60100.0,426.11,0.0
+VOY-10484,9800040,Port of Mundra,Port of Jebel Ali (Dubai),1017.1,78.2,13.0,54100.0,43.77,0.0
+VOY-10485,9800040,Port of Singapore,Port of Durban,5691.3,392.5,14.5,50900.0,298.78,24.0
+VOY-10486,9800040,Port of Ningbo-Zhoushan,Port of Klang,2473.5,179.2,13.8,42000.0,116.61,6.5
+VOY-10487,9800040,Port of Shenzhen,Port of Buenos Aires,12476.7,910.7,13.7,46100.0,546.79,3.0
+VOY-10488,9800040,Port of Port Said,Port of Ningbo-Zhoushan,5586.7,436.5,12.8,46900.0,214.29,0.0
+VOY-10489,9800040,Port of Colon (Panama),Port of Chennai,11268.5,840.9,13.4,58300.0,561.34,0.0
+VOY-10490,9800040,Port of Klang,Port of Kaohsiung,2015.1,149.3,13.5,51900.0,90.99,1.5
+VOY-10491,9800040,Port of Algeciras,Port of Singapore,7857.4,541.9,14.5,50900.0,404.84,0.0
+VOY-10492,9800040,Port of Los Angeles,Port of New York & New Jersey,2667.3,185.2,14.4,48800.0,137.02,0.0
+VOY-10493,9800040,Port of Felixstowe,Port of Shenzhen,6400.3,460.5,13.9,51300.0,307.14,3.0
+VOY-10494,9800040,Jawaharlal Nehru Port (JNPT),Port of Savannah,9248.8,637.8,14.5,49500.0,469.58,6.5
+VOY-10495,9800041,Port of Los Angeles,Port of Sydney,8136.5,621.1,13.1,39000.0,848.03,12.0
+VOY-10496,9800041,Port of Tanjung Pelepas,Port of Chennai,1940.6,136.7,14.2,35500.0,240.43,1.5
+VOY-10497,9800041,Port of Felixstowe,Port of Yokohama,6401.5,508.1,12.6,47400.0,693.6,3.0
+VOY-10498,9800041,Port of Hong Kong,Port of Le Havre,6566.3,493.7,13.3,47400.0,806.16,12.0
+VOY-10499,9800041,Port of Hamburg,Port of Jebel Ali (Dubai),3296.0,222.7,14.8,36800.0,455.73,1.5
+VOY-10500,9800041,Port of Los Angeles,Port of Sydney,8136.5,593.9,13.7,42800.0,969.88,6.5
+VOY-10501,9800041,Port of Long Beach,Port of Felixstowe,5953.4,402.3,14.8,44400.0,854.06,1.5
+VOY-10502,9800041,Port of Colombo,Port of Durban,4470.2,336.1,13.3,42300.0,476.95,3.0
+VOY-10503,9800041,Port of Le Havre,Port of Busan,6305.7,460.3,13.7,46100.0,753.71,24.0
+VOY-10504,9800041,Port of Shanghai,Port of Hong Kong,828.2,56.7,14.6,40200.0,112.27,1.5
+VOY-10505,9800041,Port of Sydney,King Abdullah Port,9017.4,630.6,14.3,32800.0,1003.56,1.5
+VOY-10506,9800042,King Abdullah Port,Port of Jebel Ali (Dubai),1111.4,80.0,13.9,18000.0,28.54,1.5
+VOY-10507,9800042,Port of Jebel Ali (Dubai),Port of Hamburg,3296.0,251.6,13.1,20200.0,76.14,12.0
+VOY-10508,9800042,Port of Colon (Panama),Port of Colombo,11563.8,882.7,13.1,24000.0,284.52,6.5
+VOY-10509,9800042,Port of Salalah,Port of Vancouver,8535.0,661.6,12.9,19300.0,201.67,0.0
+VOY-10510,9800042,Port of Felixstowe,Port of Santos,6499.9,485.1,13.4,19800.0,161.19,1.5
+VOY-10511,9800042,Port of Savannah,Port of Le Havre,4562.2,330.6,13.8,19600.0,122.41,0.0
+VOY-10512,9800042,Port of Durban,Port of Antwerp-Bruges,6334.6,502.7,12.6,25000.0,158.15,6.5
+VOY-10513,9800042,Port of Long Beach,Port of Jebel Ali (Dubai),9071.4,725.7,12.5,20700.0,194.16,6.5
+VOY-10514,9800042,Port of Buenos Aires,Port of Durban,5488.6,453.6,12.1,24300.0,123.4,1.5
+VOY-10515,9800042,Port of Long Beach,Port of Vancouver,1196.0,98.0,12.2,23200.0,25.02,24.0
+VOY-10516,9800042,Port of Port Said,Port of Tangier Med,2374.4,182.6,13.0,18100.0,51.33,3.0
+VOY-10517,9800042,Port of Jebel Ali (Dubai),Jawaharlal Nehru Port (JNPT),1324.1,101.1,13.1,20800.0,31.73,24.0
+VOY-10518,9800042,Port of Port Said,Port of Hamburg,2061.2,146.2,14.1,19500.0,56.1,24.0
+VOY-10519,9800043,Port of Algeciras,Port of Chennai,5923.3,336.6,17.6,206200.0,1257.31,0.0
+VOY-10520,9800043,Port of Valencia,King Abdullah Port,2809.6,146.3,19.2,146500.0,567.47,0.0
+VOY-10521,9800043,Port of Shenzhen,Port of Tanjung Pelepas,1764.8,99.1,17.8,206200.0,351.18,0.0
+VOY-10522,9800043,Port of Singapore,Port of Savannah,10980.1,634.7,17.3,143300.0,1781.29,12.0
+VOY-10523,9800043,Port of Shanghai,Port of Salalah,4677.2,239.9,19.5,166200.0,1085.65,12.0
+VOY-10524,9800043,Port of Ningbo-Zhoushan,Port of Antwerp-Bruges,6148.6,320.2,19.2,156600.0,1262.81,3.0
+VOY-10525,9800043,Port of Le Havre,Port of Buenos Aires,7412.3,411.8,18.0,155400.0,1348.94,24.0
+VOY-10526,9800043,Jawaharlal Nehru Port (JNPT),Port of Shanghai,3396.0,178.7,19.0,173900.0,766.43,0.0
+VOY-10527,9800043,Port of Santos,Port of Klang,10691.4,632.6,16.9,153400.0,1696.54,24.0
+VOY-10528,9800043,Port of Colon (Panama),Port of Port Said,7771.5,449.2,17.3,146100.0,1205.09,24.0
+VOY-10529,9800043,Port of Houston,Port of Port Said,7602.3,422.4,18.0,163800.0,1437.75,6.5
+VOY-10530,9800044,Port of Durban,Port of Ningbo-Zhoushan,7862.4,470.8,16.7,120700.0,1011.94,1.5
+VOY-10531,9800044,King Abdullah Port,Port of Kaohsiung,5544.0,313.2,17.7,118100.0,825.26,24.0
+VOY-10532,9800044,Port of Piraeus,Port of Shanghai,5770.0,324.2,17.8,101300.0,816.55,6.5
+VOY-10533,9800044,Port of Shanghai,Port of Tangier Med,7240.5,438.8,16.5,93500.0,824.49,24.0
+VOY-10534,9800044,Port of Shenzhen,Port of Colombo,2734.1,156.2,17.5,112200.0,382.53,0.0
+VOY-10535,9800044,Port of Vancouver,Port of Piraeus,6600.9,375.1,17.6,107000.0,875.05,1.5
+VOY-10536,9800044,Port of Sydney,Port of Shenzhen,4996.4,279.1,17.9,105200.0,660.22,0.0
+VOY-10537,9800044,Port of Long Beach,Port of Melbourne,8613.9,468.1,18.4,113100.0,1252.84,0.0
+VOY-10538,9800044,Port of Colon (Panama),Port of Vancouver,4028.6,218.9,18.4,109100.0,602.92,12.0
+VOY-10539,9800044,Port of Rotterdam,Jawaharlal Nehru Port (JNPT),4652.2,259.9,17.9,97700.0,587.48,0.0
+VOY-10540,9800044,Port of Vancouver,Port of Le Havre,5244.0,289.7,18.1,101000.0,703.82,12.0
+VOY-10541,9800044,Port of Buenos Aires,Port of Salalah,8836.0,548.8,16.1,96500.0,955.46,1.5
+VOY-10542,9800044,Port of Hong Kong,Port of Mundra,3069.6,165.9,18.5,100800.0,469.53,0.0
+VOY-10543,9800044,Port of Yokohama,Port of Salalah,5764.0,345.1,16.7,112400.0,749.82,24.0
+VOY-10544,9800044,Port of Shanghai,Port of Algeciras,7224.7,415.2,17.4,90200.0,853.17,24.0
+VOY-10545,9800045,Port of Singapore,Port of Valencia,7512.6,424.4,17.7,81400.0,5309.11,3.0
+VOY-10546,9800045,Port of Chennai,Port of Santos,9644.8,484.7,19.9,85700.0,9078.78,1.5
+VOY-10547,9800045,Port of Shenzhen,Port of Tanjung Pelepas,1764.8,90.5,19.5,84100.0,1682.07,0.0
+VOY-10548,9800045,Port of Los Angeles,Port of Vancouver,1197.1,69.2,17.3,77100.0,853.15,0.0
+VOY-10549,9800045,Port of Algeciras,Port of Tangier Med,19.2,1.1,18.1,82400.0,15.77,0.0
+VOY-10550,9800045,Port of Antwerp-Bruges,Port of Port Said,2148.6,115.5,18.6,89500.0,1900.33,0.0
+VOY-10551,9800045,Port of Tokyo,Port of Algeciras,7594.6,399.7,19.0,70200.0,6228.86,0.0
+VOY-10552,9800045,Port of Port Said,Port of Houston,7602.3,442.0,17.2,62300.0,4871.26,0.0
+VOY-10553,9800045,Port of Yokohama,Port of Long Beach,5978.1,349.6,17.1,81100.0,3919.54,3.0
+VOY-10554,9800045,Port of Ningbo-Zhoushan,Port of Genoa,6278.8,317.1,19.8,68600.0,5386.18,0.0
+VOY-10555,9800045,Port of Savannah,Port of Tangier Med,4590.9,231.9,19.8,92600.0,4334.28,0.0
+VOY-10556,9800046,Port of Tanjung Pelepas,Port of Savannah,10977.6,712.8,15.4,53200.0,2047.38,3.0
+VOY-10557,9800046,King Abdullah Port,Port of Savannah,7576.4,476.5,15.9,53200.0,1531.0,0.0
+VOY-10558,9800046,Port of Los Angeles,Port of Tanjung Pelepas,9555.9,579.1,16.5,48000.0,2050.65,0.0
+VOY-10559,9800046,Port of Port Said,Port of Los Angeles,8204.1,488.3,16.8,37600.0,1520.6,0.0
+VOY-10560,9800046,Port of Le Havre,Port of Buenos Aires,7412.3,438.6,16.9,49100.0,1676.63,12.0
+VOY-10561,9800046,Port of Yokohama,Port of Kaohsiung,1587.0,91.7,17.3,43400.0,323.7,0.0
+VOY-10562,9800046,Port of Savannah,Port of Klang,10870.3,624.7,17.4,40300.0,2161.43,0.0
+VOY-10563,9800046,Port of Tangier Med,Port of Sydney,12070.8,678.1,17.8,43600.0,2798.11,3.0
+VOY-10564,9800046,Port of Jebel Ali (Dubai),Jawaharlal Nehru Port (JNPT),1324.1,83.3,15.9,46800.0,249.73,0.0
+VOY-10565,9800046,Port of Port Said,Port of Colombo,3794.9,238.7,15.9,45500.0,721.46,24.0
+VOY-10566,9800046,Port of Singapore,Port of Hong Kong,1748.7,112.8,15.5,49400.0,308.5,0.0
+VOY-10567,9800046,King Abdullah Port,Port of Kaohsiung,5544.0,328.0,16.9,42800.0,1106.38,0.0
+VOY-10568,9800046,Port of Buenos Aires,Port of Hong Kong,12465.2,704.2,17.7,38800.0,2554.97,6.5
+VOY-10569,9800047,Port of Singapore,Port of Sydney,4251.4,264.1,16.1,29800.0,580.11,0.0
+VOY-10570,9800047,Port of Mundra,Port of Cape Town,5615.9,360.0,15.6,36400.0,749.74,3.0
+VOY-10571,9800047,Port of Mundra,Port of Algeciras,4892.9,317.7,15.4,37500.0,718.81,3.0
+VOY-10572,9800047,Port of Ningbo-Zhoushan,Port of Hamburg,5838.8,376.7,15.5,35600.0,801.42,0.0
+VOY-10573,9800047,Port of Vancouver,Port of Genoa,5809.0,347.8,16.7,36600.0,928.96,0.0
+VOY-10574,9800047,Port of Mundra,Port of Piraeus,3153.0,187.7,16.8,29900.0,495.4,0.0
+VOY-10575,9800047,Port of Yokohama,Port of Hamburg,6073.8,357.3,17.0,33900.0,1055.75,1.5
+VOY-10576,9800047,Port of Savannah,Port of Valencia,4780.3,312.4,15.3,35800.0,639.16,1.5
+VOY-10577,9800047,Port of Klang,Port of Chennai,1740.9,110.9,15.7,31300.0,240.72,12.0
+VOY-10578,9800047,Port of Salalah,Port of Buenos Aires,8836.0,601.1,14.7,31200.0,1001.35,24.0
+VOY-10579,9800047,Port of Sydney,Port of Klang,4473.5,269.5,16.6,38900.0,720.92,12.0
+VOY-10580,9800048,Port of Kaohsiung,Port of Felixstowe,6635.3,422.6,15.7,12800.0,1129.97,12.0
+VOY-10581,9800048,Port of Busan,Port of Los Angeles,6504.1,387.1,16.8,15500.0,1407.03,1.5
+VOY-10582,9800048,Port of Hamburg,Port of Algeciras,1536.4,97.2,15.8,15600.0,310.14,0.0
+VOY-10583,9800048,Port of Buenos Aires,Port of Durban,5488.6,336.7,16.3,16500.0,1128.04,6.5
+VOY-10584,9800048,Port of Santos,Port of Long Beach,6708.4,406.6,16.5,14500.0,1369.25,24.0
+VOY-10585,9800048,Port of Genoa,Port of Cape Town,5914.2,402.3,14.7,17600.0,1034.76,3.0
+VOY-10586,9800048,Port of Yokohama,Port of Mundra,4588.5,308.0,14.9,13100.0,720.13,3.0
+VOY-10587,9800048,Port of Durban,Port of Mundra,4840.0,336.1,14.4,13200.0,709.92,1.5
+VOY-10588,9800048,Port of Durban,Port of Hong Kong,7156.6,490.2,14.6,12800.0,998.89,0.0
+VOY-10589,9800048,Port of Busan,Port of Salalah,5127.9,341.9,15.0,16000.0,915.67,24.0
+VOY-10590,9800048,Port of Piraeus,Port of Tanjung Pelepas,6094.7,369.4,16.5,16400.0,1391.45,3.0
+VOY-10591,9800049,Port of Port Said,Port of Chennai,3568.8,233.3,15.3,238000.0,4016.87,0.0
+VOY-10592,9800049,Jawaharlal Nehru Port (JNPT),King Abdullah Port,2386.3,178.1,13.4,182100.0,1795.7,24.0
+VOY-10593,9800049,Port of Rotterdam,Port of Tanjung Pelepas,7092.4,460.5,15.4,235700.0,7805.2,0.0
+VOY-10594,9800049,Port of Buenos Aires,Port of Cape Town,4636.7,319.8,14.5,219000.0,4521.15,12.0
+VOY-10595,9800049,King Abdullah Port,Port of Kaohsiung,5544.0,369.6,15.0,220900.0,5738.58,3.0
+VOY-10596,9800049,Port of Singapore,Port of Antwerp-Bruges,7121.6,484.5,14.7,224500.0,6668.77,0.0
+VOY-10597,9800049,Port of Chennai,Port of Antwerp-Bruges,5329.3,350.6,15.2,167600.0,5092.87,12.0
+VOY-10598,9800049,Port of Le Havre,Port of Durban,6303.4,406.7,15.5,173600.0,6389.78,12.0
+VOY-10599,9800049,Port of Klang,Port of Colon (Panama),12576.4,811.4,15.5,234400.0,14118.09,0.0
+VOY-10600,9800049,Port of Port Said,Port of Valencia,2079.6,147.5,14.1,176100.0,1553.97,24.0
+VOY-10601,9800049,Port of Valencia,Port of Mundra,4556.8,310.0,14.7,165300.0,3887.81,12.0
+VOY-10602,9800049,Port of Tokyo,Port of Savannah,7672.0,540.3,14.2,193000.0,6450.25,3.0
+VOY-10603,9800049,Port of Singapore,King Abdullah Port,4973.5,363.0,13.7,243700.0,4366.49,0.0
+VOY-10604,9800049,Port of Kaohsiung,Port of Rotterdam,6518.3,475.8,13.7,171100.0,4632.02,6.5
+VOY-10605,9800049,Port of Piraeus,Port of Tokyo,6419.9,490.1,13.1,206600.0,4721.4,0.0
+VOY-10606,9800050,Port of New York & New Jersey,Port of Hamburg,4137.4,308.8,13.4,106400.0,1968.95,0.0
+VOY-10607,9800050,Port of Ningbo-Zhoushan,Port of Tanjung Pelepas,2494.9,165.2,15.1,124900.0,1652.79,0.0
+VOY-10608,9800050,Port of Buenos Aires,Port of Melbourne,7836.0,536.7,14.6,96400.0,4104.55,1.5
+VOY-10609,9800050,King Abdullah Port,Port of Sydney,9017.4,585.5,15.4,125700.0,5931.48,24.0
+VOY-10610,9800050,Port of Salalah,Port of Santos,7953.4,533.8,14.9,122500.0,4924.88,0.0
+VOY-10611,9800050,Port of Genoa,Port of Vancouver,5809.0,403.4,14.4,93500.0,2830.32,0.0
+VOY-10612,9800050,Port of Singapore,Port of Long Beach,9546.7,667.6,14.3,91100.0,4824.9,0.0
+VOY-10613,9800050,Port of Long Beach,Port of Tangier Med,6470.3,482.9,13.4,128700.0,3315.11,6.5
+VOY-10614,9800050,Port of Hong Kong,Port of Long Beach,7878.9,521.8,15.1,130600.0,4984.2,6.5
+VOY-10615,9800050,Port of Hong Kong,Port of Jebel Ali (Dubai),4035.7,284.2,14.2,96300.0,1944.23,0.0
+VOY-10616,9800051,Port of Hamburg,Port of Houston,5611.8,445.4,12.6,75700.0,741.99,0.0
+VOY-10617,9800051,Port of Rotterdam,Port of Genoa,606.7,46.0,13.2,87900.0,94.1,6.5
+VOY-10618,9800051,Port of Mundra,Port of Durban,4840.0,340.8,14.2,94600.0,846.86,24.0
+VOY-10619,9800051,Port of Long Beach,Port of Singapore,9546.7,751.7,12.7,64800.0,1121.12,0.0
+VOY-10620,9800051,King Abdullah Port,Port of Rotterdam,2972.3,200.8,14.8,68200.0,495.07,0.0
+VOY-10621,9800051,Port of Mundra,Port of Durban,4840.0,327.0,14.8,87700.0,899.76,0.0
+VOY-10622,9800051,Port of Vancouver,Port of Shanghai,6091.1,429.0,14.2,83700.0,1044.73,0.0
+VOY-10623,9800051,Port of Ningbo-Zhoushan,Port of Mundra,3497.4,253.4,13.8,94300.0,611.58,12.0
+VOY-10624,9800051,Port of Jebel Ali (Dubai),Port of Tangier Med,3940.7,264.5,14.9,88700.0,795.21,0.0
+VOY-10625,9800051,Port of Tanjung Pelepas,Port of Piraeus,6094.7,454.8,13.4,84300.0,922.42,12.0
+VOY-10626,9800051,Port of Salalah,Port of Le Havre,4053.1,283.4,14.3,71200.0,635.65,1.5
+VOY-10627,9800051,Port of Antwerp-Bruges,Port of Felixstowe,152.8,11.8,12.9,66200.0,18.53,24.0
+VOY-10628,9800051,King Abdullah Port,Port of Colombo,3167.9,215.5,14.7,80900.0,582.15,0.0
+VOY-10629,9800051,Port of Le Havre,Port of New York & New Jersey,3819.9,300.8,12.7,88000.0,545.33,24.0
+VOY-10630,9800052,Port of Durban,Port of Kaohsiung,7539.3,598.4,12.6,41000.0,745.29,0.0
+VOY-10631,9800052,Port of Vancouver,Port of Tangier Med,5891.8,403.5,14.6,34900.0,741.69,0.0
+VOY-10632,9800052,Port of Melbourne,Port of Tanjung Pelepas,4106.0,283.2,14.5,36300.0,511.43,3.0
+VOY-10633,9800052,Port of Santos,Port of Antwerp-Bruges,6558.2,475.2,13.8,35800.0,795.92,1.5
+VOY-10634,9800052,Port of Sydney,Port of Yokohama,5265.0,411.3,12.8,40600.0,529.49,24.0
+VOY-10635,9800052,Port of Kaohsiung,Port of Tanjung Pelepas,2009.8,160.8,12.5,34000.0,195.58,0.0
+VOY-10636,9800052,Port of Long Beach,Port of Jebel Ali (Dubai),9071.4,677.0,13.4,34800.0,983.0,0.0
+VOY-10637,9800052,Port of Vancouver,Port of Klang,8641.2,587.8,14.7,44300.0,1222.77,0.0
+VOY-10638,9800052,Port of Salalah,Port of Algeciras,4175.6,292.0,14.3,43200.0,584.63,1.5
+VOY-10639,9800052,Port of Colon (Panama),Port of Jebel Ali (Dubai),9326.5,690.9,13.5,42800.0,1183.33,12.0
+VOY-10640,9800053,Port of Felixstowe,Port of Sydney,11393.3,682.2,16.7,18800.0,1189.39,0.0
+VOY-10641,9800053,Port of Valencia,Port of Chennai,5596.4,296.1,18.9,14800.0,657.16,3.0
+VOY-10642,9800053,Port of Shanghai,Port of Klang,2550.6,149.2,17.1,19600.0,297.25,0.0
+VOY-10643,9800053,Jawaharlal Nehru Port (JNPT),Port of Algeciras,5239.9,299.4,17.5,14200.0,547.05,0.0
+VOY-10644,9800053,Port of Piraeus,Port of Mundra,3153.0,195.8,16.1,16600.0,281.35,0.0
+VOY-10645,9800053,Port of Valencia,Port of Ningbo-Zhoushan,6915.3,424.3,16.3,17600.0,668.64,12.0
+VOY-10646,9800053,Port of Jebel Ali (Dubai),Port of Singapore,3952.9,222.1,17.8,18000.0,430.56,1.5
+VOY-10647,9800053,Port of Buenos Aires,Port of Ningbo-Zhoushan,13153.7,739.0,17.8,20800.0,1553.05,1.5
+VOY-10648,9800053,Port of Tangier Med,Port of Shanghai,7240.5,441.5,16.4,14800.0,648.35,6.5
+VOY-10649,9800053,Port of Kaohsiung,Port of Melbourne,4858.4,265.5,18.3,17100.0,571.55,24.0
+VOY-10650,9800053,Port of Durban,Port of Valencia,5645.9,340.1,16.6,14600.0,517.67,0.0
+VOY-10651,9800054,Port of Ningbo-Zhoushan,Port of Shenzhen,745.4,43.1,17.3,11700.0,62.2,24.0
+VOY-10652,9800054,Port of Hamburg,Port of New York & New Jersey,4137.4,227.3,18.2,12300.0,404.4,3.0
+VOY-10653,9800054,Port of Tangier Med,Port of Buenos Aires,6455.2,354.7,18.2,9400.0,554.85,3.0
+VOY-10654,9800054,Port of Salalah,Port of Antwerp-Bruges,3903.5,242.5,16.1,9700.0,272.1,0.0
+VOY-10655,9800054,Port of Santos,Port of Durban,5098.4,307.1,16.6,12200.0,422.79,3.0
+VOY-10656,9800054,Port of Salalah,Port of Antwerp-Bruges,3903.5,235.2,16.6,11100.0,321.26,6.5
+VOY-10657,9800054,Port of Tanjung Pelepas,Port of Yokohama,3586.1,212.2,16.9,11500.0,292.08,12.0
+VOY-10658,9800054,Port of Algeciras,Port of Singapore,7857.4,488.0,16.1,13000.0,599.07,12.0
+VOY-10659,9800054,Port of Klang,King Abdullah Port,4753.4,279.6,17.0,9400.0,342.03,24.0
+VOY-10660,9800054,Port of Tangier Med,Port of Tanjung Pelepas,7843.1,443.1,17.7,13500.0,772.45,0.0
+VOY-10661,9800054,Port of Melbourne,Port of Hamburg,10925.5,613.8,17.8,9500.0,924.91,0.0
+VOY-10662,9800054,Port of Busan,Port of Valencia,6903.8,379.3,18.2,12400.0,661.74,1.5
+VOY-10663,9800054,Port of Tangier Med,Port of Hong Kong,7395.1,442.8,16.7,13000.0,625.23,0.0
+VOY-10664,9800055,Port of Savannah,Port of Genoa,5119.0,348.2,14.7,22600.0,160.44,3.0
+VOY-10665,9800055,Port of Busan,Jawaharlal Nehru Port (JNPT),3889.9,281.9,13.8,22100.0,109.07,3.0
+VOY-10666,9800055,Port of Shenzhen,Port of Algeciras,7364.3,469.1,15.7,26000.0,291.17,0.0
+VOY-10667,9800055,Port of Rotterdam,Port of Los Angeles,6064.1,412.5,14.7,22100.0,194.55,0.0
+VOY-10668,9800055,Port of Port Said,Port of Savannah,6805.7,459.8,14.8,24100.0,230.57,3.0
+VOY-10669,9800055,Port of Piraeus,Port of Buenos Aires,7881.9,575.3,13.7,22200.0,229.76,1.5
+VOY-10670,9800055,Port of Melbourne,Port of Rotterdam,11193.5,746.2,15.0,23700.0,395.79,24.0
+VOY-10671,9800055,Port of Piraeus,Port of Santos,6767.4,433.8,15.6,22600.0,248.98,0.0
+VOY-10672,9800055,Port of Mundra,Port of Long Beach,9223.2,598.9,15.4,26700.0,343.03,3.0
+VOY-10673,9800055,Port of Mundra,Port of Singapore,2967.0,193.9,15.3,19900.0,95.1,0.0
+VOY-10674,9800055,Port of Durban,Port of Valencia,5645.9,394.8,14.3,21300.0,162.39,0.0
+VOY-10675,9800055,Port of Durban,Port of Long Beach,11531.4,841.7,13.7,25600.0,333.3,12.0
+VOY-10676,9800056,Port of Colombo,Port of Ningbo-Zhoushan,3402.3,265.8,12.8,16400.0,154.07,1.5
+VOY-10677,9800056,Port of Kaohsiung,Port of Piraeus,6097.5,420.5,14.5,18600.0,398.36,0.0
+VOY-10678,9800056,Port of Colombo,Port of Kaohsiung,3148.1,234.9,13.4,18800.0,178.63,0.0
+VOY-10679,9800056,Port of Chennai,Port of Vancouver,8578.7,595.7,14.4,17000.0,501.11,1.5
+VOY-10680,9800056,Port of Sydney,Port of Shanghai,5319.5,388.3,13.7,14400.0,288.48,0.0
+VOY-10681,9800056,Port of Le Havre,Port of Cape Town,6378.7,498.3,12.8,17800.0,302.74,3.0
+VOY-10682,9800056,Port of Salalah,Port of Klang,3644.0,284.7,12.8,14700.0,166.58,0.0
+VOY-10683,9800056,Port of Durban,Port of Singapore,5691.3,400.8,14.2,15900.0,342.7,0.0
+VOY-10684,9800056,Port of Antwerp-Bruges,Port of Jebel Ali (Dubai),3483.5,248.8,14.0,13600.0,179.17,24.0
+VOY-10685,9800056,Port of Rotterdam,Port of Le Havre,276.3,20.2,13.7,16800.0,14.51,1.5
+VOY-10686,9800056,Port of Yokohama,Port of Shanghai,1180.0,95.9,12.3,18200.0,56.07,1.5
+VOY-10687,9800056,Jawaharlal Nehru Port (JNPT),Port of Tanjung Pelepas,2608.3,203.8,12.8,17700.0,136.04,0.0
+VOY-10688,9800057,Port of New York & New Jersey,Port of Genoa,4388.7,290.6,15.1,25200.0,173.97,12.0
+VOY-10689,9800057,Port of Houston,Port of Ningbo-Zhoushan,8313.7,506.9,16.4,27300.0,378.02,24.0
+VOY-10690,9800057,Port of Shanghai,Port of Genoa,6199.4,449.2,13.8,29100.0,196.42,12.0
+VOY-10691,9800057,Port of Ningbo-Zhoushan,Port of Antwerp-Bruges,6148.6,396.7,15.5,24600.0,241.92,3.0
+VOY-10692,9800057,Port of Klang,Port of Tangier Med,7640.4,523.3,14.6,31100.0,281.35,24.0
+VOY-10693,9800057,King Abdullah Port,Port of Shenzhen,5132.7,361.5,14.2,28400.0,169.88,12.0
+VOY-10694,9800057,Port of Long Beach,Port of Valencia,6522.7,429.1,15.2,27600.0,258.02,6.5
+VOY-10695,9800057,Port of Colon (Panama),Port of Singapore,12662.0,786.5,16.1,27600.0,547.44,0.0
+VOY-10696,9800057,Port of Mundra,Port of Piraeus,3153.0,220.5,14.3,28500.0,119.08,12.0
+VOY-10697,9800057,Port of Colombo,Port of Felixstowe,5814.7,368.0,15.8,25900.0,242.58,6.5
+VOY-10698,9800057,Port of Durban,Port of New York & New Jersey,8982.2,579.5,15.5,25100.0,357.69,1.5
+VOY-10699,9800058,Port of Colon (Panama),Port of New York & New Jersey,2385.6,165.7,14.4,162800.0,777.5,0.0
+VOY-10700,9800058,Port of Colombo,Port of Durban,4470.2,302.0,14.8,143500.0,1332.65,6.5
+VOY-10701,9800058,Port of Rotterdam,Port of Singapore,7110.6,483.7,14.7,148800.0,2335.55,1.5
+VOY-10702,9800058,Port of Tanjung Pelepas,Port of Felixstowe,7234.7,498.9,14.5,139500.0,2084.15,0.0
+VOY-10703,9800058,Port of Chennai,Port of Buenos Aires,10276.1,778.5,13.2,136300.0,2377.18,0.0
+VOY-10704,9800058,Port of Santos,Port of Buenos Aires,1120.7,78.4,14.3,165300.0,367.0,0.0
+VOY-10705,9800058,Port of Tokyo,Port of Antwerp-Bruges,6352.7,450.5,14.1,146800.0,1797.37,3.0
+VOY-10706,9800058,Port of Shanghai,Port of Singapore,2571.7,179.8,14.3,124800.0,700.92,0.0
+VOY-10707,9800058,Port of Klang,Port of Melbourne,4303.8,294.8,14.6,170600.0,1478.41,3.0
+VOY-10708,9800058,Port of New York & New Jersey,King Abdullah Port,6860.8,527.8,13.0,165800.0,1805.65,6.5
+VOY-10709,9800058,Port of Piraeus,Port of Los Angeles,7509.2,521.5,14.4,154600.0,2203.48,0.0
+VOY-10710,9800058,Port of Klang,Jawaharlal Nehru Port (JNPT),2406.5,175.7,13.7,151500.0,676.12,0.0
+VOY-10711,9800058,Port of Antwerp-Bruges,Port of Vancouver,5253.7,352.6,14.9,131000.0,1586.62,0.0
+VOY-10712,9800058,Port of Algeciras,Port of Busan,7285.3,485.7,15.0,125800.0,2276.78,6.5
+VOY-10713,9800059,King Abdullah Port,Port of Los Angeles,8986.1,637.3,14.1,54800.0,1353.51,3.0
+VOY-10714,9800059,Port of Piraeus,Port of Shanghai,5770.0,409.2,14.1,49400.0,814.81,24.0
+VOY-10715,9800059,Port of Cape Town,Port of Jebel Ali (Dubai),5136.7,374.9,13.7,59600.0,728.84,1.5
+VOY-10716,9800059,Port of Singapore,Port of Cape Town,6524.1,453.1,14.4,52000.0,960.63,0.0
+VOY-10717,9800059,Port of Shenzhen,Port of Vancouver,6909.3,552.7,12.5,61400.0,844.11,12.0
+VOY-10718,9800059,Port of Piraeus,Port of Klang,5892.0,479.0,12.3,51500.0,631.96,6.5
+VOY-10719,9800059,Port of Genoa,Port of Houston,5915.1,444.7,13.3,48400.0,737.76,12.0
+VOY-10720,9800059,Port of Rotterdam,Port of Hamburg,278.7,19.4,14.4,50000.0,44.3,0.0
+VOY-10721,9800059,Port of Colombo,Port of Long Beach,10195.7,766.6,13.3,42600.0,1132.36,24.0
+VOY-10722,9800059,Port of Antwerp-Bruges,Port of Savannah,4719.8,332.4,14.2,51400.0,698.44,0.0
+VOY-10723,9800059,Port of Salalah,Port of Shenzhen,4236.1,320.9,13.2,51400.0,526.25,6.5
+VOY-10724,9800059,Port of Tokyo,Port of Tanjung Pelepas,3597.3,283.3,12.7,48000.0,396.12,0.0
+VOY-10725,9800059,Port of Houston,Port of Buenos Aires,5494.5,398.2,13.8,62500.0,792.47,1.5
+VOY-10726,9800060,Port of Savannah,Port of Felixstowe,4567.4,304.5,15.0,49200.0,238.61,1.5
+VOY-10727,9800060,Port of Rotterdam,Port of Long Beach,6059.9,406.7,14.9,44700.0,313.56,1.5
+VOY-10728,9800060,Port of Felixstowe,Port of Melbourne,11333.8,878.6,12.9,42900.0,442.63,3.0
+VOY-10729,9800060,Port of Tanjung Pelepas,Jawaharlal Nehru Port (JNPT),2608.3,186.3,14.0,39400.0,107.4,6.5
+VOY-10730,9800060,Port of Shenzhen,Port of Vancouver,6909.3,483.2,14.3,41500.0,299.82,3.0
+VOY-10731,9800060,Port of Busan,Jawaharlal Nehru Port (JNPT),3889.9,290.3,13.4,42200.0,158.93,12.0
+VOY-10732,9800060,Port of Tangier Med,Port of Busan,7302.4,493.4,14.8,40500.0,355.86,24.0
+VOY-10733,9800060,Port of Klang,Port of Jebel Ali (Dubai),3729.3,274.2,13.6,35200.0,138.4,1.5
+VOY-10734,9800060,Port of Valencia,Port of Algeciras,391.2,27.4,14.3,41400.0,17.56,0.0
+VOY-10735,9800060,Port of Los Angeles,Jawaharlal Nehru Port (JNPT),9473.8,696.6,13.6,45400.0,422.62,24.0
+VOY-10736,9800060,King Abdullah Port,Port of Houston,8390.9,552.0,15.2,32900.0,383.42,1.5
+VOY-10737,9800061,Port of Colombo,Port of Shanghai,3437.3,242.1,14.2,30900.0,128.74,0.0
+VOY-10738,9800061,Port of Klang,Port of Le Havre,7130.1,589.3,12.1,32500.0,187.08,0.0
+VOY-10739,9800061,Port of Port Said,Port of Ningbo-Zhoushan,5586.7,399.1,14.0,35600.0,211.41,0.0
+VOY-10740,9800061,Port of Antwerp-Bruges,Port of Savannah,4719.8,368.7,12.8,34000.0,138.51,1.5
+VOY-10741,9800061,King Abdullah Port,Port of Tanjung Pelepas,4950.6,405.8,12.2,25000.0,123.05,24.0
+VOY-10742,9800061,Port of Long Beach,Port of Salalah,9662.2,721.1,13.4,29400.0,311.75,0.0
+VOY-10743,9800061,King Abdullah Port,Port of Busan,5795.9,435.8,13.3,29000.0,175.42,0.0
+VOY-10744,9800061,Port of Melbourne,Port of Singapore,4087.3,307.3,13.3,33000.0,129.83,6.5
+VOY-10745,9800061,Port of Port Said,Port of Savannah,6805.7,479.3,14.2,32300.0,266.18,3.0
+VOY-10746,9800061,Port of Tokyo,Port of Colon (Panama),9122.0,696.3,13.1,26800.0,273.01,0.0
+VOY-10747,9800061,Port of Le Havre,Port of Shanghai,6301.6,453.4,13.9,28200.0,213.52,3.0
+VOY-10748,9800061,Port of Kaohsiung,Port of Los Angeles,7561.4,577.2,13.1,29700.0,242.62,1.5
+VOY-10749,9800061,Port of Tokyo,Port of Genoa,6627.1,526.0,12.6,23900.0,165.68,1.5
+VOY-10750,9800061,Port of Port Said,Port of Hong Kong,5403.9,415.7,13.0,35700.0,179.02,0.0
+VOY-10751,9800062,Port of Vancouver,Port of Houston,2151.9,125.1,17.2,169900.0,1075.64,6.5
+VOY-10752,9800062,Port of Antwerp-Bruges,Port of Colon (Panama),5940.8,335.6,17.7,160200.0,2958.05,0.0
+VOY-10753,9800062,Port of Felixstowe,Port of Tanjung Pelepas,7234.7,413.4,17.5,150200.0,3224.43,24.0
+VOY-10754,9800062,Port of Yokohama,Port of Genoa,6641.4,355.2,18.7,180200.0,3678.38,0.0
+VOY-10755,9800062,Port of Kaohsiung,Port of Chennai,2938.2,161.4,18.2,172900.0,1509.88,12.0
+VOY-10756,9800062,Port of Rotterdam,Port of Jebel Ali (Dubai),3493.8,179.2,19.5,165900.0,2179.55,24.0
+VOY-10757,9800062,Port of Shenzhen,Port of Santos,12153.8,690.6,17.6,150500.0,5695.54,6.5
+VOY-10758,9800062,Port of Colombo,Port of Busan,3990.1,213.4,18.7,149300.0,2128.1,6.5
+VOY-10759,9800062,Port of Melbourne,Port of Buenos Aires,7836.0,425.9,18.4,182900.0,4684.69,0.0
+VOY-10760,9800062,Port of Genoa,Jawaharlal Nehru Port (JNPT),4386.0,241.0,18.2,125800.0,2054.42,6.5
+VOY-10761,9800062,Port of New York & New Jersey,Port of Durban,8982.2,531.5,16.9,157700.0,3919.97,12.0
+VOY-10762,9800062,Port of Kaohsiung,Port of Piraeus,6097.5,314.3,19.4,134700.0,3246.48,24.0
+VOY-10763,9800062,Port of Felixstowe,Jawaharlal Nehru Port (JNPT),4796.8,260.7,18.4,175000.0,2828.64,24.0
+VOY-10764,9800063,Port of Hong Kong,Port of Tanjung Pelepas,1753.5,104.4,16.8,113000.0,633.99,0.0
+VOY-10765,9800063,Port of Tangier Med,Port of Durban,5566.5,343.6,16.2,134400.0,2196.62,0.0
+VOY-10766,9800063,Port of Tanjung Pelepas,Port of Colon (Panama),12664.1,699.7,18.1,119700.0,5880.46,0.0
+VOY-10767,9800063,Port of Houston,Port of Klang,10771.3,579.1,18.6,95200.0,4837.25,0.0
+VOY-10768,9800063,Port of Piraeus,Port of Algeciras,1741.6,95.2,18.3,134400.0,873.34,0.0
+VOY-10769,9800063,Port of Shenzhen,Port of Los Angeles,7869.7,439.6,17.9,104400.0,3389.04,0.0
+VOY-10770,9800063,Port of Algeciras,Port of Santos,5360.8,297.8,18.0,104900.0,2204.36,12.0
+VOY-10771,9800063,King Abdullah Port,Port of Durban,3975.2,210.3,18.9,137900.0,2070.36,6.5
+VOY-10772,9800063,Port of Ningbo-Zhoushan,Port of Felixstowe,6222.0,353.5,17.6,115900.0,2670.78,1.5
+VOY-10773,9800063,Port of Melbourne,Port of Antwerp-Bruges,11207.0,651.6,17.2,115200.0,4671.09,24.0
+VOY-10774,9800063,Port of Mundra,Port of Tokyo,4586.6,247.9,18.5,134000.0,2365.79,1.5
+VOY-10775,9800063,Port of Tokyo,Port of Rotterdam,6307.4,368.9,17.1,124100.0,2659.21,6.5
+VOY-10776,9800063,Port of Genoa,Port of Ningbo-Zhoushan,6278.8,365.0,17.2,124600.0,2635.29,1.5
+VOY-10777,9800064,Port of Jebel Ali (Dubai),Port of Colombo,2237.6,131.6,17.0,72200.0,606.09,1.5
+VOY-10778,9800064,Port of Tokyo,Port of Busan,647.5,36.2,17.9,70400.0,192.63,0.0
+VOY-10779,9800064,Port of Port Said,Port of Tokyo,6342.7,326.9,19.4,89800.0,2673.93,6.5
+VOY-10780,9800064,Port of Shenzhen,Port of Melbourne,5027.1,276.2,18.2,91400.0,1687.47,12.0
+VOY-10781,9800064,Port of Vancouver,Port of Durban,11439.9,669.0,17.1,62000.0,2960.56,24.0
+VOY-10782,9800064,Port of Cape Town,Port of Genoa,5914.2,316.3,18.7,87800.0,2065.78,3.0
+VOY-10783,9800064,Port of Tangier Med,Port of Jebel Ali (Dubai),3940.7,217.7,18.1,76700.0,1217.95,24.0
+VOY-10784,9800064,Port of Colon (Panama),Port of Salalah,9560.2,562.4,17.0,84400.0,2708.6,12.0
+VOY-10785,9800064,Port of Le Havre,King Abdullah Port,3057.3,156.0,19.6,62900.0,1008.42,0.0
+VOY-10786,9800064,Port of Cape Town,Port of Rotterdam,6508.0,351.8,18.5,84300.0,2275.44,1.5
+VOY-10787,9800064,Port of Yokohama,Port of Hamburg,6073.8,323.1,18.8,76200.0,2074.0,0.0
+VOY-10788,9800064,Port of Durban,Port of Tanjung Pelepas,5674.7,297.1,19.1,68100.0,1908.02,1.5
+VOY-10789,9800064,Port of Ningbo-Zhoushan,Port of Klang,2473.5,132.3,18.7,63600.0,774.6,3.0
+VOY-10790,9800064,Port of Port Said,Port of Kaohsiung,5768.9,287.0,20.1,67800.0,2068.33,0.0
+VOY-10791,9800065,Port of Valencia,Port of Busan,6903.8,413.4,16.7,49900.0,1429.94,1.5
+VOY-10792,9800065,Port of Buenos Aires,Port of Le Havre,7412.3,423.6,17.5,38300.0,1525.67,1.5
+VOY-10793,9800065,King Abdullah Port,Port of Salalah,1132.8,64.7,17.5,54100.0,284.86,12.0
+VOY-10794,9800065,Port of Sydney,Port of Yokohama,5265.0,327.0,16.1,50000.0,1023.62,3.0
+VOY-10795,9800065,Port of Port Said,Port of Hong Kong,5403.9,303.6,17.8,47200.0,1318.93,0.0
+VOY-10796,9800065,Port of Le Havre,Port of Busan,6305.7,384.5,16.4,44300.0,1285.76,0.0
+VOY-10797,9800065,Port of Busan,Port of Houston,7710.9,450.9,17.1,45600.0,1662.74,3.0
+VOY-10798,9800065,Port of Tokyo,Port of Chennai,4327.0,248.7,17.4,43600.0,915.24,24.0
+VOY-10799,9800065,Port of Algeciras,Port of Shenzhen,7364.3,428.2,17.2,42700.0,1558.39,24.0
+VOY-10800,9800065,Port of Genoa,Port of Salalah,3499.8,230.3,15.2,57000.0,663.98,0.0
+VOY-10801,9800065,Port of Vancouver,Port of Piraeus,6600.9,412.6,16.0,50100.0,1250.32,1.5
+VOY-10802,9800065,Port of Shanghai,Port of Tanjung Pelepas,2577.4,157.2,16.4,54200.0,542.58,0.0
+VOY-10803,9800065,Port of Colon (Panama),Port of Port Said,7771.5,462.6,16.8,51400.0,1641.19,1.5
+VOY-10804,9800066,Port of Algeciras,Port of Genoa,1029.4,66.4,15.5,28200.0,103.09,12.0
+VOY-10805,9800066,Port of Felixstowe,Port of Le Havre,194.5,11.5,16.9,21700.0,22.09,12.0
+VOY-10806,9800066,Port of Mundra,Port of Jebel Ali (Dubai),1017.1,69.2,14.7,32100.0,93.32,0.0
+VOY-10807,9800066,Port of Klang,Port of Chennai,1740.9,116.1,15.0,28100.0,155.86,1.5
+VOY-10808,9800066,Port of Genoa,Port of Le Havre,591.7,37.4,15.8,31400.0,65.98,0.0
+VOY-10809,9800066,Port of Tokyo,Port of Long Beach,5967.6,359.5,16.6,28400.0,688.56,3.0
+VOY-10810,9800066,Port of Jebel Ali (Dubai),Port of Piraeus,2218.1,151.9,14.6,24900.0,189.52,1.5
+VOY-10811,9800066,Port of Mundra,Port of Hamburg,4049.6,281.2,14.4,25000.0,328.01,6.5
+VOY-10812,9800066,Port of Le Havre,King Abdullah Port,3057.3,209.4,14.6,30500.0,295.98,0.0
+VOY-10813,9800066,Port of Santos,Port of Algeciras,5360.8,359.8,14.9,29900.0,509.31,0.0
+VOY-10814,9800066,Port of Colon (Panama),Port of Buenos Aires,3636.8,221.8,16.4,25600.0,415.93,12.0
+VOY-10815,9800066,Port of Cape Town,Port of Tangier Med,5501.4,361.9,15.2,28000.0,512.87,0.0
+VOY-10816,9800066,Port of New York & New Jersey,Port of Genoa,4388.7,286.8,15.3,31300.0,474.93,3.0
+VOY-10817,9800067,Port of Ningbo-Zhoushan,Port of Shanghai,102.3,7.2,14.3,15400.0,16.31,6.5
+VOY-10818,9800067,Port of Singapore,Port of Sydney,4251.4,270.8,15.7,12500.0,675.55,1.5
+VOY-10819,9800067,Port of Jebel Ali (Dubai),Port of Salalah,609.9,37.6,16.2,12100.0,108.0,24.0
+VOY-10820,9800067,Port of Tanjung Pelepas,Port of Sydney,4271.8,282.9,15.1,13600.0,694.07,3.0
+VOY-10821,9800067,Port of Long Beach,Port of Mundra,9223.2,565.8,16.3,11100.0,1660.45,3.0
+VOY-10822,9800067,Port of Algeciras,Port of Hong Kong,7381.7,502.2,14.7,13400.0,1126.37,1.5
+VOY-10823,9800067,Port of Tanjung Pelepas,Port of Hamburg,6830.7,487.9,14.0,12100.0,916.02,24.0
+VOY-10824,9800067,Port of Savannah,Port of Los Angeles,2333.0,152.5,15.3,12500.0,351.18,0.0
+VOY-10825,9800067,Port of Salalah,Port of Singapore,3861.2,252.4,15.3,12300.0,604.18,12.0
+VOY-10826,9800067,Port of Le Havre,Port of Tokyo,6574.0,435.4,15.1,11000.0,958.37,6.5
+VOY-10827,9800067,Port of Houston,Port of Shenzhen,9046.1,650.8,13.9,14700.0,1279.06,1.5
+VOY-10828,9800067,Port of Hong Kong,King Abdullah Port,5144.9,359.8,14.3,11200.0,639.58,0.0
+VOY-10829,9800067,Port of Colombo,Port of Chennai,463.0,31.1,14.9,13600.0,69.72,0.0
+VOY-10830,9800067,Port of Singapore,Port of New York & New Jersey,10353.3,655.3,15.8,11100.0,1652.69,0.0
+VOY-10831,9800068,Port of Piraeus,Port of Tangier Med,1748.8,120.6,14.5,234100.0,1538.52,24.0
+VOY-10832,9800068,Port of Shenzhen,Port of Felixstowe,6400.3,432.5,14.8,256400.0,6058.82,12.0
+VOY-10833,9800068,Port of Buenos Aires,Port of Melbourne,7836.0,567.8,13.8,271800.0,6657.61,3.0
+VOY-10834,9800068,Port of Sydney,Port of Melbourne,481.5,36.5,13.2,195900.0,321.16,0.0
+VOY-10835,9800068,Port of Sydney,Port of Houston,9326.7,652.2,14.3,225500.0,8330.45,6.5
+VOY-10836,9800068,Port of Shanghai,Port of Rotterdam,6025.3,388.7,15.5,206200.0,5842.25,0.0
+VOY-10837,9800068,Port of Tokyo,Port of Salalah,5761.2,379.0,15.2,195300.0,5300.66,0.0
+VOY-10838,9800068,Port of Tokyo,Port of Rotterdam,6307.4,470.7,13.4,223900.0,4864.01,0.0
+VOY-10839,9800068,Port of Shanghai,Port of Tokyo,1184.0,75.4,15.7,232000.0,1342.6,1.5
+VOY-10840,9800068,Port of Savannah,Port of Tanjung Pelepas,10977.6,813.2,13.5,276100.0,9213.32,0.0
+VOY-10841,9800068,Port of Rotterdam,Port of Chennai,5328.4,346.0,15.4,250100.0,5538.77,0.0
+VOY-10842,9800068,Port of Shenzhen,Port of Valencia,6974.9,491.2,14.2,256700.0,6128.24,0.0
+VOY-10843,9800068,Port of Busan,Port of Yokohama,646.9,42.8,15.1,217700.0,610.53,1.5
+VOY-10844,9800068,Port of Colon (Panama),Port of Tokyo,9122.0,665.8,13.7,255400.0,7663.84,12.0
+VOY-10845,9800069,Jawaharlal Nehru Port (JNPT),Port of Kaohsiung,3320.3,240.6,13.8,126500.0,289.57,12.0
+VOY-10846,9800069,Port of Salalah,Port of Antwerp-Bruges,3903.5,289.1,13.5,112000.0,312.03,3.0
+VOY-10847,9800069,King Abdullah Port,Port of Cape Town,4487.4,313.8,14.3,136100.0,429.11,12.0
+VOY-10848,9800069,Port of Le Havre,Port of Melbourne,11433.5,822.6,13.9,133800.0,1092.02,6.5
+VOY-10849,9800069,Port of Mundra,Port of Le Havre,4484.0,297.0,15.1,128400.0,484.14,1.5
+VOY-10850,9800069,Port of Jebel Ali (Dubai),Port of Colon (Panama),9326.5,638.8,14.6,127800.0,902.54,24.0
+VOY-10851,9800069,Port of Chennai,Port of Hamburg,5090.6,358.5,14.2,135200.0,487.66,0.0
+VOY-10852,9800069,Port of Algeciras,Port of Piraeus,1741.6,123.5,14.1,113400.0,159.84,3.0
+VOY-10853,9800069,Port of New York & New Jersey,Port of Algeciras,3941.4,252.7,15.6,115300.0,419.94,0.0
+VOY-10854,9800069,Port of Cape Town,Port of Felixstowe,6543.0,457.6,14.3,102200.0,562.84,6.5
+VOY-10855,9800070,Port of Mundra,Port of Piraeus,3153.0,216.0,14.6,86800.0,666.81,24.0
+VOY-10856,9800070,Port of Jebel Ali (Dubai),Port of Piraeus,2218.1,163.1,13.6,74400.0,377.3,1.5
+VOY-10857,9800070,Port of Santos,Port of Buenos Aires,1120.7,78.4,14.3,86900.0,234.12,6.5
+VOY-10858,9800070,Port of Mundra,Port of Tanjung Pelepas,2945.4,221.5,13.3,92600.0,565.8,12.0
+VOY-10859,9800070,Port of New York & New Jersey,Port of Buenos Aires,5754.7,442.7,13.0,67400.0,873.79,0.0
+VOY-10860,9800070,Port of Port Said,Port of Los Angeles,8204.1,558.1,14.7,86800.0,1816.71,1.5
+VOY-10861,9800070,Port of Tangier Med,Port of Santos,5344.2,361.1,14.8,74600.0,1084.32,3.0
+VOY-10862,9800070,Port of Felixstowe,Port of Santos,6499.9,485.1,13.4,88500.0,1172.07,0.0
+VOY-10863,9800070,Port of Felixstowe,Port of Tokyo,6385.9,473.0,13.5,81600.0,1128.79,24.0
+VOY-10864,9800070,Port of Buenos Aires,Port of Tangier Med,6455.2,489.0,13.2,83900.0,1184.39,0.0
+VOY-10865,9800070,Port of Felixstowe,Port of Tokyo,6385.9,476.6,13.4,71400.0,1122.95,0.0
+VOY-10866,9800071,Port of Piraeus,Port of Houston,6870.1,480.4,14.3,41000.0,1803.2,1.5
+VOY-10867,9800071,Port of Shanghai,Port of New York & New Jersey,8003.8,548.2,14.6,37600.0,2177.43,24.0
+VOY-10868,9800071,Port of Kaohsiung,Port of Singapore,2000.8,133.4,15.0,34500.0,567.82,24.0
+VOY-10869,9800071,Port of Santos,Port of Shanghai,12532.8,895.2,14.0,32400.0,3025.99,1.5
+VOY-10870,9800071,Port of Yokohama,Port of Klang,3601.1,238.5,15.1,45300.0,1159.49,1.5
+VOY-10871,9800071,Port of Buenos Aires,King Abdullah Port,8139.8,557.5,14.6,37100.0,2147.29,3.0
+VOY-10872,9800071,Port of Tanjung Pelepas,Port of Buenos Aires,10711.9,709.4,15.1,40000.0,3230.55,3.0
+VOY-10873,9800071,Port of Hamburg,Port of Piraeus,1367.1,103.6,13.2,42800.0,330.11,24.0
+VOY-10874,9800071,Port of Klang,Port of Buenos Aires,10749.5,726.3,14.8,39300.0,3271.32,0.0
+VOY-10875,9800071,Jawaharlal Nehru Port (JNPT),Port of Piraeus,3503.7,238.3,14.7,34300.0,976.2,0.0
+VOY-10876,9800072,Port of Yokohama,Port of Sydney,5265.0,297.5,17.7,14900.0,522.31,3.0
+VOY-10877,9800072,Port of Colon (Panama),Port of Los Angeles,3212.8,200.8,16.0,13300.0,261.43,0.0
+VOY-10878,9800072,Port of Felixstowe,Port of Santos,6499.9,396.3,16.4,12800.0,522.48,0.0
+VOY-10879,9800072,Port of Tokyo,Port of Algeciras,7594.6,471.7,16.1,12900.0,601.64,0.0
+VOY-10880,9800072,Port of Yokohama,Port of Piraeus,6431.7,355.3,18.1,12400.0,626.29,0.0
+VOY-10881,9800072,Port of Hong Kong,Port of Melbourne,5008.6,305.4,16.4,12500.0,382.53,24.0
+VOY-10882,9800072,Port of Felixstowe,Port of Long Beach,5953.4,334.5,17.8,12100.0,558.75,0.0
+VOY-10883,9800072,Port of Salalah,Port of Ningbo-Zhoushan,4689.2,256.2,18.3,14000.0,501.4,0.0
+VOY-10884,9800072,Port of Shenzhen,Port of Busan,1365.6,74.2,18.4,13700.0,137.97,0.0
+VOY-10885,9800072,Port of Colombo,Port of Vancouver,9029.7,564.4,16.0,13200.0,730.88,0.0
+VOY-10886,9800072,Port of Shanghai,Port of Shenzhen,818.9,44.7,18.3,14600.0,91.77,0.0
+VOY-10887,9800072,Port of Tanjung Pelepas,Port of Savannah,10977.6,627.3,17.5,15900.0,1162.03,0.0
+VOY-10888,9800072,Port of Piraeus,Port of Vancouver,6600.9,351.1,18.8,15200.0,722.34,0.0
+VOY-10889,9800072,Port of Mundra,Port of Salalah,1192.1,73.6,16.2,16300.0,107.67,3.0
+VOY-10890,9800072,Port of Houston,Port of Antwerp-Bruges,5468.4,327.4,16.7,12400.0,425.93,0.0
+VOY-10891,9800073,Port of Rotterdam,Port of Melbourne,11193.5,717.5,15.6,8100.0,647.17,0.0
+VOY-10892,9800073,Port of New York & New Jersey,Port of Buenos Aires,5754.7,366.5,15.7,11500.0,396.39,0.0
+VOY-10893,9800073,Port of Rotterdam,Port of Long Beach,6059.9,386.0,15.7,10700.0,387.89,24.0
+VOY-10894,9800073,Port of Yokohama,Jawaharlal Nehru Port (JNPT),4536.4,252.0,18.0,11000.0,392.93,3.0
+VOY-10895,9800073,Port of Shanghai,Port of Klang,2550.6,156.5,16.3,9700.0,184.73,0.0
+VOY-10896,9800073,Port of Savannah,Port of Santos,4888.8,274.7,17.8,8200.0,357.74,0.0
+VOY-10897,9800073,Port of Vancouver,Port of Los Angeles,1197.1,66.9,17.9,9100.0,93.72,24.0
+VOY-10898,9800073,Port of Busan,Port of Durban,8459.3,528.7,16.0,9600.0,584.89,6.5
+VOY-10899,9800073,Port of New York & New Jersey,Port of Algeciras,3941.4,241.8,16.3,9600.0,275.41,1.5
+VOY-10900,9800073,Port of Santos,Port of Hong Kong,12158.9,784.4,15.5,10400.0,766.96,0.0
+VOY-10901,9800073,Port of Algeciras,Port of Yokohama,7609.6,429.9,17.7,11900.0,668.59,0.0
+VOY-10902,9800074,Port of Hamburg,Port of Salalah,3750.4,238.9,15.7,18600.0,805.13,6.5
+VOY-10903,9800074,Jawaharlal Nehru Port (JNPT),Port of Antwerp-Bruges,4651.6,342.0,13.6,23400.0,847.28,0.0
+VOY-10904,9800074,Port of Algeciras,Port of Busan,7285.3,502.4,14.5,20200.0,1395.51,0.0
+VOY-10905,9800074,Port of Rotterdam,Port of Sydney,11264.6,731.5,15.4,22500.0,2573.47,0.0
+VOY-10906,9800074,Port of Singapore,Port of Klang,224.2,14.8,15.1,20500.0,49.11,0.0
+VOY-10907,9800074,Port of Los Angeles,Port of Buenos Aires,6634.4,445.3,14.9,24400.0,1467.28,6.5
+VOY-10908,9800074,Port of Le Havre,Port of Algeciras,1047.2,69.8,15.0,22600.0,245.46,1.5
+VOY-10909,9800074,Port of Shenzhen,Port of Shanghai,818.9,56.9,14.4,23300.0,171.89,6.5
+VOY-10910,9800074,Port of Le Havre,Port of Genoa,591.7,41.1,14.4,24000.0,122.67,6.5
+VOY-10911,9800074,Port of Valencia,Port of Houston,5636.0,396.9,14.2,19300.0,1090.31,24.0
+VOY-10912,9800075,Port of Hong Kong,Port of Los Angeles,7876.7,640.4,12.3,16200.0,146.93,6.5
+VOY-10913,9800075,Port of Piraeus,Port of Valencia,1407.4,117.3,12.0,16100.0,22.68,0.0
+VOY-10914,9800075,Port of Ningbo-Zhoushan,Port of Hong Kong,753.2,59.8,12.6,20300.0,16.88,0.0
+VOY-10915,9800075,Port of Chennai,Port of Singapore,1963.2,138.3,14.2,16000.0,48.59,12.0
+VOY-10916,9800075,Port of Sydney,Port of Colombo,5904.5,488.0,12.1,18200.0,108.66,0.0
+VOY-10917,9800075,Port of Singapore,Port of Tangier Med,7864.4,553.8,14.2,16300.0,193.88,0.0
+VOY-10918,9800075,Port of Jebel Ali (Dubai),Port of Tokyo,5372.1,410.1,13.1,17100.0,107.23,12.0
+VOY-10919,9800075,Port of Kaohsiung,Port of Melbourne,4858.4,370.9,13.1,14200.0,92.45,0.0
+VOY-10920,9800075,Port of Klang,Port of Chennai,1740.9,141.5,12.3,14500.0,28.67,0.0
+VOY-10921,9800075,Port of Salalah,Port of Singapore,3861.2,292.5,13.2,16700.0,85.84,1.5
+VOY-10922,9800075,Port of Hamburg,Port of Durban,6408.2,481.8,13.3,15500.0,125.68,0.0
+VOY-10923,9800075,Port of Ningbo-Zhoushan,Port of Santos,12585.4,998.8,12.6,17600.0,238.07,6.5
+VOY-10924,9800075,Port of Tokyo,Port of Yokohama,17.5,1.2,14.1,15800.0,0.38,6.5
+VOY-10925,9800075,Port of Melbourne,Port of Rotterdam,11193.5,788.3,14.2,19900.0,319.34,0.0
+VOY-10926,9800075,Port of Port Said,Port of Savannah,6805.7,511.7,13.3,19800.0,151.07,12.0
+VOY-10927,9800076,Port of Yokohama,Port of Tangier Med,7627.7,479.7,15.9,34800.0,987.59,0.0
+VOY-10928,9800076,Port of Durban,Port of Los Angeles,11536.0,749.1,15.4,26400.0,1215.47,0.0
+VOY-10929,9800076,Port of Busan,Port of Shanghai,561.6,34.2,16.4,27400.0,63.65,6.5
+VOY-10930,9800076,Port of Mundra,King Abdullah Port,2115.6,149.0,14.2,30400.0,197.4,0.0
+VOY-10931,9800076,Port of Port Said,Port of Colombo,3794.9,256.4,14.8,33300.0,406.0,3.0
+VOY-10932,9800076,Port of Tangier Med,Port of Klang,7640.4,492.9,15.5,28300.0,816.1,1.5
+VOY-10933,9800076,Port of Shanghai,Port of Algeciras,7224.7,494.8,14.6,30500.0,734.12,0.0
+VOY-10934,9800076,Port of Chennai,Port of Los Angeles,9753.2,629.2,15.5,36200.0,1181.28,0.0
+VOY-10935,9800076,Port of Chennai,Port of Cape Town,5645.7,352.9,16.0,35500.0,688.34,1.5
+VOY-10936,9800076,Port of Piraeus,Port of Durban,5114.8,330.0,15.5,30200.0,543.36,6.5
+VOY-10937,9800076,Port of Hamburg,Port of New York & New Jersey,4137.4,257.0,16.1,33800.0,501.9,0.0
+VOY-10938,9800076,Port of Vancouver,Port of Jebel Ali (Dubai),7932.0,547.0,14.5,37800.0,787.09,12.0
+VOY-10939,9800077,Port of Le Havre,Port of Colon (Panama),5735.2,412.6,13.9,147000.0,1364.42,0.0
+VOY-10940,9800077,Port of Savannah,Port of Durban,9212.8,644.3,14.3,132600.0,2214.02,0.0
+VOY-10941,9800077,Port of Algeciras,Port of Antwerp-Bruges,1249.2,93.2,13.4,122200.0,253.83,3.0
+VOY-10942,9800077,Port of Valencia,Port of Genoa,638.2,43.7,14.6,113500.0,147.44,24.0
+VOY-10943,9800077,Port of Felixstowe,Port of Hong Kong,6418.6,439.6,14.6,132000.0,1643.16,3.0
+VOY-10944,9800077,Port of Buenos Aires,Port of Santos,1120.7,89.7,12.5,128600.0,206.35,3.0
+VOY-10945,9800077,Port of Melbourne,Port of Long Beach,8613.9,610.9,14.1,142900.0,2031.24,12.0
+VOY-10946,9800077,Port of Salalah,Port of Jebel Ali (Dubai),609.9,46.6,13.1,151700.0,132.53,0.0
+VOY-10947,9800077,Port of Rotterdam,Port of Singapore,7110.6,519.0,13.7,146200.0,1612.61,0.0
+VOY-10948,9800077,Port of Colombo,Port of Sydney,5904.5,457.7,12.9,137200.0,1217.39,3.0
+VOY-10949,9800077,Port of Hong Kong,Port of Los Angeles,7876.7,558.6,14.1,125900.0,1865.91,6.5
+VOY-10950,9800077,Port of Mundra,Port of Piraeus,3153.0,228.5,13.8,127000.0,685.1,24.0
+VOY-10951,9800077,Port of Salalah,Port of Buenos Aires,8836.0,605.2,14.6,130100.0,2319.2,12.0
+VOY-10952,9800077,Port of Singapore,Port of Kaohsiung,2000.8,152.7,13.1,129300.0,379.77,1.5
+VOY-10953,9800078,Port of Tanjung Pelepas,Port of Cape Town,6508.3,439.8,14.8,62900.0,1141.77,0.0
+VOY-10954,9800078,Port of Chennai,Port of Hong Kong,2514.3,184.9,13.6,59600.0,382.29,12.0
+VOY-10955,9800078,Port of Chennai,Port of Ningbo-Zhoushan,3123.7,231.4,13.5,68500.0,463.34,12.0
+VOY-10956,9800078,Port of Piraeus,Port of Sydney,10348.7,685.3,15.1,63200.0,1970.0,24.0
+VOY-10957,9800078,Port of Kaohsiung,Port of Tokyo,1597.0,113.3,14.1,69400.0,276.45,0.0
+VOY-10958,9800078,Port of Shanghai,King Abdullah Port,5428.6,414.4,13.1,57800.0,761.34,0.0
+VOY-10959,9800078,Port of Yokohama,Port of Hamburg,6073.8,418.9,14.5,60800.0,1078.15,12.0
+VOY-10960,9800078,Port of Durban,Jawaharlal Nehru Port (JNPT),4754.3,339.6,14.0,70300.0,758.51,1.5
+VOY-10961,9800078,Port of Klang,Port of Hamburg,6636.1,451.4,14.7,69900.0,1186.64,1.5
+VOY-10962,9800078,Port of Buenos Aires,Port of Kaohsiung,12606.1,894.0,14.1,54000.0,1961.08,6.5
+VOY-10963,9800078,Port of Singapore,Port of Sydney,4251.4,322.1,13.2,56700.0,582.56,0.0
+VOY-10964,9800079,Port of Colon (Panama),Port of Mundra,10218.6,735.2,13.9,42300.0,1326.21,24.0
+VOY-10965,9800079,Port of Durban,Port of New York & New Jersey,8982.2,712.9,12.6,39400.0,855.94,0.0
+VOY-10966,9800079,Port of Sydney,Port of Buenos Aires,7965.1,568.9,14.0,46500.0,1067.81,0.0
+VOY-10967,9800079,Port of Antwerp-Bruges,Port of Algeciras,1249.2,88.6,14.1,51300.0,185.66,0.0
+VOY-10968,9800079,Port of Houston,Port of Valencia,5636.0,423.8,13.3,49800.0,670.3,24.0
+VOY-10969,9800079,Port of Buenos Aires,Port of Cape Town,4636.7,322.0,14.4,40900.0,591.05,6.5
+VOY-10970,9800079,Jawaharlal Nehru Port (JNPT),Port of Klang,2406.5,169.5,14.2,39800.0,308.48,24.0
+VOY-10971,9800079,Port of Los Angeles,Port of Vancouver,1197.1,84.3,14.2,43700.0,160.35,24.0
+VOY-10972,9800079,Port of Salalah,Port of Mundra,1192.1,88.3,13.5,53300.0,153.67,3.0
+VOY-10973,9800079,Port of Hamburg,Port of Melbourne,10925.5,780.4,14.0,51700.0,1494.02,0.0
+VOY-10974,9800080,Port of Genoa,Port of New York & New Jersey,4388.7,335.0,13.1,28500.0,130.59,0.0
+VOY-10975,9800080,Port of Hamburg,Port of Sydney,10986.5,807.8,13.6,31200.0,384.87,0.0
+VOY-10976,9800080,Port of Klang,Port of Shanghai,2550.6,183.5,13.9,25400.0,77.92,6.5
+VOY-10977,9800080,Port of Long Beach,Port of Santos,6708.4,549.9,12.2,31400.0,188.51,0.0
+VOY-10978,9800080,Port of Tanjung Pelepas,Port of Klang,202.7,16.1,12.6,31500.0,5.82,24.0
+VOY-10979,9800080,Port of Shanghai,Port of Algeciras,7224.7,535.2,13.5,29200.0,231.77,6.5
+VOY-10980,9800080,Port of Mundra,Port of Klang,2742.8,221.2,12.4,31600.0,73.77,6.5
+VOY-10981,9800080,Port of Buenos Aires,Port of Tanjung Pelepas,10711.9,878.0,12.2,25100.0,270.23,3.0
+VOY-10982,9800080,Port of Port Said,Port of Houston,7602.3,589.3,12.9,26100.0,211.57,0.0
+VOY-10983,9800080,Port of Salalah,Port of Tanjung Pelepas,3838.0,284.3,13.5,25800.0,110.45,1.5
+VOY-10984,9800080,Port of Los Angeles,Port of Antwerp-Bruges,6098.9,438.8,13.9,26400.0,205.75,0.0
+VOY-10985,9800080,Port of Mundra,Port of Busan,3947.5,315.8,12.5,26600.0,101.87,12.0
+VOY-10986,9800080,Port of Algeciras,Port of Cape Town,5518.2,441.5,12.5,35000.0,171.69,3.0
+VOY-10987,9800080,Port of Tokyo,Port of New York & New Jersey,7324.3,538.6,13.6,25900.0,231.98,12.0
+VOY-10988,9800080,Port of Antwerp-Bruges,Port of Colon (Panama),5940.8,487.0,12.2,35200.0,179.04,0.0
+VOY-10989,9800081,Port of Tokyo,Port of Jebel Ali (Dubai),5372.1,284.2,18.9,126100.0,2661.0,6.5
+VOY-10990,9800081,Port of Kaohsiung,Port of Le Havre,6793.2,377.4,18.0,135800.0,3169.61,1.5
+VOY-10991,9800081,Port of Valencia,Port of Busan,6903.8,357.7,19.3,155000.0,4244.0,6.5
+VOY-10992,9800081,Port of Hamburg,Port of Chennai,5090.6,257.1,19.8,181600.0,3376.55,6.5
+VOY-10993,9800081,Port of Piraeus,Port of Rotterdam,1453.6,73.8,19.7,148600.0,859.48,12.0
+VOY-10994,9800081,Port of Colombo,Port of Savannah,10279.7,567.9,18.1,142700.0,4959.51,0.0
+VOY-10995,9800081,Port of Jebel Ali (Dubai),Port of Colon (Panama),9326.5,526.9,17.7,147400.0,4201.58,3.0
+VOY-10996,9800081,Port of Felixstowe,Port of Tangier Med,1260.7,73.3,17.2,124600.0,511.1,0.0
+VOY-10997,9800081,Port of Colon (Panama),Port of Felixstowe,5798.3,325.7,17.8,157900.0,2808.79,0.0
+VOY-10998,9800081,Port of Tanjung Pelepas,Port of Shenzhen,1764.8,90.5,19.5,172500.0,1138.48,12.0
+VOY-10999,9800082,Port of New York & New Jersey,Port of Sydney,10791.5,606.3,17.8,106400.0,9061.78,0.0
+VOY-11000,9800082,Port of Cape Town,Port of Genoa,5914.2,334.1,17.7,105600.0,5107.87,3.0
+VOY-11001,9800082,Port of Klang,Port of Busan,3088.3,189.5,16.3,100600.0,2128.91,6.5
+VOY-11002,9800082,Port of Singapore,Port of Sydney,4251.4,259.2,16.4,104700.0,3191.38,24.0
+VOY-11003,9800082,Port of Santos,Port of Singapore,10754.9,640.2,16.8,111900.0,8370.55,24.0
+VOY-11004,9800082,Port of Klang,Port of Valencia,7289.4,447.2,16.3,120400.0,5656.44,0.0
+VOY-11005,9800082,Port of Los Angeles,Port of Shanghai,7057.1,425.1,16.6,126600.0,5719.88,0.0
+VOY-11006,9800082,Port of Salalah,Port of Genoa,3499.8,198.9,17.6,135900.0,3490.77,0.0
+VOY-11007,9800082,Port of Mundra,Port of Melbourne,6981.3,403.5,17.3,130600.0,5989.32,0.0
+VOY-11008,9800082,Port of Colon (Panama),Port of Jebel Ali (Dubai),9326.5,551.9,16.9,129900.0,7824.85,12.0
+VOY-11009,9800082,Port of Genoa,Port of Singapore,6949.5,406.4,17.1,114900.0,5500.57,0.0
+VOY-11010,9800082,Port of Savannah,Port of Le Havre,4562.2,276.5,16.5,100700.0,3442.33,0.0
+VOY-11011,9800082,Port of Shanghai,Port of Shenzhen,818.9,43.8,18.7,130000.0,862.92,3.0
+VOY-11012,9800082,Port of Klang,Port of Algeciras,7633.5,414.9,18.4,132600.0,8183.39,1.5
+VOY-11013,9800082,Jawaharlal Nehru Port (JNPT),Port of Le Havre,4852.1,262.3,18.5,127900.0,4875.93,0.0
+VOY-11014,9800083,Port of Vancouver,Port of Durban,11439.9,625.1,18.3,86300.0,4316.42,1.5
+VOY-11015,9800083,Port of Algeciras,Port of Singapore,7857.4,396.8,19.8,83600.0,3285.43,3.0
+VOY-11016,9800083,Port of Le Havre,Port of Durban,6303.4,362.3,17.4,81100.0,2007.64,12.0
+VOY-11017,9800083,Port of Jebel Ali (Dubai),Port of Colon (Panama),9326.5,483.2,19.3,64800.0,3506.75,0.0
+VOY-11018,9800083,Port of Colombo,Port of Cape Town,5324.2,292.5,18.2,90900.0,2104.55,1.5
+VOY-11019,9800083,Port of Valencia,Port of Shenzhen,6974.9,354.1,19.7,94200.0,3305.12,0.0
+VOY-11020,9800083,Port of Tokyo,Port of Antwerp-Bruges,6352.7,354.9,17.9,66600.0,1942.47,0.0
+VOY-11021,9800083,Port of Vancouver,Port of Shenzhen,6909.3,390.4,17.7,79900.0,2302.32,0.0
+VOY-11022,9800083,Port of Salalah,Port of Colombo,2038.8,106.7,19.1,65100.0,681.93,1.5
+VOY-11023,9800083,Port of Busan,Port of Hamburg,5768.0,315.2,18.3,91700.0,2166.86,1.5
+VOY-11024,9800083,Port of Antwerp-Bruges,Port of Melbourne,11207.0,599.3,18.7,84100.0,4179.92,1.5
+VOY-11025,9800083,Port of Long Beach,King Abdullah Port,8982.4,485.5,18.5,74400.0,2994.56,0.0
+VOY-11026,9800083,Port of Cape Town,Port of Tangier Med,5501.4,323.6,17.0,92700.0,1818.68,6.5
+VOY-11027,9800083,Port of Algeciras,Port of Salalah,4175.6,225.7,18.5,78700.0,1570.45,3.0
+VOY-11028,9800083,Port of Ningbo-Zhoushan,Port of Hong Kong,753.2,37.5,20.1,82600.0,319.4,24.0
+VOY-11029,9800084,Port of Tokyo,Port of Piraeus,6419.9,347.0,18.5,52700.0,1696.96,1.5
+VOY-11030,9800084,Port of Long Beach,Port of Tokyo,5967.6,349.0,17.1,43800.0,1214.1,12.0
+VOY-11031,9800084,Port of Le Havre,Port of Savannah,4562.2,244.0,18.7,43900.0,1128.37,24.0
+VOY-11032,9800084,Port of Algeciras,Port of Genoa,1029.4,61.3,16.8,57100.0,230.62,1.5
+VOY-11033,9800084,Port of Kaohsiung,Port of Felixstowe,6635.3,414.7,16.0,59900.0,1407.44,0.0
+VOY-11034,9800084,Port of Antwerp-Bruges,Port of Vancouver,5253.7,320.3,16.4,45500.0,978.1,0.0
+VOY-11035,9800084,Port of Buenos Aires,Port of Hamburg,7959.7,468.2,17.0,50800.0,1645.28,6.5
+VOY-11036,9800084,Port of Mundra,Port of Valencia,4556.8,245.0,18.6,62400.0,1332.53,0.0
+VOY-11037,9800084,Port of Salalah,Port of Kaohsiung,4664.8,276.0,16.9,55400.0,988.17,24.0
+VOY-11038,9800084,Port of Antwerp-Bruges,Port of Santos,6558.2,412.5,15.9,55900.0,1296.95,3.0
+VOY-11039,9800084,Port of Le Havre,Port of Santos,6322.9,367.6,17.2,59900.0,1430.79,1.5
+VOY-11040,9800084,Port of Singapore,Port of Tanjung Pelepas,23.4,1.3,18.2,48700.0,5.53,24.0
+VOY-11041,9800084,Port of Sydney,Port of Long Beach,8141.5,452.3,18.0,50600.0,1990.93,1.5
+VOY-11042,9800084,Port of Colombo,Port of Rotterdam,5670.5,354.4,16.0,49400.0,1092.61,0.0
+VOY-11043,9800084,Port of Kaohsiung,Port of Rotterdam,6518.3,404.9,16.1,52500.0,1343.43,12.0
+VOY-11044,9800085,Port of Mundra,Port of Singapore,2967.0,175.6,16.9,29400.0,444.8,0.0
+VOY-11045,9800085,Port of Vancouver,Port of Colon (Panama),4028.6,234.2,17.2,25300.0,620.45,0.0
+VOY-11046,9800085,Port of Tangier Med,Port of Los Angeles,6475.1,385.4,16.8,26500.0,986.93,0.0
+VOY-11047,9800085,Port of Long Beach,Port of Los Angeles,5.0,0.3,17.2,35300.0,0.87,3.0
+VOY-11048,9800085,Port of Klang,Port of Rotterdam,6896.6,459.8,15.0,32600.0,896.74,12.0
+VOY-11049,9800085,Port of Melbourne,Port of Singapore,4087.3,243.3,16.8,24500.0,570.81,0.0
+VOY-11050,9800085,Port of Tanjung Pelepas,Port of Busan,3101.0,211.0,14.7,25500.0,350.27,0.0
+VOY-11051,9800085,Port of Melbourne,Port of Salalah,7582.4,459.5,16.5,29700.0,1180.48,0.0
+VOY-11052,9800085,Port of Hamburg,Port of Long Beach,6142.7,361.3,17.0,32100.0,1005.56,24.0
+VOY-11053,9800085,Port of Tokyo,Port of Cape Town,9940.3,584.7,17.0,33300.0,1749.52,0.0
+VOY-11054,9800086,Port of Buenos Aires,Port of Tangier Med,6455.2,421.9,15.3,17600.0,568.47,12.0
+VOY-11055,9800086,Port of Hamburg,Port of Piraeus,1367.1,90.5,15.1,18200.0,113.28,12.0
+VOY-11056,9800086,Port of Savannah,Port of Mundra,8885.1,612.8,14.5,20600.0,695.68,6.5
+VOY-11057,9800086,Port of Tanjung Pelepas,Port of Kaohsiung,2009.8,121.8,16.5,21000.0,233.08,12.0
+VOY-11058,9800086,Port of Valencia,Port of Melbourne,11486.0,713.4,16.1,19400.0,1216.44,0.0
+VOY-11059,9800086,Port of Klang,Port of Hong Kong,1722.5,110.4,15.6,20400.0,160.96,0.0
+VOY-11060,9800086,Port of Los Angeles,Port of Shanghai,7057.1,470.5,15.0,16900.0,581.78,12.0
+VOY-11061,9800086,Port of Shenzhen,Port of Yokohama,1929.5,129.5,14.9,20700.0,171.99,0.0
+VOY-11062,9800086,Port of Antwerp-Bruges,Port of Ningbo-Zhoushan,6148.6,384.3,16.0,15500.0,517.19,0.0
+VOY-11063,9800086,Port of Felixstowe,Port of Singapore,7252.8,514.4,14.1,15000.0,479.88,1.5
+VOY-11064,9800086,Port of Colombo,Port of Los Angeles,10195.5,617.9,16.5,19200.0,1118.88,1.5
+VOY-11065,9800086,Port of Chennai,Port of Rotterdam,5328.4,360.0,14.8,18500.0,422.28,24.0
+VOY-11066,9800086,Port of Hong Kong,Port of Durban,7156.6,493.6,14.5,16900.0,532.11,0.0
+VOY-11067,9800086,Port of Colombo,Port of Algeciras,6165.4,422.3,14.6,21500.0,531.87,12.0
+VOY-11068,9800086,Port of Tangier Med,Port of Algeciras,19.2,1.2,16.3,19800.0,1.97,0.0
+VOY-11069,9800087,Jawaharlal Nehru Port (JNPT),Port of Hong Kong,2897.3,182.2,15.9,274300.0,586.4,12.0
+VOY-11070,9800087,Port of Le Havre,Port of Valencia,752.8,54.6,13.8,233800.0,99.77,6.5
+VOY-11071,9800087,Port of Colombo,Port of Buenos Aires,9958.4,630.3,15.8,277900.0,1957.15,0.0
+VOY-11072,9800087,Port of Salalah,Port of Singapore,3861.2,283.9,13.6,188300.0,477.68,0.0
+VOY-11073,9800087,Port of Shanghai,Port of Vancouver,6091.1,420.1,14.5,189700.0,808.04,12.0
+VOY-11074,9800087,Port of Shanghai,Port of Rotterdam,6025.3,439.8,13.7,187300.0,745.16,3.0
+VOY-11075,9800087,Jawaharlal Nehru Port (JNPT),Port of Tanjung Pelepas,2608.3,176.2,14.8,195800.0,395.81,1.5
+VOY-11076,9800087,Port of Shenzhen,Port of Port Said,5389.4,352.2,15.3,203700.0,820.63,12.0
+VOY-11077,9800087,Port of Port Said,Jawaharlal Nehru Port (JNPT),2894.2,199.6,14.5,252000.0,469.79,1.5
+VOY-11078,9800087,Port of Singapore,Port of Hong Kong,1748.7,110.7,15.8,190400.0,269.24,0.0
+VOY-11079,9800088,Port of Durban,Port of Buenos Aires,5488.6,394.9,13.9,114400.0,2852.14,0.0
+VOY-11080,9800088,King Abdullah Port,Port of Vancouver,7989.3,505.7,15.8,97200.0,5083.79,1.5
+VOY-11081,9800088,Port of Antwerp-Bruges,Port of Jebel Ali (Dubai),3483.5,258.0,13.5,114000.0,1784.85,0.0
+VOY-11082,9800088,Port of Cape Town,Port of Shenzhen,8016.2,538.0,14.9,99700.0,4716.15,1.5
+VOY-11083,9800088,Port of Tangier Med,Port of Genoa,1044.2,72.5,14.4,93300.0,543.92,12.0
+VOY-11084,9800088,Port of Kaohsiung,Port of Vancouver,6659.0,426.9,15.6,90400.0,4051.77,0.0
+VOY-11085,9800088,Port of Klang,Port of Tangier Med,7640.4,530.6,14.4,92300.0,3998.19,3.0
+VOY-11086,9800088,Port of Los Angeles,Port of Colombo,10195.5,666.4,15.3,127700.0,7145.1,1.5
+VOY-11087,9800088,Port of Busan,Port of Hong Kong,1372.8,102.4,13.4,105100.0,634.72,1.5
+VOY-11088,9800088,Port of Mundra,Port of Singapore,2967.0,191.4,15.5,108900.0,1982.57,24.0
+VOY-11089,9800088,Port of Cape Town,Port of Houston,9350.3,667.9,14.0,95600.0,4531.49,0.0
+VOY-11090,9800088,King Abdullah Port,Port of Klang,4753.4,316.9,15.0,116800.0,2912.74,12.0
+VOY-11091,9800088,Port of Hamburg,Port of Port Said,2061.2,153.8,13.4,122300.0,1011.85,24.0
+VOY-11092,9800088,Port of Le Havre,Port of Long Beach,6034.6,399.6,15.1,93800.0,3370.97,12.0
+VOY-11093,9800089,Port of Savannah,Port of Vancouver,2671.7,181.7,14.7,65700.0,190.19,12.0
+VOY-11094,9800089,Port of Vancouver,Port of Savannah,2671.7,179.3,14.9,79200.0,192.61,12.0
+VOY-11095,9800089,Port of Tangier Med,Port of Kaohsiung,7673.0,556.0,13.8,71200.0,478.65,0.0
+VOY-11096,9800089,Port of Le Havre,Port of Genoa,591.7,42.6,13.9,79900.0,37.0,1.5
+VOY-11097,9800089,Port of Genoa,Port of Port Said,1689.7,124.2,13.6,87700.0,118.92,6.5
+VOY-11098,9800089,Port of Kaohsiung,Port of Sydney,4780.3,341.4,14.0,78400.0,325.68,0.0
+VOY-11099,9800089,Port of Los Angeles,Port of Salalah,9665.0,685.5,14.1,66400.0,589.84,0.0
+VOY-11100,9800089,Port of Klang,Port of Rotterdam,6896.6,510.9,13.5,73500.0,411.09,12.0
+VOY-11101,9800089,Port of Rotterdam,Port of Durban,6381.9,434.1,14.7,70600.0,422.24,1.5
+VOY-11102,9800089,Port of Santos,Port of Valencia,5746.6,383.1,15.0,75100.0,424.27,0.0
+VOY-11103,9800089,Port of Salalah,Port of Yokohama,5764.0,394.8,14.6,62400.0,395.64,12.0
+VOY-11104,9800090,Port of Long Beach,Port of Santos,6708.4,496.9,13.5,33900.0,1534.73,0.0
+VOY-11105,9800090,Port of Buenos Aires,Port of Hamburg,7959.7,560.5,14.2,30900.0,1744.02,24.0
+VOY-11106,9800090,Port of Hong Kong,Port of Port Said,5403.9,435.8,12.4,39300.0,1061.82,0.0
+VOY-11107,9800090,Port of Shenzhen,Port of Port Said,5389.4,414.6,13.0,26800.0,987.76,0.0
+VOY-11108,9800090,Port of Colombo,Port of Jebel Ali (Dubai),2237.6,165.7,13.5,34800.0,493.26,24.0
+VOY-11109,9800090,Port of Santos,Port of New York & New Jersey,5223.7,401.8,13.0,32400.0,968.29,1.5
+VOY-11110,9800090,Port of Port Said,Port of Shanghai,5535.7,395.4,14.0,34100.0,1225.31,0.0
+VOY-11111,9800090,Port of Tanjung Pelepas,Port of Antwerp-Bruges,7103.3,522.3,13.6,27100.0,1403.3,0.0
+VOY-11112,9800090,Port of New York & New Jersey,Port of Jebel Ali (Dubai),7433.1,594.6,12.5,36300.0,1339.69,6.5
+VOY-11113,9800090,Port of Tanjung Pelepas,Port of Sydney,4271.8,341.7,12.5,37600.0,822.38,1.5
+VOY-11114,9800090,Port of Yokohama,Port of Tangier Med,7627.7,565.0,13.5,31400.0,1666.48,0.0
+VOY-11115,9800090,Port of New York & New Jersey,Port of Tangier Med,3947.6,313.3,12.6,38800.0,824.11,0.0
+VOY-11116,9800091,Port of Port Said,Port of Le Havre,2265.0,142.5,15.9,19300.0,478.8,6.5
+VOY-11117,9800091,Port of Mundra,Port of Long Beach,9223.2,504.0,18.3,19500.0,2542.81,0.0
+VOY-11118,9800091,Port of Rotterdam,Port of New York & New Jersey,3950.8,218.3,18.1,19200.0,1123.43,3.0
+VOY-11119,9800091,King Abdullah Port,Port of Piraeus,1525.3,83.3,18.3,21200.0,443.04,12.0
+VOY-11120,9800091,Port of New York & New Jersey,Port of Colombo,9504.9,609.3,15.6,17000.0,1881.68,1.5
+VOY-11121,9800091,Port of Valencia,Port of Port Said,2079.6,126.8,16.4,21000.0,469.1,6.5
+VOY-11122,9800091,Port of Busan,Port of Jebel Ali (Dubai),4759.1,286.7,16.6,17300.0,1038.96,12.0
+VOY-11123,9800091,Port of Hamburg,Port of Houston,5611.8,348.6,16.1,19600.0,1182.51,1.5
+VOY-11124,9800091,Port of Salalah,Port of Santos,7953.4,449.3,17.7,15900.0,1994.75,6.5
+VOY-11125,9800091,Port of Port Said,Port of Santos,6999.1,382.5,18.3,18800.0,2026.19,24.0
+VOY-11126,9800091,Jawaharlal Nehru Port (JNPT),Port of Le Havre,4852.1,263.7,18.4,20200.0,1416.61,1.5
+VOY-11127,9800091,Port of Tanjung Pelepas,Port of Shanghai,2577.4,142.4,18.1,20100.0,721.24,24.0
+VOY-11128,9800091,Port of Singapore,Port of Houston,10802.2,593.5,18.2,16300.0,2649.16,12.0
+VOY-11129,9800092,Port of Santos,Jawaharlal Nehru Port (JNPT),9282.7,549.3,16.9,11900.0,1665.88,12.0
+VOY-11130,9800092,Port of Durban,Port of Antwerp-Bruges,6334.6,362.0,17.5,9100.0,1034.67,3.0
+VOY-11131,9800092,Port of Rotterdam,Port of Shenzhen,6276.6,392.3,16.0,12300.0,1058.29,3.0
+VOY-11132,9800092,Port of Piraeus,Port of Los Angeles,7509.2,487.6,15.4,12700.0,1111.27,1.5
+VOY-11133,9800092,Port of Jebel Ali (Dubai),Port of Sydney,8138.0,462.4,17.6,12400.0,1715.63,0.0
+VOY-11134,9800092,Port of Los Angeles,Port of Genoa,6628.1,424.9,15.6,12300.0,1098.77,6.5
+VOY-11135,9800092,Port of Jebel Ali (Dubai),Port of Tangier Med,3940.7,229.1,17.2,10500.0,716.62,0.0
+VOY-11136,9800092,Port of Mundra,Port of Santos,9142.9,519.5,17.6,9300.0,1549.24,6.5
+VOY-11137,9800092,Port of Yokohama,Port of Hamburg,6073.8,402.2,15.1,9600.0,810.56,0.0
+VOY-11138,9800092,King Abdullah Port,Port of Antwerp-Bruges,2945.5,196.4,15.0,9800.0,385.46,3.0
+VOY-11139,9800092,Jawaharlal Nehru Port (JNPT),Port of Antwerp-Bruges,4651.6,298.2,15.6,9300.0,670.94,3.0
+VOY-11140,9800092,Port of Chennai,Port of New York & New Jersey,9093.5,541.3,16.8,12800.0,1679.62,0.0
+VOY-11141,9800092,Port of Tokyo,Port of Yokohama,17.5,1.1,15.4,12000.0,2.6,3.0
+VOY-11142,9800092,Port of Kaohsiung,Port of Piraeus,6097.5,381.1,16.0,13000.0,1085.76,0.0
+VOY-11143,9800093,Port of Le Havre,Port of Algeciras,1047.2,65.5,16.0,29500.0,131.14,0.0
+VOY-11144,9800093,Port of Savannah,Port of Valencia,4780.3,320.8,14.9,26500.0,500.23,6.5
+VOY-11145,9800093,Port of Hamburg,Port of Salalah,3750.4,258.6,14.5,21800.0,340.02,12.0
+VOY-11146,9800093,Port of Ningbo-Zhoushan,Port of Durban,7862.4,497.6,15.8,27600.0,953.36,6.5
+VOY-11147,9800093,Port of Tokyo,Port of Hong Kong,1940.9,130.3,14.9,30500.0,211.79,6.5
+VOY-11148,9800093,Port of Rotterdam,Port of Chennai,5328.4,343.8,15.5,28400.0,655.1,12.0
+VOY-11149,9800093,Port of Klang,Port of Long Beach,9578.9,679.4,14.1,29900.0,933.72,1.5
+VOY-11150,9800093,Port of Mundra,Port of Genoa,4023.7,281.4,14.3,21900.0,364.04,0.0
+VOY-11151,9800093,Port of Rotterdam,Port of Long Beach,6059.9,415.1,14.6,25400.0,606.91,0.0
+VOY-11152,9800093,Port of Le Havre,Port of Colombo,5860.6,366.3,16.0,22800.0,651.34,3.0
+VOY-11153,9800093,Port of Savannah,Port of Yokohama,7686.8,512.5,15.0,29300.0,847.12,0.0
+VOY-11154,9800093,Port of Singapore,Port of Buenos Aires,10716.5,700.4,15.3,21600.0,1075.22,0.0
+VOY-11155,9800093,Port of Durban,Port of Le Havre,6303.4,440.8,14.3,29300.0,612.57,6.5
+VOY-11156,9800093,Port of Busan,Port of Le Havre,6305.7,404.2,15.6,30900.0,763.2,0.0
+VOY-11157,9800094,Port of Antwerp-Bruges,Port of Cape Town,6456.9,439.2,14.7,16700.0,501.92,0.0
+VOY-11158,9800094,Port of Felixstowe,Port of Genoa,682.0,51.7,13.2,18500.0,44.74,1.5
+VOY-11159,9800094,Port of Jebel Ali (Dubai),Port of Chennai,1994.6,135.7,14.7,16700.0,148.68,0.0
+VOY-11160,9800094,King Abdullah Port,Port of Houston,8390.9,621.5,13.5,19400.0,571.55,0.0
+VOY-11161,9800094,Port of Shenzhen,Port of Tanjung Pelepas,1764.8,129.8,13.6,18600.0,115.88,6.5
+VOY-11162,9800094,Port of Ningbo-Zhoushan,Port of Tanjung Pelepas,2494.9,178.2,14.0,18400.0,169.66,1.5
+VOY-11163,9800094,Port of Colombo,Port of Klang,1636.8,118.6,13.8,18200.0,110.09,24.0
+VOY-11164,9800094,Port of Sydney,Port of Durban,7118.9,501.3,14.2,13900.0,438.71,0.0
+VOY-11165,9800094,Port of Salalah,Port of Tangier Med,4177.3,314.1,13.3,19100.0,269.18,1.5
+VOY-11166,9800094,Port of Port Said,King Abdullah Port,797.0,59.9,13.3,19000.0,50.28,0.0
+VOY-11167,9800094,Port of Ningbo-Zhoushan,Port of Port Said,5586.7,377.5,14.8,17600.0,435.29,24.0
+VOY-11168,9800094,Port of Yokohama,Port of Port Said,6352.0,492.4,12.9,13200.0,305.17,0.0
+VOY-11169,9800094,Port of Los Angeles,Port of Durban,11536.0,887.4,13.0,19200.0,747.74,0.0
+VOY-11170,9800094,Port of Genoa,Jawaharlal Nehru Port (JNPT),4386.0,296.4,14.8,16500.0,340.86,0.0
+VOY-11171,9800094,Port of Cape Town,Port of Hong Kong,8014.3,552.7,14.5,18000.0,598.13,0.0
+VOY-11172,9800095,Port of Tokyo,Port of Buenos Aires,12401.1,810.5,15.3,31000.0,568.15,6.5
+VOY-11173,9800095,Port of Genoa,Jawaharlal Nehru Port (JNPT),4386.0,281.2,15.6,31500.0,200.99,0.0
+VOY-11174,9800095,Port of Hamburg,Port of Klang,6636.1,433.7,15.3,34700.0,306.68,24.0
+VOY-11175,9800095,Port of Port Said,Port of Salalah,1828.3,124.4,14.7,33600.0,77.64,0.0
+VOY-11176,9800095,Port of Valencia,Port of Melbourne,11486.0,820.4,14.0,29400.0,384.1,0.0
+VOY-11177,9800095,Port of Singapore,Port of Klang,224.2,14.1,15.9,30700.0,10.96,1.5
+VOY-11178,9800095,Port of Santos,Port of New York & New Jersey,5223.7,341.4,15.3,26300.0,203.51,3.0
+VOY-11179,9800095,Port of Tangier Med,Port of Hamburg,1554.6,96.0,16.2,28000.0,71.31,12.0
+VOY-11180,9800095,Port of Genoa,Port of Piraeus,959.6,69.0,13.9,34300.0,34.12,0.0
+VOY-11181,9800095,Port of Durban,Jawaharlal Nehru Port (JNPT),4754.3,327.9,14.5,34800.0,195.93,6.5
+VOY-11182,9800095,King Abdullah Port,Port of Tangier Med,3058.8,218.5,14.0,35100.0,113.19,12.0
+VOY-11183,9800096,Port of Houston,Port of Tokyo,7249.2,575.3,12.6,151200.0,1489.72,0.0
+VOY-11184,9800096,Port of Genoa,Port of Sydney,11198.4,881.8,12.7,150300.0,2193.92,1.5
+VOY-11185,9800096,Port of Mundra,Port of Jebel Ali (Dubai),1017.1,75.9,13.4,109500.0,190.3,0.0
+VOY-11186,9800096,Port of Singapore,Port of Tokyo,3586.8,273.8,13.1,139000.0,707.64,1.5
+VOY-11187,9800096,Port of Sydney,Port of Ningbo-Zhoushan,5225.6,362.9,14.4,143400.0,1360.11,0.0
+VOY-11188,9800096,Port of Algeciras,Port of Savannah,4587.0,358.4,12.8,145400.0,908.85,12.0
+VOY-11189,9800096,Port of Singapore,Port of Mundra,2967.0,215.0,13.8,140000.0,697.17,24.0
+VOY-11190,9800096,Port of Mundra,Port of Algeciras,4892.9,352.0,13.9,128800.0,1096.77,3.0
+VOY-11191,9800096,Port of Port Said,Port of New York & New Jersey,6078.4,450.3,13.5,113900.0,1138.83,6.5
+VOY-11192,9800096,Port of Klang,Port of Hong Kong,1722.5,131.5,13.1,142100.0,369.94,24.0
+VOY-11193,9800096,Port of Singapore,Port of Los Angeles,9543.9,745.6,12.8,117000.0,1726.1,0.0
+VOY-11194,9800096,Port of Port Said,Port of Vancouver,7244.5,499.6,14.5,121200.0,1653.78,24.0
+VOY-11195,9800096,Port of Singapore,Port of Savannah,10980.1,819.4,13.4,144600.0,2524.4,0.0
+VOY-11196,9800096,Port of Cape Town,Port of Colombo,5324.2,369.7,14.4,120300.0,1205.2,6.5
+VOY-11197,9800097,Port of Durban,Port of Long Beach,11531.4,880.3,13.1,53500.0,3388.64,0.0
+VOY-11198,9800097,Port of Durban,Port of Sydney,7118.9,512.2,13.9,55800.0,2389.45,24.0
+VOY-11199,9800097,Port of Yokohama,Port of Houston,7262.0,518.7,14.0,61500.0,2795.41,1.5
+VOY-11200,9800097,Port of Buenos Aires,Port of Hamburg,7959.7,581.0,13.7,47600.0,2445.89,12.0
+VOY-11201,9800097,Port of Genoa,Port of Vancouver,5809.0,436.8,13.3,45100.0,1627.27,1.5
+VOY-11202,9800097,Port of Los Angeles,Port of Tokyo,5965.1,451.9,13.2,63700.0,1989.92,3.0
+VOY-11203,9800097,Port of Ningbo-Zhoushan,Port of Kaohsiung,549.8,37.7,14.6,49400.0,202.86,3.0
+VOY-11204,9800097,Port of Algeciras,Port of Busan,7285.3,539.7,13.5,62300.0,2627.61,0.0
+VOY-11205,9800097,Port of New York & New Jersey,Port of Le Havre,3819.9,287.2,13.3,49500.0,1109.7,0.0
+VOY-11206,9800097,Port of Busan,Port of Los Angeles,6504.1,471.3,13.8,46700.0,1985.6,0.0
+VOY-11207,9800097,Port of Valencia,Port of Sydney,11755.7,870.8,13.5,49700.0,3662.77,12.0
+VOY-11208,9800097,Jawaharlal Nehru Port (JNPT),Port of Felixstowe,4796.8,358.0,13.4,45100.0,1346.21,6.5
+VOY-11209,9800097,Port of Algeciras,Port of Vancouver,5878.1,386.7,15.2,53300.0,2405.33,24.0
+VOY-11210,9800098,Jawaharlal Nehru Port (JNPT),Port of Algeciras,5239.9,382.5,13.7,56500.0,255.94,0.0
+VOY-11211,9800098,Port of Jebel Ali (Dubai),Port of Vancouver,7932.0,614.9,12.9,54500.0,363.74,1.5
+VOY-11212,9800098,Port of Piraeus,Port of Chennai,4189.4,297.1,14.1,42100.0,190.26,0.0
+VOY-11213,9800098,Port of Tanjung Pelepas,Port of Durban,5674.7,446.8,12.7,53700.0,237.42,0.0
+VOY-11214,9800098,Port of Algeciras,Port of Antwerp-Bruges,1249.2,90.5,13.8,46300.0,54.7,3.0
+VOY-11215,9800098,Port of Shenzhen,Port of Algeciras,7364.3,518.6,14.2,54600.0,397.41,0.0
+VOY-11216,9800098,Port of Vancouver,Port of Genoa,5809.0,453.8,12.8,51100.0,235.08,0.0
+VOY-11217,9800098,Port of Savannah,Port of Melbourne,10672.2,853.8,12.5,51500.0,420.97,12.0
+VOY-11218,9800098,Port of Port Said,Port of Shenzhen,5389.4,374.3,14.4,50400.0,290.93,3.0
+VOY-11219,9800098,Port of Colon (Panama),Port of Long Beach,3209.5,219.8,14.6,52500.0,177.16,0.0
+VOY-11220,9800099,Port of Kaohsiung,Port of Klang,2015.1,161.2,12.5,16600.0,92.7,12.0
+VOY-11221,9800099,Port of Antwerp-Bruges,Port of Felixstowe,152.8,11.7,13.1,21400.0,9.12,0.0
+VOY-11222,9800099,Port of Singapore,Port of Le Havre,7346.2,592.4,12.4,17300.0,360.7,6.5
+VOY-11223,9800099,Port of Felixstowe,Port of Mundra,4427.2,354.2,12.5,18800.0,231.0,0.0
+VOY-11224,9800099,Port of Durban,Port of Los Angeles,11536.0,790.1,14.6,18500.0,781.87,0.0
+VOY-11225,9800099,Port of Felixstowe,Port of Tokyo,6385.9,483.8,13.2,18000.0,348.06,24.0
+VOY-11226,9800099,Port of Santos,Port of Houston,5360.9,432.3,12.4,20100.0,286.33,0.0
+VOY-11227,9800099,Port of Piraeus,Port of Savannah,6078.5,419.2,14.5,16900.0,374.21,1.5
+VOY-11228,9800099,Port of Port Said,Port of Singapore,5524.7,412.3,13.4,19000.0,322.34,1.5
+VOY-11229,9800099,Port of Kaohsiung,Port of Yokohama,1587.0,120.2,13.2,22000.0,98.84,12.0
+VOY-11230,9800099,Port of Yokohama,Port of Mundra,4588.5,370.0,12.4,20500.0,237.17,3.0
+VOY-11231,9800099,Port of Buenos Aires,Port of Ningbo-Zhoushan,13153.7,939.6,14.0,16000.0,792.63,0.0
+VOY-11232,9800100,Port of Long Beach,Port of Kaohsiung,7563.9,406.7,18.6,173400.0,4249.39,6.5
+VOY-11233,9800100,Port of Houston,Port of Chennai,10278.3,580.7,17.7,152400.0,5227.73,1.5
+VOY-11234,9800100,Port of Durban,Port of Buenos Aires,5488.6,298.3,18.4,178600.0,2978.92,3.0
+VOY-11235,9800100,Jawaharlal Nehru Port (JNPT),Port of Durban,4754.3,254.2,18.7,134900.0,2369.0,6.5
+VOY-11236,9800100,Port of Tokyo,Port of Genoa,6627.1,345.2,19.2,130000.0,3546.7,0.0
+VOY-11237,9800100,Port of Rotterdam,Port of Santos,6598.0,338.4,19.5,129800.0,3705.27,3.0
+VOY-11238,9800100,Port of New York & New Jersey,Port of Felixstowe,3813.8,195.6,19.5,183300.0,2356.35,0.0
+VOY-11239,9800100,Port of Melbourne,Port of Piraeus,10093.6,525.7,19.2,133300.0,5428.69,1.5
+VOY-11240,9800100,Port of Colon (Panama),Port of Durban,8461.2,483.5,17.5,142000.0,3992.38,3.0
+VOY-11241,9800100,Port of Rotterdam,Port of Chennai,5328.4,315.3,16.9,150400.0,2390.11,1.5
+VOY-11242,9800100,Port of Singapore,Port of Long Beach,9546.7,513.3,18.6,158800.0,5356.89,0.0
+VOY-11243,9800101,Port of Buenos Aires,Port of Le Havre,7412.3,416.4,17.8,91400.0,2350.53,24.0
+VOY-11244,9800101,Port of Klang,Port of Tangier Med,7640.4,463.1,16.5,108400.0,2168.67,0.0
+VOY-11245,9800101,Port of Tokyo,Port of Los Angeles,5965.1,348.8,17.1,110300.0,1759.07,0.0
+VOY-11246,9800101,Port of Felixstowe,Port of Piraeus,1572.5,91.4,17.2,81800.0,405.63,24.0
+VOY-11247,9800101,Port of Melbourne,Port of Le Havre,11433.5,672.6,17.0,98300.0,3121.55,24.0
+VOY-11248,9800101,Port of Chennai,Port of Salalah,1924.4,103.5,18.6,107500.0,667.88,0.0
+VOY-11249,9800101,Port of Port Said,Port of Kaohsiung,5768.9,327.8,17.6,108600.0,1962.26,0.0
+VOY-11250,9800101,Port of Cape Town,Port of Savannah,8583.6,469.0,18.3,112800.0,2967.82,0.0
+VOY-11251,9800101,Port of Felixstowe,Port of Mundra,4427.2,273.3,16.2,88500.0,1060.12,0.0
+VOY-11252,9800101,Port of Tokyo,Port of Vancouver,5100.0,318.8,16.0,110900.0,1328.62,0.0
+VOY-11253,9800101,Port of Salalah,Port of Santos,7953.4,434.6,18.3,90000.0,2588.52,0.0
+VOY-11254,9800101,Port of Kaohsiung,Port of Jebel Ali (Dubai),4438.2,270.6,16.4,112700.0,1239.33,3.0
+VOY-11255,9800101,Port of Genoa,Port of Felixstowe,682.0,40.8,16.7,115000.0,193.01,12.0
+VOY-11256,9800101,Port of Busan,Port of Antwerp-Bruges,6072.7,359.3,16.9,90100.0,1661.89,3.0
+VOY-11257,9800101,Port of Tokyo,King Abdullah Port,6383.8,371.2,17.2,86800.0,1765.08,0.0
+VOY-11258,9800102,Port of Los Angeles,Port of Ningbo-Zhoushan,7124.7,404.8,17.6,87400.0,2180.91,6.5
+VOY-11259,9800102,Port of Hong Kong,Port of Tangier Med,7395.1,399.7,18.5,77400.0,2566.9,12.0
+VOY-11260,9800102,Port of Busan,Port of Shanghai,561.6,30.2,18.6,71400.0,178.42,3.0
+VOY-11261,9800102,Port of Sydney,Port of Colon (Panama),9548.5,518.9,18.4,67000.0,2984.7,0.0
+VOY-11262,9800102,Port of Mundra,Port of Long Beach,9223.2,518.2,17.8,73400.0,2795.55,12.0
+VOY-11263,9800102,Port of Durban,Port of Sydney,7118.9,374.7,19.0,79300.0,2465.55,12.0
+VOY-11264,9800102,Port of Hong Kong,Port of Colon (Panama),10916.0,631.0,17.3,87500.0,3423.43,1.5
+VOY-11265,9800102,Port of Durban,Port of Shanghai,7903.3,411.6,19.2,86200.0,3118.06,3.0
+VOY-11266,9800102,Port of Klang,Port of Jebel Ali (Dubai),3729.3,200.5,18.6,88300.0,1314.7,12.0
+VOY-11267,9800102,Port of Le Havre,Port of Sydney,11529.4,633.5,18.2,67400.0,3439.33,1.5
+VOY-11268,9800102,King Abdullah Port,Port of Savannah,7576.4,414.0,18.3,68700.0,2259.4,1.5
+VOY-11269,9800103,Port of Valencia,Port of Tokyo,7227.8,390.7,18.5,51000.0,1782.81,3.0
+VOY-11270,9800103,Port of Ningbo-Zhoushan,Port of Houston,8313.7,489.0,17.0,52300.0,1830.17,0.0
+VOY-11271,9800103,Port of Salalah,Port of Mundra,1192.1,66.6,17.9,40400.0,261.12,0.0
+VOY-11272,9800103,Port of Santos,Port of Antwerp-Bruges,6558.2,392.7,16.7,45600.0,1206.6,0.0
+VOY-11273,9800103,Port of Colon (Panama),Port of Hamburg,6185.7,381.8,16.2,51400.0,1184.14,6.5
+VOY-11274,9800103,Port of Durban,Port of Jebel Ali (Dubai),4466.9,244.1,18.3,54500.0,1177.0,0.0
+VOY-11275,9800103,Port of Mundra,Port of Colon (Panama),10218.6,601.1,17.0,54200.0,2307.85,12.0
+VOY-11276,9800103,Port of Salalah,Port of Rotterdam,3920.7,240.5,16.3,48400.0,761.95,24.0
+VOY-11277,9800103,Port of Piraeus,Port of Antwerp-Bruges,1423.9,90.1,15.8,45700.0,250.76,1.5
+VOY-11278,9800103,Port of Singapore,Port of Ningbo-Zhoushan,2488.5,138.2,18.0,52200.0,583.29,0.0
+VOY-11279,9800103,Port of Santos,Port of Houston,5360.9,289.8,18.5,41100.0,1172.39,3.0
+VOY-11280,9800103,Port of Cape Town,Port of Port Said,4990.1,295.3,16.9,44200.0,1014.38,12.0
+VOY-11281,9800103,Port of Genoa,Port of Buenos Aires,7492.3,433.1,17.3,48000.0,1571.03,12.0
+VOY-11282,9800104,Port of Tokyo,Port of Los Angeles,5965.1,355.1,16.8,40600.0,1046.39,12.0
+VOY-11283,9800104,Port of Buenos Aires,Port of Shenzhen,12476.7,831.8,15.0,32000.0,1610.88,0.0
+VOY-11284,9800104,Port of Hong Kong,Port of Shanghai,828.2,47.3,17.5,31400.0,147.83,24.0
+VOY-11285,9800104,Port of Tokyo,Port of Antwerp-Bruges,6352.7,399.5,15.9,40200.0,1037.18,6.5
+VOY-11286,9800104,Port of Singapore,Port of Port Said,5524.7,349.7,15.8,36100.0,851.42,0.0
+VOY-11287,9800104,Port of Tokyo,Port of Algeciras,7594.6,468.8,16.2,32500.0,1178.51,0.0
+VOY-11288,9800104,Jawaharlal Nehru Port (JNPT),Port of Salalah,1360.5,81.0,16.8,42200.0,254.25,12.0
+VOY-11289,9800104,Port of Colon (Panama),Port of Savannah,1707.2,108.7,15.7,40900.0,292.78,3.0
+VOY-11290,9800104,Port of Rotterdam,Port of Shanghai,6025.3,363.0,16.6,39500.0,1066.01,1.5
+VOY-11291,9800104,Port of New York & New Jersey,Port of Antwerp-Bruges,3966.6,252.6,15.7,30200.0,565.8,3.0
+VOY-11292,9800104,Port of Sydney,Port of Santos,8991.9,562.0,16.0,35000.0,1433.91,0.0
+VOY-11293,9800104,Port of Antwerp-Bruges,Port of Genoa,560.0,37.1,15.1,42000.0,88.29,6.5
+VOY-11294,9800104,Port of Shenzhen,Port of Mundra,3059.2,187.7,16.3,40800.0,567.62,12.0
+VOY-11295,9800104,Port of Sydney,Port of Algeciras,12068.0,697.6,17.3,32600.0,2263.09,0.0
+VOY-11296,9800104,Port of Tangier Med,Port of Felixstowe,1260.7,74.2,17.0,31900.0,216.76,1.5
+VOY-11297,9800105,Port of Felixstowe,Port of Santos,6499.9,398.8,16.3,17800.0,516.13,6.5
+VOY-11298,9800105,Port of Chennai,Port of Shanghai,3146.5,197.9,15.9,13800.0,223.95,0.0
+VOY-11299,9800105,Port of Genoa,Port of Santos,6377.1,408.8,15.6,17300.0,448.77,1.5
+VOY-11300,9800105,Port of Singapore,Port of Salalah,3861.2,245.9,15.7,16700.0,280.19,24.0
+VOY-11301,9800105,Port of Los Angeles,Port of Hamburg,6146.7,399.1,15.4,18400.0,432.5,1.5
+VOY-11302,9800105,Port of Algeciras,Port of Rotterdam,1297.4,85.9,15.1,13600.0,76.76,12.0
+VOY-11303,9800105,Jawaharlal Nehru Port (JNPT),Port of Colombo,1033.7,69.8,14.8,15200.0,65.2,3.0
+VOY-11304,9800105,Port of Piraeus,Port of Houston,6870.1,426.7,16.1,15800.0,534.28,1.5
+VOY-11305,9800105,Port of Chennai,Port of Tokyo,4327.0,281.0,15.4,17800.0,303.24,1.5
+VOY-11306,9800105,Port of Valencia,Port of Genoa,638.2,40.4,15.8,13900.0,44.7,0.0
+VOY-11307,9800105,Port of Genoa,Port of Chennai,5072.8,311.2,16.3,19200.0,424.3,6.5
+VOY-11308,9800105,Port of Los Angeles,Port of Le Havre,6038.9,416.5,14.5,16000.0,352.73,1.5
+VOY-11309,9800105,Port of Piraeus,Port of Genoa,959.6,62.3,15.4,17900.0,70.45,24.0
+VOY-11310,9800105,Port of New York & New Jersey,Port of Colombo,9504.9,590.4,16.1,19800.0,841.13,3.0
+VOY-11311,9800105,Port of Salalah,Port of Port Said,1828.3,125.2,14.6,15200.0,110.45,6.5

@@ -1,0 +1,43 @@
+Port_ID,Port_Name,Country,Latitude,Longitude,Port_Charges,Congestion_Level
+1,Port of Singapore,Singapore,1.29027,103.851959,32000.0,Moderate
+2,Port of Shanghai,China,31.230416,121.473701,38000.0,High
+3,Port of Ningbo-Zhoushan,China,29.8683,121.544,34000.0,Moderate
+4,Port of Shenzhen,China,22.5431,114.0579,33000.0,Moderate
+5,Port of Busan,South Korea,35.1796,129.0756,28000.0,Low
+6,Port of Hong Kong,Hong Kong,22.3193,114.1694,31000.0,Moderate
+7,Port of Tokyo,Japan,35.6762,139.6503,35000.0,Low
+8,Port of Yokohama,Japan,35.4437,139.638,32000.0,Low
+9,Port of Klang,Malaysia,3.0,101.4,24000.0,Moderate
+10,Port of Tanjung Pelepas,Malaysia,1.362,103.549,23000.0,Low
+11,Port of Kaohsiung,Taiwan,22.6273,120.3014,27000.0,Low
+12,Port of Sydney,Australia,-33.8688,151.2093,36000.0,Low
+13,Port of Melbourne,Australia,-37.8136,144.9631,34000.0,Low
+14,Jawaharlal Nehru Port (JNPT),India,18.9499,72.9515,22000.0,Moderate
+15,Port of Chennai,India,13.0827,80.2707,20000.0,Moderate
+16,Port of Mundra,India,22.8396,69.7042,21000.0,Low
+17,Port of Colombo,Sri Lanka,6.9271,79.8612,25000.0,Moderate
+18,Port of Jebel Ali (Dubai),United Arab Emirates,25.0113,55.0612,30000.0,Moderate
+19,Port of Salalah,Oman,16.9442,54.0041,23000.0,Low
+20,King Abdullah Port,Saudi Arabia,22.5367,39.0967,26000.0,Low
+21,Port of Rotterdam,Netherlands,51.9244,4.4777,39000.0,Moderate
+22,Port of Antwerp-Bruges,Belgium,51.2194,4.4025,36000.0,Moderate
+23,Port of Hamburg,Germany,53.5511,9.9937,37000.0,Moderate
+24,Port of Valencia,Spain,39.4699,-0.3763,29000.0,Low
+25,Port of Algeciras,Spain,36.1408,-5.4562,28000.0,Low
+26,Port of Piraeus,Greece,37.943,23.647,27000.0,Moderate
+27,Port of Felixstowe,United Kingdom,51.9634,1.3511,33000.0,Moderate
+28,Port of Le Havre,France,49.4944,0.1079,31000.0,Low
+29,Port of Genoa,Italy,44.4056,8.9463,30000.0,Low
+30,Port of Los Angeles,United States,33.7432,-118.2673,42000.0,High
+31,Port of Long Beach,United States,33.7701,-118.1937,41000.0,Moderate
+32,Port of New York & New Jersey,United States,40.7128,-74.006,44000.0,Moderate
+33,Port of Houston,United States,29.7604,-95.3698,35000.0,Moderate
+34,Port of Savannah,United States,32.0809,-81.0912,33000.0,Low
+35,Port of Vancouver,Canada,49.2827,-123.1207,36000.0,Moderate
+36,Port of Santos,Brazil,-23.9618,-46.3322,30000.0,High
+37,Port of Colon (Panama),Panama,9.3598,-79.9015,31000.0,Moderate
+38,Port of Buenos Aires,Argentina,-34.6037,-58.3816,29000.0,Low
+39,Port of Durban,South Africa,-29.8587,31.0218,26000.0,High
+40,Port of Cape Town,South Africa,-33.9249,18.4241,25000.0,Low
+41,Port of Tangier Med,Morocco,35.8872,-5.5033,27000.0,Low
+42,Port of Port Said,Egypt,31.2653,32.3019,32000.0,Moderate

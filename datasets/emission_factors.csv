@@ -1,0 +1,8 @@
+Fuel_Type,CO2_Factor,NOx_Factor,SOx_Factor,Carbon_Tax_Rate
+VLSFO,3.114,78.0,10.0,85.0
+LSMGO,3.206,75.0,2.0,85.0
+LNG,2.75,15.0,0.05,85.0
+Bio-Methanol,0.45,20.0,0.0,85.0
+Biofuel (B30),2.18,72.0,6.0,85.0
+Ammonia,0.05,22.0,0.0,85.0
+Hydrogen,0.0,5.0,0.0,85.0

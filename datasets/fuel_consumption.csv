@@ -1,0 +1,1312 @@
+Vessel_IMO,Ship_Type,Distance,Fuel_Consumed,Fuel_Type,CO2_Emissions
+9800001,Bulk Carrier - Capesize Class,5347.3,2716.54,Bio-Methanol,1222.44
+9800001,Bulk Carrier - Capesize Class,9644.8,6745.37,Bio-Methanol,3035.42
+9800001,Bulk Carrier - Capesize Class,23.4,14.16,Bio-Methanol,6.37
+9800001,Bulk Carrier - Capesize Class,5754.4,2988.63,Bio-Methanol,1344.88
+9800001,Bulk Carrier - Capesize Class,391.2,196.94,Bio-Methanol,88.62
+9800001,Bulk Carrier - Capesize Class,968.2,422.62,Bio-Methanol,190.18
+9800001,Bulk Carrier - Capesize Class,6992.3,3748.52,Bio-Methanol,1686.83
+9800001,Bulk Carrier - Capesize Class,242.9,127.51,Bio-Methanol,57.38
+9800001,Bulk Carrier - Capesize Class,10080.2,5661.29,Bio-Methanol,2547.58
+9800001,Bulk Carrier - Capesize Class,7871.8,4833.02,Bio-Methanol,2174.86
+9800001,Bulk Carrier - Capesize Class,6793.2,3782.7,Bio-Methanol,1702.21
+9800001,Bulk Carrier - Capesize Class,3611.4,1949.85,Bio-Methanol,877.43
+9800002,Bulk Carrier - Panamax Class,4484.0,1881.91,Bio-Methanol,846.86
+9800002,Bulk Carrier - Panamax Class,5834.8,2053.11,Bio-Methanol,923.9
+9800002,Bulk Carrier - Panamax Class,3819.9,1538.07,Bio-Methanol,692.13
+9800002,Bulk Carrier - Panamax Class,6728.4,2488.23,Bio-Methanol,1119.7
+9800002,Bulk Carrier - Panamax Class,1707.2,619.11,Bio-Methanol,278.6
+9800002,Bulk Carrier - Panamax Class,4899.4,2273.77,Bio-Methanol,1023.2
+9800002,Bulk Carrier - Panamax Class,5510.5,2052.33,Bio-Methanol,923.55
+9800002,Bulk Carrier - Panamax Class,5436.8,2426.94,Bio-Methanol,1092.12
+9800002,Bulk Carrier - Panamax Class,6159.3,1635.31,Bio-Methanol,735.89
+9800002,Bulk Carrier - Panamax Class,5752.0,2232.62,Bio-Methanol,1004.68
+9800002,Bulk Carrier - Panamax Class,5397.7,2056.49,Bio-Methanol,925.42
+9800002,Bulk Carrier - Panamax Class,224.2,77.84,Bio-Methanol,35.03
+9800002,Bulk Carrier - Panamax Class,5244.0,1784.84,Bio-Methanol,803.18
+9800002,Bulk Carrier - Panamax Class,5144.9,1754.37,Bio-Methanol,789.47
+9800003,Bulk Carrier - Supramax Class,3402.3,955.41,Ammonia,47.77
+9800003,Bulk Carrier - Supramax Class,5328.4,1341.76,Ammonia,67.09
+9800003,Bulk Carrier - Supramax Class,5735.2,1791.73,Ammonia,89.59
+9800003,Bulk Carrier - Supramax Class,5397.7,1493.92,Ammonia,74.7
+9800003,Bulk Carrier - Supramax Class,4652.2,1039.46,Ammonia,51.97
+9800003,Bulk Carrier - Supramax Class,11755.7,2709.44,Ammonia,135.47
+9800003,Bulk Carrier - Supramax Class,4852.1,1410.83,Ammonia,70.54
+9800003,Bulk Carrier - Supramax Class,8583.6,2934.77,Ammonia,146.74
+9800003,Bulk Carrier - Supramax Class,3750.4,963.03,Ammonia,48.15
+9800003,Bulk Carrier - Supramax Class,2038.8,572.62,Ammonia,28.63
+9800003,Bulk Carrier - Supramax Class,4487.4,1098.62,Ammonia,54.93
+9800003,Bulk Carrier - Supramax Class,4840.0,1587.61,Ammonia,79.38
+9800003,Bulk Carrier - Supramax Class,1924.4,514.4,Ammonia,25.72
+9800003,Bulk Carrier - Supramax Class,4888.8,1129.27,Ammonia,56.46
+9800003,Bulk Carrier - Supramax Class,5602.2,1679.42,Ammonia,83.97
+9800004,Bulk Carrier - Handysize Class,3484.2,212.58,Biofuel (B30),463.42
+9800004,Bulk Carrier - Handysize Class,1732.0,129.92,Biofuel (B30),283.23
+9800004,Bulk Carrier - Handysize Class,6059.9,450.27,Biofuel (B30),981.59
+9800004,Bulk Carrier - Handysize Class,1260.7,91.09,Biofuel (B30),198.58
+9800004,Bulk Carrier - Handysize Class,3497.4,211.96,Biofuel (B30),462.07
+9800004,Bulk Carrier - Handysize Class,7285.3,496.44,Biofuel (B30),1082.24
+9800004,Bulk Carrier - Handysize Class,6830.7,451.61,Biofuel (B30),984.51
+9800004,Bulk Carrier - Handysize Class,1423.9,125.79,Biofuel (B30),274.22
+9800004,Bulk Carrier - Handysize Class,7650.8,567.9,Biofuel (B30),1238.02
+9800004,Bulk Carrier - Handysize Class,6322.9,521.56,Biofuel (B30),1137.0
+9800005,"Container - Ultra Large (24,000 TEU)",5859.7,1122.1,Hydrogen,0.0
+9800005,"Container - Ultra Large (24,000 TEU)",5923.3,937.65,Hydrogen,0.0
+9800005,"Container - Ultra Large (24,000 TEU)",2888.8,510.9,Hydrogen,0.0
+9800005,"Container - Ultra Large (24,000 TEU)",2473.5,515.7,Hydrogen,0.0
+9800005,"Container - Ultra Large (24,000 TEU)",5814.7,915.46,Hydrogen,0.0
+9800005,"Container - Ultra Large (24,000 TEU)",7583.8,1612.1,Hydrogen,0.0
+9800005,"Container - Ultra Large (24,000 TEU)",6091.1,1110.49,Hydrogen,0.0
+9800005,"Container - Ultra Large (24,000 TEU)",12664.1,2789.35,Hydrogen,0.0
+9800005,"Container - Ultra Large (24,000 TEU)",5502.6,947.25,Hydrogen,0.0
+9800005,"Container - Ultra Large (24,000 TEU)",6504.1,1252.27,Hydrogen,0.0
+9800006,"Container - Neo-Panamax (15,000 TEU)",1940.6,747.11,LSMGO,2395.23
+9800006,"Container - Neo-Panamax (15,000 TEU)",12582.7,4488.65,LSMGO,14390.61
+9800006,"Container - Neo-Panamax (15,000 TEU)",560.0,240.19,LSMGO,770.05
+9800006,"Container - Neo-Panamax (15,000 TEU)",4303.8,1511.76,LSMGO,4846.7
+9800006,"Container - Neo-Panamax (15,000 TEU)",2550.6,834.72,LSMGO,2676.11
+9800006,"Container - Neo-Panamax (15,000 TEU)",2630.4,787.85,LSMGO,2525.85
+9800006,"Container - Neo-Panamax (15,000 TEU)",6280.4,2406.37,LSMGO,7714.82
+9800006,"Container - Neo-Panamax (15,000 TEU)",7512.6,2727.63,LSMGO,8744.78
+9800006,"Container - Neo-Panamax (15,000 TEU)",4282.6,1588.13,LSMGO,5091.54
+9800006,"Container - Neo-Panamax (15,000 TEU)",2888.8,1006.14,LSMGO,3225.68
+9800007,"Container - Post-Panamax (8,500 TEU)",3484.2,1820.4,Bio-Methanol,819.18
+9800007,"Container - Post-Panamax (8,500 TEU)",2473.5,1638.08,Bio-Methanol,737.14
+9800007,"Container - Post-Panamax (8,500 TEU)",7876.7,5876.88,Bio-Methanol,2644.6
+9800007,"Container - Post-Panamax (8,500 TEU)",4236.1,2862.84,Bio-Methanol,1288.28
+9800007,"Container - Post-Panamax (8,500 TEU)",9029.7,5554.52,Bio-Methanol,2499.53
+9800007,"Container - Post-Panamax (8,500 TEU)",2374.4,1491.51,Bio-Methanol,671.18
+9800007,"Container - Post-Panamax (8,500 TEU)",858.0,565.72,Bio-Methanol,254.57
+9800007,"Container - Post-Panamax (8,500 TEU)",406.1,271.9,Bio-Methanol,122.35
+9800007,"Container - Post-Panamax (8,500 TEU)",6470.3,3692.42,Bio-Methanol,1661.59
+9800007,"Container - Post-Panamax (8,500 TEU)",7092.4,4929.54,Bio-Methanol,2218.29
+9800007,"Container - Post-Panamax (8,500 TEU)",1741.6,1108.29,Bio-Methanol,498.73
+9800007,"Container - Post-Panamax (8,500 TEU)",8109.4,4357.87,Bio-Methanol,1961.04
+9800007,"Container - Post-Panamax (8,500 TEU)",5282.0,2475.3,Bio-Methanol,1113.89
+9800008,"Container - Panamax (5,000 TEU)",3497.4,1970.13,Bio-Methanol,886.56
+9800008,"Container - Panamax (5,000 TEU)",6504.1,3734.03,Bio-Methanol,1680.31
+9800008,"Container - Panamax (5,000 TEU)",5928.9,2862.68,Bio-Methanol,1288.21
+9800008,"Container - Panamax (5,000 TEU)",10986.5,5937.5,Bio-Methanol,2671.88
+9800008,"Container - Panamax (5,000 TEU)",7324.3,2825.08,Bio-Methanol,1271.29
+9800008,"Container - Panamax (5,000 TEU)",1401.7,570.8,Bio-Methanol,256.86
+9800008,"Container - Panamax (5,000 TEU)",3838.0,1515.22,Bio-Methanol,681.85
+9800008,"Container - Panamax (5,000 TEU)",9958.4,5564.57,Bio-Methanol,2504.06
+9800008,"Container - Panamax (5,000 TEU)",8656.1,4195.29,Bio-Methanol,1887.88
+9800008,"Container - Panamax (5,000 TEU)",6199.4,2910.14,Bio-Methanol,1309.56
+9800008,"Container - Panamax (5,000 TEU)",3952.9,1850.16,Bio-Methanol,832.57
+9800008,"Container - Panamax (5,000 TEU)",5518.2,2842.94,Bio-Methanol,1279.32
+9800008,"Container - Panamax (5,000 TEU)",11004.4,5610.99,Bio-Methanol,2524.95
+9800008,"Container - Panamax (5,000 TEU)",1066.3,523.36,Bio-Methanol,235.51
+9800009,"Container - Feeder Max (3,500 TEU)",1994.6,629.74,Bio-Methanol,283.38
+9800009,"Container - Feeder Max (3,500 TEU)",6241.0,1802.83,Bio-Methanol,811.27
+9800009,"Container - Feeder Max (3,500 TEU)",5240.8,1491.21,Bio-Methanol,671.04
+9800009,"Container - Feeder Max (3,500 TEU)",10686.1,2792.2,Bio-Methanol,1256.49
+9800009,"Container - Feeder Max (3,500 TEU)",3394.9,971.07,Bio-Methanol,436.98
+9800009,"Container - Feeder Max (3,500 TEU)",5533.3,1782.32,Bio-Methanol,802.04
+9800009,"Container - Feeder Max (3,500 TEU)",7432.3,2877.54,Bio-Methanol,1294.89
+9800009,"Container - Feeder Max (3,500 TEU)",1047.2,307.51,Bio-Methanol,138.38
+9800009,"Container - Feeder Max (3,500 TEU)",6999.1,2104.81,Bio-Methanol,947.16
+9800009,"Container - Feeder Max (3,500 TEU)",7244.5,2322.95,Bio-Methanol,1045.33
+9800009,"Container - Feeder Max (3,500 TEU)",1103.2,387.36,Bio-Methanol,174.31
+9800009,"Container - Feeder Max (3,500 TEU)",5410.2,1652.91,Bio-Methanol,743.81
+9800009,"Container - Feeder Max (3,500 TEU)",5847.3,1647.52,Bio-Methanol,741.38
+9800010,"Container - Regional Feeder (1,800 TEU)",4973.5,859.76,Bio-Methanol,386.89
+9800010,"Container - Regional Feeder (1,800 TEU)",7496.0,1174.65,Bio-Methanol,528.59
+9800010,"Container - Regional Feeder (1,800 TEU)",2488.5,534.15,Bio-Methanol,240.37
+9800010,"Container - Regional Feeder (1,800 TEU)",1044.2,193.28,Bio-Methanol,86.98
+9800010,"Container - Regional Feeder (1,800 TEU)",19.2,3.85,Bio-Methanol,1.73
+9800010,"Container - Regional Feeder (1,800 TEU)",9077.2,1592.56,Bio-Methanol,716.65
+9800010,"Container - Regional Feeder (1,800 TEU)",9934.8,1919.35,Bio-Methanol,863.71
+9800010,"Container - Regional Feeder (1,800 TEU)",5588.7,899.77,Bio-Methanol,404.9
+9800010,"Container - Regional Feeder (1,800 TEU)",8395.2,1496.52,Bio-Methanol,673.43
+9800010,"Container - Regional Feeder (1,800 TEU)",1539.8,375.09,Bio-Methanol,168.79
+9800010,"Container - Regional Feeder (1,800 TEU)",7878.9,1818.49,Bio-Methanol,818.32
+9800010,"Container - Regional Feeder (1,800 TEU)",4636.7,981.81,Bio-Methanol,441.81
+9800010,"Container - Regional Feeder (1,800 TEU)",5768.9,1112.57,Bio-Methanol,500.66
+9800011,Tanker - VLCC Class,5533.3,1944.14,LSMGO,6232.91
+9800011,Tanker - VLCC Class,1760.2,635.72,LSMGO,2038.12
+9800011,Tanker - VLCC Class,8916.8,3392.87,LSMGO,10877.54
+9800011,Tanker - VLCC Class,11264.6,4575.66,LSMGO,14669.57
+9800011,Tanker - VLCC Class,6864.9,3277.03,LSMGO,10506.16
+9800011,Tanker - VLCC Class,7661.3,2535.0,LSMGO,8127.21
+9800011,Tanker - VLCC Class,7561.4,3673.33,LSMGO,11776.7
+9800011,Tanker - VLCC Class,9282.7,4344.04,LSMGO,13926.99
+9800011,Tanker - VLCC Class,9472.9,3745.18,LSMGO,12007.05
+9800011,Tanker - VLCC Class,5891.8,2893.49,LSMGO,9276.53
+9800012,Tanker - Suezmax Class,5965.1,1194.52,LNG,3284.93
+9800012,Tanker - Suezmax Class,3093.5,601.3,LNG,1653.57
+9800012,Tanker - Suezmax Class,4801.5,926.18,LNG,2546.99
+9800012,Tanker - Suezmax Class,10986.5,2370.23,LNG,6518.13
+9800012,Tanker - Suezmax Class,6025.3,1298.14,LNG,3569.89
+9800012,Tanker - Suezmax Class,5586.7,1127.49,LNG,3100.6
+9800012,Tanker - Suezmax Class,7864.4,1798.24,LNG,4945.16
+9800012,Tanker - Suezmax Class,3947.5,838.97,LNG,2307.17
+9800012,Tanker - Suezmax Class,5975.5,1453.37,LNG,3996.77
+9800012,Tanker - Suezmax Class,7626.1,1616.11,LNG,4444.3
+9800012,Tanker - Suezmax Class,5319.5,1329.65,LNG,3656.54
+9800012,Tanker - Suezmax Class,391.2,92.86,LNG,255.37
+9800012,Tanker - Suezmax Class,6588.0,1252.56,LNG,3444.54
+9800013,Tanker - Aframax Class,9350.3,4332.91,Ammonia,216.65
+9800013,Tanker - Aframax Class,4801.5,1914.56,Ammonia,95.73
+9800013,Tanker - Aframax Class,4753.4,2162.12,Ammonia,108.11
+9800013,Tanker - Aframax Class,6508.3,2966.32,Ammonia,148.32
+9800013,Tanker - Aframax Class,6202.7,2831.9,Ammonia,141.59
+9800013,Tanker - Aframax Class,6860.8,2681.76,Ammonia,134.09
+9800013,Tanker - Aframax Class,2218.1,846.07,Ammonia,42.3
+9800013,Tanker - Aframax Class,6401.5,2612.18,Ammonia,130.61
+9800013,Tanker - Aframax Class,3503.7,1681.99,Ammonia,84.1
+9800013,Tanker - Aframax Class,8836.0,3631.58,Ammonia,181.58
+9800013,Tanker - Aframax Class,5477.6,2815.62,Ammonia,140.78
+9800013,Tanker - Aframax Class,1215.2,424.6,Ammonia,21.23
+9800014,Tanker - MR2 Chemical Class,7953.4,817.0,Biofuel (B30),1781.06
+9800014,Tanker - MR2 Chemical Class,7932.0,859.24,Biofuel (B30),1873.14
+9800014,Tanker - MR2 Chemical Class,10754.9,1249.07,Biofuel (B30),2722.97
+9800014,Tanker - MR2 Chemical Class,6094.8,633.69,Biofuel (B30),1381.44
+9800014,Tanker - MR2 Chemical Class,4620.8,499.45,Biofuel (B30),1088.8
+9800014,Tanker - MR2 Chemical Class,6929.5,818.75,Biofuel (B30),1784.88
+9800014,Tanker - MR2 Chemical Class,5838.8,679.88,Biofuel (B30),1482.14
+9800014,Tanker - MR2 Chemical Class,2894.2,269.25,Biofuel (B30),586.97
+9800014,Tanker - MR2 Chemical Class,12548.1,1244.21,Biofuel (B30),2712.38
+9800014,Tanker - MR2 Chemical Class,591.7,63.12,Biofuel (B30),137.6
+9800014,Tanker - MR2 Chemical Class,6352.0,650.86,Biofuel (B30),1418.87
+9800014,Tanker - MR2 Chemical Class,1180.0,118.61,Biofuel (B30),258.57
+9800014,Tanker - MR2 Chemical Class,2509.7,242.8,Biofuel (B30),529.3
+9800015,Reefer - Arctic Pioneer,7862.4,801.15,LSMGO,2568.49
+9800015,Reefer - Arctic Pioneer,6767.4,819.11,LSMGO,2626.07
+9800015,Reefer - Arctic Pioneer,7836.2,890.08,LSMGO,2853.6
+9800015,Reefer - Arctic Pioneer,858.0,93.38,LSMGO,299.38
+9800015,Reefer - Arctic Pioneer,5265.0,583.13,LSMGO,1869.51
+9800015,Reefer - Arctic Pioneer,6199.4,647.39,LSMGO,2075.53
+9800015,Reefer - Arctic Pioneer,8535.0,1010.69,LSMGO,3240.27
+9800015,Reefer - Arctic Pioneer,6518.3,652.99,LSMGO,2093.49
+9800015,Reefer - Arctic Pioneer,7110.6,702.98,LSMGO,2253.75
+9800015,Reefer - Arctic Pioneer,4419.7,472.82,LSMGO,1515.86
+9800015,Reefer - Arctic Pioneer,2967.0,351.03,LSMGO,1125.4
+9800016,Reefer - Nordic Carrier,9223.2,815.26,LSMGO,2613.72
+9800016,Reefer - Nordic Carrier,8651.6,598.69,LSMGO,1919.4
+9800016,Reefer - Nordic Carrier,6588.0,504.08,LSMGO,1616.08
+9800016,Reefer - Nordic Carrier,4780.3,351.09,LSMGO,1125.59
+9800016,Reefer - Nordic Carrier,6896.6,397.33,LSMGO,1273.84
+9800016,Reefer - Nordic Carrier,5660.9,316.26,LSMGO,1013.93
+9800016,Reefer - Nordic Carrier,4590.9,258.57,LSMGO,828.98
+9800016,Reefer - Nordic Carrier,8986.1,558.43,LSMGO,1790.33
+9800016,Reefer - Nordic Carrier,6830.7,511.2,LSMGO,1638.91
+9800016,Reefer - Nordic Carrier,5975.5,394.2,LSMGO,1263.81
+9800016,Reefer - Nordic Carrier,5640.3,397.85,LSMGO,1275.51
+9800016,Reefer - Nordic Carrier,9093.5,577.04,LSMGO,1849.99
+9800016,Reefer - Nordic Carrier,6418.6,470.76,LSMGO,1509.26
+9800016,Reefer - Nordic Carrier,6389.1,489.71,LSMGO,1570.01
+9800016,Reefer - Nordic Carrier,10986.5,744.37,LSMGO,2386.45
+9800017,General Cargo - Multi-Purpose Heavy Lift,6031.6,1002.91,Bio-Methanol,451.31
+9800017,General Cargo - Multi-Purpose Heavy Lift,4652.2,1073.79,Bio-Methanol,483.21
+9800017,General Cargo - Multi-Purpose Heavy Lift,7249.2,1270.95,Bio-Methanol,571.93
+9800017,General Cargo - Multi-Purpose Heavy Lift,7582.4,1223.27,Bio-Methanol,550.47
+9800017,General Cargo - Multi-Purpose Heavy Lift,1029.4,229.1,Bio-Methanol,103.09
+9800017,General Cargo - Multi-Purpose Heavy Lift,3016.0,503.17,Bio-Methanol,226.43
+9800017,General Cargo - Multi-Purpose Heavy Lift,19.2,4.15,Bio-Methanol,1.87
+9800017,General Cargo - Multi-Purpose Heavy Lift,4636.7,979.56,Bio-Methanol,440.8
+9800017,General Cargo - Multi-Purpose Heavy Lift,6909.3,1262.29,Bio-Methanol,568.03
+9800017,General Cargo - Multi-Purpose Heavy Lift,8578.7,1852.88,Bio-Methanol,833.8
+9800017,General Cargo - Multi-Purpose Heavy Lift,6919.1,1360.22,Bio-Methanol,612.1
+9800018,General Cargo - Standard Box-Hold,1828.3,117.18,VLSFO,364.9
+9800018,General Cargo - Standard Box-Hold,10829.9,701.78,VLSFO,2185.34
+9800018,General Cargo - Standard Box-Hold,3966.6,274.52,VLSFO,854.86
+9800018,General Cargo - Standard Box-Hold,7686.8,477.73,VLSFO,1487.65
+9800018,General Cargo - Standard Box-Hold,6634.4,493.0,VLSFO,1535.2
+9800018,General Cargo - Standard Box-Hold,4753.4,289.3,VLSFO,900.88
+9800018,General Cargo - Standard Box-Hold,7876.7,402.92,VLSFO,1254.69
+9800018,General Cargo - Standard Box-Hold,5667.4,437.08,VLSFO,1361.07
+9800018,General Cargo - Standard Box-Hold,3819.9,261.24,VLSFO,813.5
+9800018,General Cargo - Standard Box-Hold,4978.1,337.36,VLSFO,1050.54
+9800018,General Cargo - Standard Box-Hold,5244.0,252.56,VLSFO,786.47
+9800019,General Cargo - Green Multi-Carrier,4035.7,1178.45,Ammonia,58.92
+9800019,General Cargo - Green Multi-Carrier,7661.3,1954.84,Ammonia,97.74
+9800019,General Cargo - Green Multi-Carrier,10904.0,2740.3,Ammonia,137.02
+9800019,General Cargo - Green Multi-Carrier,10080.2,2518.63,Ammonia,125.93
+9800019,General Cargo - Green Multi-Carrier,2151.9,674.9,Ammonia,33.74
+9800019,General Cargo - Green Multi-Carrier,11193.5,2676.24,Ammonia,133.81
+9800019,General Cargo - Green Multi-Carrier,9134.3,2172.53,Ammonia,108.63
+9800019,General Cargo - Green Multi-Carrier,3209.5,826.48,Ammonia,41.32
+9800019,General Cargo - Green Multi-Carrier,4484.0,940.56,Ammonia,47.03
+9800019,General Cargo - Green Multi-Carrier,7262.0,1685.35,Ammonia,84.27
+9800019,General Cargo - Green Multi-Carrier,9473.8,2073.63,Ammonia,103.68
+9800019,General Cargo - Green Multi-Carrier,5239.9,1443.06,Ammonia,72.15
+9800019,General Cargo - Green Multi-Carrier,5611.8,1576.12,Ammonia,78.81
+9800019,General Cargo - Green Multi-Carrier,5615.9,1136.55,Ammonia,56.83
+9800020,Bulk Carrier - Capesize Class,6992.3,723.8,Hydrogen,0.0
+9800020,Bulk Carrier - Capesize Class,2148.6,256.48,Hydrogen,0.0
+9800020,Bulk Carrier - Capesize Class,9548.5,932.98,Hydrogen,0.0
+9800020,Bulk Carrier - Capesize Class,1192.1,112.98,Hydrogen,0.0
+9800020,Bulk Carrier - Capesize Class,9417.2,828.51,Hydrogen,0.0
+9800020,Bulk Carrier - Capesize Class,11439.9,1167.38,Hydrogen,0.0
+9800020,Bulk Carrier - Capesize Class,4282.3,397.57,Hydrogen,0.0
+9800020,Bulk Carrier - Capesize Class,3990.1,448.15,Hydrogen,0.0
+9800020,Bulk Carrier - Capesize Class,10829.9,1300.78,Hydrogen,0.0
+9800020,Bulk Carrier - Capesize Class,5891.8,659.91,Hydrogen,0.0
+9800020,Bulk Carrier - Capesize Class,1215.2,103.44,Hydrogen,0.0
+9800020,Bulk Carrier - Capesize Class,2630.4,233.74,Hydrogen,0.0
+9800020,Bulk Carrier - Capesize Class,7249.2,618.64,Hydrogen,0.0
+9800021,Bulk Carrier - Panamax Class,10276.1,1996.43,VLSFO,6216.88
+9800021,Bulk Carrier - Panamax Class,10182.5,1680.68,VLSFO,5233.64
+9800021,Bulk Carrier - Panamax Class,9548.5,1506.63,VLSFO,4691.65
+9800021,Bulk Carrier - Panamax Class,3493.8,652.42,VLSFO,2031.64
+9800021,Bulk Carrier - Panamax Class,5253.7,1001.74,VLSFO,3119.42
+9800021,Bulk Carrier - Panamax Class,9073.9,1685.35,VLSFO,5248.18
+9800021,Bulk Carrier - Panamax Class,7594.6,1586.25,VLSFO,4939.58
+9800021,Bulk Carrier - Panamax Class,8687.2,1805.81,VLSFO,5623.29
+9800021,Bulk Carrier - Panamax Class,1539.8,234.19,VLSFO,729.27
+9800021,Bulk Carrier - Panamax Class,10278.3,1741.65,VLSFO,5423.5
+9800021,Bulk Carrier - Panamax Class,6949.5,1240.83,VLSFO,3863.94
+9800021,Bulk Carrier - Panamax Class,9934.8,1909.77,VLSFO,5947.02
+9800021,Bulk Carrier - Panamax Class,5319.5,879.66,VLSFO,2739.26
+9800021,Bulk Carrier - Panamax Class,3402.3,544.07,VLSFO,1694.23
+9800022,Bulk Carrier - Supramax Class,8719.8,1223.19,VLSFO,3809.01
+9800022,Bulk Carrier - Supramax Class,4759.1,555.14,VLSFO,1728.71
+9800022,Bulk Carrier - Supramax Class,9122.0,1118.75,VLSFO,3483.79
+9800022,Bulk Carrier - Supramax Class,6999.1,837.85,VLSFO,2609.06
+9800022,Bulk Carrier - Supramax Class,7612.7,1069.03,VLSFO,3328.96
+9800022,Bulk Carrier - Supramax Class,13255.8,1892.22,VLSFO,5892.37
+9800022,Bulk Carrier - Supramax Class,11563.8,1394.86,VLSFO,4343.59
+9800022,Bulk Carrier - Supramax Class,4950.6,553.2,VLSFO,1722.66
+9800022,Bulk Carrier - Supramax Class,11393.3,1346.65,VLSFO,4193.47
+9800022,Bulk Carrier - Supramax Class,8687.2,1130.02,VLSFO,3518.88
+9800023,Bulk Carrier - Handysize Class,9546.7,1540.57,Bio-Methanol,693.26
+9800023,Bulk Carrier - Handysize Class,1764.8,321.17,Bio-Methanol,144.53
+9800023,Bulk Carrier - Handysize Class,1572.5,281.55,Bio-Methanol,126.7
+9800023,Bulk Carrier - Handysize Class,7626.1,1145.79,Bio-Methanol,515.61
+9800023,Bulk Carrier - Handysize Class,818.9,120.61,Bio-Methanol,54.27
+9800023,Bulk Carrier - Handysize Class,7057.1,1120.42,Bio-Methanol,504.19
+9800023,Bulk Carrier - Handysize Class,1689.7,244.6,Bio-Methanol,110.07
+9800023,Bulk Carrier - Handysize Class,10182.5,1947.98,Bio-Methanol,876.59
+9800023,Bulk Carrier - Handysize Class,10346.9,1586.61,Bio-Methanol,713.97
+9800023,Bulk Carrier - Handysize Class,3634.9,783.65,Bio-Methanol,352.64
+9800024,"Container - Ultra Large (24,000 TEU)",6506.2,1270.5,Hydrogen,0.0
+9800024,"Container - Ultra Large (24,000 TEU)",1764.8,365.49,Hydrogen,0.0
+9800024,"Container - Ultra Large (24,000 TEU)",11755.7,1771.99,Hydrogen,0.0
+9800024,"Container - Ultra Large (24,000 TEU)",6845.5,1277.58,Hydrogen,0.0
+9800024,"Container - Ultra Large (24,000 TEU)",9191.4,1676.16,Hydrogen,0.0
+9800024,"Container - Ultra Large (24,000 TEU)",12068.0,2031.28,Hydrogen,0.0
+9800024,"Container - Ultra Large (24,000 TEU)",6307.4,928.63,Hydrogen,0.0
+9800024,"Container - Ultra Large (24,000 TEU)",3975.2,728.74,Hydrogen,0.0
+9800024,"Container - Ultra Large (24,000 TEU)",3296.0,648.75,Hydrogen,0.0
+9800024,"Container - Ultra Large (24,000 TEU)",7305.4,1062.38,Hydrogen,0.0
+9800024,"Container - Ultra Large (24,000 TEU)",7626.1,1507.79,Hydrogen,0.0
+9800024,"Container - Ultra Large (24,000 TEU)",3886.2,810.44,Hydrogen,0.0
+9800024,"Container - Ultra Large (24,000 TEU)",5315.9,868.44,Hydrogen,0.0
+9800024,"Container - Ultra Large (24,000 TEU)",934.9,142.66,Hydrogen,0.0
+9800025,"Container - Neo-Panamax (15,000 TEU)",12158.9,4998.78,Biofuel (B30),10897.34
+9800025,"Container - Neo-Panamax (15,000 TEU)",7661.3,2483.09,Biofuel (B30),5413.14
+9800025,"Container - Neo-Panamax (15,000 TEU)",1707.2,887.92,Biofuel (B30),1935.67
+9800025,"Container - Neo-Panamax (15,000 TEU)",5114.8,2584.61,Biofuel (B30),5634.45
+9800025,"Container - Neo-Panamax (15,000 TEU)",1994.6,792.74,Biofuel (B30),1728.17
+9800025,"Container - Neo-Panamax (15,000 TEU)",8809.8,3116.12,Biofuel (B30),6793.14
+9800025,"Container - Neo-Panamax (15,000 TEU)",3658.0,1280.02,Biofuel (B30),2790.44
+9800025,"Container - Neo-Panamax (15,000 TEU)",4858.4,2234.41,Biofuel (B30),4871.01
+9800025,"Container - Neo-Panamax (15,000 TEU)",6848.5,2742.79,Biofuel (B30),5979.28
+9800025,"Container - Neo-Panamax (15,000 TEU)",1760.2,585.02,Biofuel (B30),1275.34
+9800025,"Container - Neo-Panamax (15,000 TEU)",7509.2,2372.65,Biofuel (B30),5172.38
+9800025,"Container - Neo-Panamax (15,000 TEU)",4616.2,1602.0,Biofuel (B30),3492.36
+9800025,"Container - Neo-Panamax (15,000 TEU)",5401.0,2519.12,Biofuel (B30),5491.68
+9800026,"Container - Post-Panamax (8,500 TEU)",11252.8,4036.87,LNG,11101.39
+9800026,"Container - Post-Panamax (8,500 TEU)",8719.8,2531.11,LNG,6960.55
+9800026,"Container - Post-Panamax (8,500 TEU)",6919.1,2555.57,LNG,7027.82
+9800026,"Container - Post-Panamax (8,500 TEU)",6165.4,1550.07,LNG,4262.69
+9800026,"Container - Post-Panamax (8,500 TEU)",1050.4,329.42,LNG,905.91
+9800026,"Container - Post-Panamax (8,500 TEU)",6357.5,2056.99,LNG,5656.72
+9800026,"Container - Post-Panamax (8,500 TEU)",5098.4,1592.53,LNG,4379.46
+9800026,"Container - Post-Panamax (8,500 TEU)",8428.2,1961.21,LNG,5393.33
+9800026,"Container - Post-Panamax (8,500 TEU)",6903.8,1843.37,LNG,5069.27
+9800026,"Container - Post-Panamax (8,500 TEU)",6199.4,1868.06,LNG,5137.16
+9800026,"Container - Post-Panamax (8,500 TEU)",8836.0,2792.25,LNG,7678.69
+9800026,"Container - Post-Panamax (8,500 TEU)",1764.8,430.06,LNG,1182.66
+9800026,"Container - Post-Panamax (8,500 TEU)",8641.2,2911.7,LNG,8007.17
+9800026,"Container - Post-Panamax (8,500 TEU)",3568.8,1101.33,LNG,3028.66
+9800026,"Container - Post-Panamax (8,500 TEU)",6094.7,1559.9,LNG,4289.73
+9800027,"Container - Panamax (5,000 TEU)",5670.5,1317.56,LSMGO,4224.1
+9800027,"Container - Panamax (5,000 TEU)",11736.9,2152.33,LSMGO,6900.37
+9800027,"Container - Panamax (5,000 TEU)",7057.1,1058.66,LSMGO,3394.06
+9800027,"Container - Panamax (5,000 TEU)",6558.2,1007.94,LSMGO,3231.46
+9800027,"Container - Panamax (5,000 TEU)",12070.8,2794.15,LSMGO,8958.04
+9800027,"Container - Panamax (5,000 TEU)",2543.1,385.18,LSMGO,1234.89
+9800027,"Container - Panamax (5,000 TEU)",2509.7,414.93,LSMGO,1330.27
+9800027,"Container - Panamax (5,000 TEU)",9142.9,1689.61,LSMGO,5416.89
+9800027,"Container - Panamax (5,000 TEU)",4303.8,959.36,LSMGO,3075.71
+9800027,"Container - Panamax (5,000 TEU)",6016.1,1016.93,LSMGO,3260.28
+9800027,"Container - Panamax (5,000 TEU)",10353.3,2127.52,LSMGO,6820.83
+9800027,"Container - Panamax (5,000 TEU)",3058.2,695.3,LSMGO,2229.13
+9800027,"Container - Panamax (5,000 TEU)",6929.5,1260.57,LSMGO,4041.39
+9800028,"Container - Feeder Max (3,500 TEU)",9940.3,2304.75,Ammonia,115.24
+9800028,"Container - Feeder Max (3,500 TEU)",6860.8,2132.7,Ammonia,106.63
+9800028,"Container - Feeder Max (3,500 TEU)",8744.2,2957.01,Ammonia,147.85
+9800028,"Container - Feeder Max (3,500 TEU)",3611.4,1180.74,Ammonia,59.04
+9800028,"Container - Feeder Max (3,500 TEU)",10802.2,3109.71,Ammonia,155.49
+9800028,"Container - Feeder Max (3,500 TEU)",6094.7,1838.65,Ammonia,91.93
+9800028,"Container - Feeder Max (3,500 TEU)",5127.3,1546.42,Ammonia,77.32
+9800028,"Container - Feeder Max (3,500 TEU)",5.0,1.78,Ammonia,0.09
+9800028,"Container - Feeder Max (3,500 TEU)",7512.6,1925.55,Ammonia,96.28
+9800028,"Container - Feeder Max (3,500 TEU)",1876.8,506.34,Ammonia,25.32
+9800029,"Container - Regional Feeder (1,800 TEU)",1324.1,110.05,Biofuel (B30),239.91
+9800029,"Container - Regional Feeder (1,800 TEU)",10741.1,1079.84,Biofuel (B30),2354.05
+9800029,"Container - Regional Feeder (1,800 TEU)",4470.2,437.95,Biofuel (B30),954.73
+9800029,"Container - Regional Feeder (1,800 TEU)",5770.0,535.99,Biofuel (B30),1168.46
+9800029,"Container - Regional Feeder (1,800 TEU)",17.5,1.88,Biofuel (B30),4.1
+9800029,"Container - Regional Feeder (1,800 TEU)",10977.6,927.5,Biofuel (B30),2021.95
+9800029,"Container - Regional Feeder (1,800 TEU)",3016.0,265.28,Biofuel (B30),578.31
+9800029,"Container - Regional Feeder (1,800 TEU)",8032.1,768.28,Biofuel (B30),1674.85
+9800029,"Container - Regional Feeder (1,800 TEU)",4455.7,444.95,Biofuel (B30),969.99
+9800029,"Container - Regional Feeder (1,800 TEU)",5225.6,439.66,Biofuel (B30),958.46
+9800029,"Container - Regional Feeder (1,800 TEU)",4035.7,414.77,Biofuel (B30),904.2
+9800029,"Container - Regional Feeder (1,800 TEU)",5754.4,529.88,Biofuel (B30),1155.14
+9800030,Tanker - VLCC Class,10346.9,4132.78,VLSFO,12869.48
+9800030,Tanker - VLCC Class,5027.1,1978.61,VLSFO,6161.39
+9800030,Tanker - VLCC Class,1120.7,510.34,VLSFO,1589.2
+9800030,Tanker - VLCC Class,4382.2,2151.11,VLSFO,6698.56
+9800030,Tanker - VLCC Class,4588.5,1792.79,VLSFO,5582.75
+9800030,Tanker - VLCC Class,6999.1,2909.98,VLSFO,9061.68
+9800030,Tanker - VLCC Class,6830.7,3248.15,VLSFO,10114.74
+9800030,Tanker - VLCC Class,10734.3,4206.95,VLSFO,13100.44
+9800030,Tanker - VLCC Class,4719.8,2513.27,VLSFO,7826.32
+9800030,Tanker - VLCC Class,4386.0,1631.52,VLSFO,5080.55
+9800030,Tanker - VLCC Class,7059.1,3576.9,VLSFO,11138.47
+9800031,Tanker - Suezmax Class,9546.7,5030.68,Bio-Methanol,2263.81
+9800031,Tanker - Suezmax Class,5975.5,3564.17,Bio-Methanol,1603.88
+9800031,Tanker - Suezmax Class,10825.8,7348.05,Bio-Methanol,3306.62
+9800031,Tanker - Suezmax Class,10195.7,5337.31,Bio-Methanol,2401.79
+9800031,Tanker - Suezmax Class,3123.7,1834.73,Bio-Methanol,825.63
+9800031,Tanker - Suezmax Class,7894.6,5014.11,Bio-Methanol,2256.35
+9800031,Tanker - Suezmax Class,6146.7,3880.04,Bio-Methanol,1746.02
+9800031,Tanker - Suezmax Class,7582.4,4773.41,Bio-Methanol,2148.03
+9800031,Tanker - Suezmax Class,1587.0,856.8,Bio-Methanol,385.56
+9800031,Tanker - Suezmax Class,6864.9,4460.27,Bio-Methanol,2007.12
+9800031,Tanker - Suezmax Class,1029.4,619.22,Bio-Methanol,278.65
+9800031,Tanker - Suezmax Class,10218.6,7294.74,Bio-Methanol,3282.63
+9800031,Tanker - Suezmax Class,6294.8,2853.82,Bio-Methanol,1284.22
+9800031,Tanker - Suezmax Class,7836.2,3661.28,Bio-Methanol,1647.58
+9800032,Tanker - Aframax Class,5586.7,1114.51,Biofuel (B30),2429.63
+9800032,Tanker - Aframax Class,4536.4,1043.4,Biofuel (B30),2274.61
+9800032,Tanker - Aframax Class,8535.0,1537.35,Biofuel (B30),3351.42
+9800032,Tanker - Aframax Class,6303.4,1232.81,Biofuel (B30),2687.53
+9800032,Tanker - Aframax Class,2494.9,463.61,Biofuel (B30),1010.67
+9800032,Tanker - Aframax Class,5360.8,1188.52,Biofuel (B30),2590.97
+9800032,Tanker - Aframax Class,6456.9,1133.41,Biofuel (B30),2470.83
+9800032,Tanker - Aframax Class,1180.0,260.02,Biofuel (B30),566.84
+9800032,Tanker - Aframax Class,10346.9,2309.03,Biofuel (B30),5033.69
+9800032,Tanker - Aframax Class,6059.9,1118.22,Biofuel (B30),2437.72
+9800032,Tanker - Aframax Class,8641.2,2201.83,Biofuel (B30),4799.99
+9800032,Tanker - Aframax Class,3611.4,647.12,Biofuel (B30),1410.72
+9800033,Tanker - MR2 Chemical Class,5859.7,1337.37,Bio-Methanol,601.82
+9800033,Tanker - MR2 Chemical Class,2938.2,678.78,Bio-Methanol,305.45
+9800033,Tanker - MR2 Chemical Class,752.8,197.02,Bio-Methanol,88.66
+9800033,Tanker - MR2 Chemical Class,5838.8,1082.91,Bio-Methanol,487.31
+9800033,Tanker - MR2 Chemical Class,1488.2,295.96,Bio-Methanol,133.18
+9800033,Tanker - MR2 Chemical Class,7244.5,1949.34,Bio-Methanol,877.2
+9800033,Tanker - MR2 Chemical Class,7324.3,1798.65,Bio-Methanol,809.39
+9800033,Tanker - MR2 Chemical Class,3499.8,1011.04,Bio-Methanol,454.97
+9800033,Tanker - MR2 Chemical Class,8136.5,1673.47,Bio-Methanol,753.06
+9800033,Tanker - MR2 Chemical Class,6078.5,1289.41,Bio-Methanol,580.23
+9800033,Tanker - MR2 Chemical Class,6278.8,1311.67,Bio-Methanol,590.25
+9800033,Tanker - MR2 Chemical Class,2608.3,585.77,Bio-Methanol,263.6
+9800034,Reefer - Arctic Pioneer,9282.7,2358.66,Ammonia,117.93
+9800034,Reefer - Arctic Pioneer,6408.2,1307.4,Ammonia,65.37
+9800034,Reefer - Arctic Pioneer,7158.3,1496.48,Ammonia,74.82
+9800034,Reefer - Arctic Pioneer,6078.5,1253.21,Ammonia,62.66
+9800034,Reefer - Arctic Pioneer,4556.8,837.81,Ammonia,41.89
+9800034,Reefer - Arctic Pioneer,8613.9,2167.54,Ammonia,108.38
+9800034,Reefer - Arctic Pioneer,5775.2,1121.82,Ammonia,56.09
+9800034,Reefer - Arctic Pioneer,2175.3,422.25,Ammonia,21.11
+9800034,Reefer - Arctic Pioneer,3966.6,803.47,Ammonia,40.17
+9800034,Reefer - Arctic Pioneer,8885.1,1902.24,Ammonia,95.11
+9800034,Reefer - Arctic Pioneer,9576.4,2215.44,Ammonia,110.77
+9800034,Reefer - Arctic Pioneer,5502.6,1054.84,Ammonia,52.74
+9800035,Reefer - Nordic Carrier,6078.4,163.91,Hydrogen,0.0
+9800035,Reefer - Nordic Carrier,432.7,13.9,Hydrogen,0.0
+9800035,Reefer - Nordic Carrier,5764.0,161.76,Hydrogen,0.0
+9800035,Reefer - Nordic Carrier,6915.3,166.11,Hydrogen,0.0
+9800035,Reefer - Nordic Carrier,10080.2,300.87,Hydrogen,0.0
+9800035,Reefer - Nordic Carrier,5798.3,184.55,Hydrogen,0.0
+9800035,Reefer - Nordic Carrier,10348.7,286.93,Hydrogen,0.0
+9800035,Reefer - Nordic Carrier,6280.4,188.92,Hydrogen,0.0
+9800035,Reefer - Nordic Carrier,5770.5,204.5,Hydrogen,0.0
+9800035,Reefer - Nordic Carrier,2488.5,62.5,Hydrogen,0.0
+9800035,Reefer - Nordic Carrier,5904.5,192.7,Hydrogen,0.0
+9800035,Reefer - Nordic Carrier,6629.5,214.1,Hydrogen,0.0
+9800036,General Cargo - Multi-Purpose Heavy Lift,8656.1,779.56,VLSFO,2427.55
+9800036,General Cargo - Multi-Purpose Heavy Lift,2734.1,228.27,VLSFO,710.83
+9800036,General Cargo - Multi-Purpose Heavy Lift,9082.9,765.63,VLSFO,2384.17
+9800036,General Cargo - Multi-Purpose Heavy Lift,10791.5,1003.88,VLSFO,3126.08
+9800036,General Cargo - Multi-Purpose Heavy Lift,5923.3,512.16,VLSFO,1594.87
+9800036,General Cargo - Multi-Purpose Heavy Lift,1732.0,192.64,VLSFO,599.88
+9800036,General Cargo - Multi-Purpose Heavy Lift,7561.4,810.76,VLSFO,2524.71
+9800036,General Cargo - Multi-Purpose Heavy Lift,5754.7,535.41,VLSFO,1667.27
+9800036,General Cargo - Multi-Purpose Heavy Lift,6949.5,655.71,VLSFO,2041.88
+9800036,General Cargo - Multi-Purpose Heavy Lift,3813.8,472.44,VLSFO,1471.18
+9800036,General Cargo - Multi-Purpose Heavy Lift,549.8,58.01,VLSFO,180.64
+9800036,General Cargo - Multi-Purpose Heavy Lift,7862.4,729.41,VLSFO,2271.38
+9800036,General Cargo - Multi-Purpose Heavy Lift,5615.9,430.75,VLSFO,1341.36
+9800036,General Cargo - Multi-Purpose Heavy Lift,10276.1,844.09,VLSFO,2628.5
+9800037,General Cargo - Standard Box-Hold,4251.4,710.24,Bio-Methanol,319.61
+9800037,General Cargo - Standard Box-Hold,2079.6,374.58,Bio-Methanol,168.56
+9800037,General Cargo - Standard Box-Hold,5645.7,1053.62,Bio-Methanol,474.13
+9800037,General Cargo - Standard Box-Hold,4189.4,754.44,Bio-Methanol,339.5
+9800037,General Cargo - Standard Box-Hold,5560.2,791.99,Bio-Methanol,356.4
+9800037,General Cargo - Standard Box-Hold,1192.1,166.75,Bio-Methanol,75.04
+9800037,General Cargo - Standard Box-Hold,6091.1,958.8,Bio-Methanol,431.46
+9800037,General Cargo - Standard Box-Hold,3601.1,699.39,Bio-Methanol,314.73
+9800037,General Cargo - Standard Box-Hold,12606.1,1834.47,Bio-Methanol,825.51
+9800037,General Cargo - Standard Box-Hold,6508.0,932.13,Bio-Methanol,419.46
+9800037,General Cargo - Standard Box-Hold,8109.4,1115.13,Bio-Methanol,501.81
+9800038,General Cargo - Green Multi-Carrier,1103.2,323.75,Ammonia,16.19
+9800038,General Cargo - Green Multi-Carrier,5403.9,1509.16,Ammonia,75.46
+9800038,General Cargo - Green Multi-Carrier,10749.5,2490.57,Ammonia,124.53
+9800038,General Cargo - Green Multi-Carrier,6522.7,1561.43,Ammonia,78.07
+9800038,General Cargo - Green Multi-Carrier,6059.9,1484.44,Ammonia,74.22
+9800038,General Cargo - Green Multi-Carrier,6165.4,1515.91,Ammonia,75.8
+9800038,General Cargo - Green Multi-Carrier,6641.4,1707.05,Ammonia,85.35
+9800038,General Cargo - Green Multi-Carrier,7932.0,1685.35,Ammonia,84.27
+9800038,General Cargo - Green Multi-Carrier,647.5,147.49,Ammonia,7.37
+9800038,General Cargo - Green Multi-Carrier,6307.4,1484.26,Ammonia,74.21
+9800038,General Cargo - Green Multi-Carrier,2115.6,548.12,Ammonia,27.41
+9800038,General Cargo - Green Multi-Carrier,6634.4,1728.7,Ammonia,86.44
+9800039,Bulk Carrier - Capesize Class,1636.8,399.68,Biofuel (B30),871.3
+9800039,Bulk Carrier - Capesize Class,1316.2,415.15,Biofuel (B30),905.03
+9800039,Bulk Carrier - Capesize Class,4973.5,1582.1,Biofuel (B30),3448.98
+9800039,Bulk Carrier - Capesize Class,19.2,5.97,Biofuel (B30),13.01
+9800039,Bulk Carrier - Capesize Class,12606.1,3936.13,Biofuel (B30),8580.76
+9800039,Bulk Carrier - Capesize Class,8016.2,2156.24,Biofuel (B30),4700.6
+9800039,Bulk Carrier - Capesize Class,3658.0,958.3,Biofuel (B30),2089.09
+9800039,Bulk Carrier - Capesize Class,10672.2,3895.57,Biofuel (B30),8492.34
+9800039,Bulk Carrier - Capesize Class,6034.6,1594.29,Biofuel (B30),3475.55
+9800039,Bulk Carrier - Capesize Class,7505.2,1943.15,Biofuel (B30),4236.07
+9800039,Bulk Carrier - Capesize Class,5245.8,1813.12,Biofuel (B30),3952.6
+9800039,Bulk Carrier - Capesize Class,12582.7,3113.44,Biofuel (B30),6787.3
+9800040,Bulk Carrier - Panamax Class,10986.5,650.04,Hydrogen,0.0
+9800040,Bulk Carrier - Panamax Class,2475.9,112.19,Hydrogen,0.0
+9800040,Bulk Carrier - Panamax Class,9698.1,426.11,Hydrogen,0.0
+9800040,Bulk Carrier - Panamax Class,1017.1,43.77,Hydrogen,0.0
+9800040,Bulk Carrier - Panamax Class,5691.3,298.78,Hydrogen,0.0
+9800040,Bulk Carrier - Panamax Class,2473.5,116.61,Hydrogen,0.0
+9800040,Bulk Carrier - Panamax Class,12476.7,546.79,Hydrogen,0.0
+9800040,Bulk Carrier - Panamax Class,5586.7,214.29,Hydrogen,0.0
+9800040,Bulk Carrier - Panamax Class,11268.5,561.34,Hydrogen,0.0
+9800040,Bulk Carrier - Panamax Class,2015.1,90.99,Hydrogen,0.0
+9800040,Bulk Carrier - Panamax Class,7857.4,404.84,Hydrogen,0.0
+9800040,Bulk Carrier - Panamax Class,2667.3,137.02,Hydrogen,0.0
+9800040,Bulk Carrier - Panamax Class,6400.3,307.14,Hydrogen,0.0
+9800040,Bulk Carrier - Panamax Class,9248.8,469.58,Hydrogen,0.0
+9800041,Bulk Carrier - Supramax Class,8136.5,848.03,VLSFO,2640.77
+9800041,Bulk Carrier - Supramax Class,1940.6,240.43,VLSFO,748.7
+9800041,Bulk Carrier - Supramax Class,6401.5,693.6,VLSFO,2159.87
+9800041,Bulk Carrier - Supramax Class,6566.3,806.16,VLSFO,2510.38
+9800041,Bulk Carrier - Supramax Class,3296.0,455.73,VLSFO,1419.14
+9800041,Bulk Carrier - Supramax Class,8136.5,969.88,VLSFO,3020.21
+9800041,Bulk Carrier - Supramax Class,5953.4,854.06,VLSFO,2659.54
+9800041,Bulk Carrier - Supramax Class,4470.2,476.95,VLSFO,1485.22
+9800041,Bulk Carrier - Supramax Class,6305.7,753.71,VLSFO,2347.05
+9800041,Bulk Carrier - Supramax Class,828.2,112.27,VLSFO,349.61
+9800041,Bulk Carrier - Supramax Class,9017.4,1003.56,VLSFO,3125.09
+9800042,Bulk Carrier - Handysize Class,1111.4,28.54,Hydrogen,0.0
+9800042,Bulk Carrier - Handysize Class,3296.0,76.14,Hydrogen,0.0
+9800042,Bulk Carrier - Handysize Class,11563.8,284.52,Hydrogen,0.0
+9800042,Bulk Carrier - Handysize Class,8535.0,201.67,Hydrogen,0.0
+9800042,Bulk Carrier - Handysize Class,6499.9,161.19,Hydrogen,0.0
+9800042,Bulk Carrier - Handysize Class,4562.2,122.41,Hydrogen,0.0
+9800042,Bulk Carrier - Handysize Class,6334.6,158.15,Hydrogen,0.0
+9800042,Bulk Carrier - Handysize Class,9071.4,194.16,Hydrogen,0.0
+9800042,Bulk Carrier - Handysize Class,5488.6,123.4,Hydrogen,0.0
+9800042,Bulk Carrier - Handysize Class,1196.0,25.02,Hydrogen,0.0
+9800042,Bulk Carrier - Handysize Class,2374.4,51.33,Hydrogen,0.0
+9800042,Bulk Carrier - Handysize Class,1324.1,31.73,Hydrogen,0.0
+9800042,Bulk Carrier - Handysize Class,2061.2,56.1,Hydrogen,0.0
+9800043,"Container - Ultra Large (24,000 TEU)",5923.3,1257.31,Hydrogen,0.0
+9800043,"Container - Ultra Large (24,000 TEU)",2809.6,567.47,Hydrogen,0.0
+9800043,"Container - Ultra Large (24,000 TEU)",1764.8,351.18,Hydrogen,0.0
+9800043,"Container - Ultra Large (24,000 TEU)",10980.1,1781.29,Hydrogen,0.0
+9800043,"Container - Ultra Large (24,000 TEU)",4677.2,1085.65,Hydrogen,0.0
+9800043,"Container - Ultra Large (24,000 TEU)",6148.6,1262.81,Hydrogen,0.0
+9800043,"Container - Ultra Large (24,000 TEU)",7412.3,1348.94,Hydrogen,0.0
+9800043,"Container - Ultra Large (24,000 TEU)",3396.0,766.43,Hydrogen,0.0
+9800043,"Container - Ultra Large (24,000 TEU)",10691.4,1696.54,Hydrogen,0.0
+9800043,"Container - Ultra Large (24,000 TEU)",7771.5,1205.09,Hydrogen,0.0
+9800043,"Container - Ultra Large (24,000 TEU)",7602.3,1437.75,Hydrogen,0.0
+9800044,"Container - Neo-Panamax (15,000 TEU)",7862.4,1011.94,Hydrogen,0.0
+9800044,"Container - Neo-Panamax (15,000 TEU)",5544.0,825.26,Hydrogen,0.0
+9800044,"Container - Neo-Panamax (15,000 TEU)",5770.0,816.55,Hydrogen,0.0
+9800044,"Container - Neo-Panamax (15,000 TEU)",7240.5,824.49,Hydrogen,0.0
+9800044,"Container - Neo-Panamax (15,000 TEU)",2734.1,382.53,Hydrogen,0.0
+9800044,"Container - Neo-Panamax (15,000 TEU)",6600.9,875.05,Hydrogen,0.0
+9800044,"Container - Neo-Panamax (15,000 TEU)",4996.4,660.22,Hydrogen,0.0
+9800044,"Container - Neo-Panamax (15,000 TEU)",8613.9,1252.84,Hydrogen,0.0
+9800044,"Container - Neo-Panamax (15,000 TEU)",4028.6,602.92,Hydrogen,0.0
+9800044,"Container - Neo-Panamax (15,000 TEU)",4652.2,587.48,Hydrogen,0.0
+9800044,"Container - Neo-Panamax (15,000 TEU)",5244.0,703.82,Hydrogen,0.0
+9800044,"Container - Neo-Panamax (15,000 TEU)",8836.0,955.46,Hydrogen,0.0
+9800044,"Container - Neo-Panamax (15,000 TEU)",3069.6,469.53,Hydrogen,0.0
+9800044,"Container - Neo-Panamax (15,000 TEU)",5764.0,749.82,Hydrogen,0.0
+9800044,"Container - Neo-Panamax (15,000 TEU)",7224.7,853.17,Hydrogen,0.0
+9800045,"Container - Post-Panamax (8,500 TEU)",7512.6,5309.11,Ammonia,265.46
+9800045,"Container - Post-Panamax (8,500 TEU)",9644.8,9078.78,Ammonia,453.94
+9800045,"Container - Post-Panamax (8,500 TEU)",1764.8,1682.07,Ammonia,84.1
+9800045,"Container - Post-Panamax (8,500 TEU)",1197.1,853.15,Ammonia,42.66
+9800045,"Container - Post-Panamax (8,500 TEU)",19.2,15.77,Ammonia,0.79
+9800045,"Container - Post-Panamax (8,500 TEU)",2148.6,1900.33,Ammonia,95.02
+9800045,"Container - Post-Panamax (8,500 TEU)",7594.6,6228.86,Ammonia,311.44
+9800045,"Container - Post-Panamax (8,500 TEU)",7602.3,4871.26,Ammonia,243.56
+9800045,"Container - Post-Panamax (8,500 TEU)",5978.1,3919.54,Ammonia,195.98
+9800045,"Container - Post-Panamax (8,500 TEU)",6278.8,5386.18,Ammonia,269.31
+9800045,"Container - Post-Panamax (8,500 TEU)",4590.9,4334.28,Ammonia,216.71
+9800046,"Container - Panamax (5,000 TEU)",10977.6,2047.38,Biofuel (B30),4463.29
+9800046,"Container - Panamax (5,000 TEU)",7576.4,1531.0,Biofuel (B30),3337.58
+9800046,"Container - Panamax (5,000 TEU)",9555.9,2050.65,Biofuel (B30),4470.42
+9800046,"Container - Panamax (5,000 TEU)",8204.1,1520.6,Biofuel (B30),3314.91
+9800046,"Container - Panamax (5,000 TEU)",7412.3,1676.63,Biofuel (B30),3655.05
+9800046,"Container - Panamax (5,000 TEU)",1587.0,323.7,Biofuel (B30),705.67
+9800046,"Container - Panamax (5,000 TEU)",10870.3,2161.43,Biofuel (B30),4711.92
+9800046,"Container - Panamax (5,000 TEU)",12070.8,2798.11,Biofuel (B30),6099.88
+9800046,"Container - Panamax (5,000 TEU)",1324.1,249.73,Biofuel (B30),544.41
+9800046,"Container - Panamax (5,000 TEU)",3794.9,721.46,Biofuel (B30),1572.78
+9800046,"Container - Panamax (5,000 TEU)",1748.7,308.5,Biofuel (B30),672.53
+9800046,"Container - Panamax (5,000 TEU)",5544.0,1106.38,Biofuel (B30),2411.91
+9800046,"Container - Panamax (5,000 TEU)",12465.2,2554.97,Biofuel (B30),5569.83
+9800047,"Container - Feeder Max (3,500 TEU)",4251.4,580.11,VLSFO,1806.46
+9800047,"Container - Feeder Max (3,500 TEU)",5615.9,749.74,VLSFO,2334.69
+9800047,"Container - Feeder Max (3,500 TEU)",4892.9,718.81,VLSFO,2238.37
+9800047,"Container - Feeder Max (3,500 TEU)",5838.8,801.42,VLSFO,2495.62
+9800047,"Container - Feeder Max (3,500 TEU)",5809.0,928.96,VLSFO,2892.78
+9800047,"Container - Feeder Max (3,500 TEU)",3153.0,495.4,VLSFO,1542.68
+9800047,"Container - Feeder Max (3,500 TEU)",6073.8,1055.75,VLSFO,3287.61
+9800047,"Container - Feeder Max (3,500 TEU)",4780.3,639.16,VLSFO,1990.34
+9800047,"Container - Feeder Max (3,500 TEU)",1740.9,240.72,VLSFO,749.6
+9800047,"Container - Feeder Max (3,500 TEU)",8836.0,1001.35,VLSFO,3118.2
+9800047,"Container - Feeder Max (3,500 TEU)",4473.5,720.92,VLSFO,2244.94
+9800048,"Container - Regional Feeder (1,800 TEU)",6635.3,1129.97,Ammonia,56.5
+9800048,"Container - Regional Feeder (1,800 TEU)",6504.1,1407.03,Ammonia,70.35
+9800048,"Container - Regional Feeder (1,800 TEU)",1536.4,310.14,Ammonia,15.51
+9800048,"Container - Regional Feeder (1,800 TEU)",5488.6,1128.04,Ammonia,56.4
+9800048,"Container - Regional Feeder (1,800 TEU)",6708.4,1369.25,Ammonia,68.46
+9800048,"Container - Regional Feeder (1,800 TEU)",5914.2,1034.76,Ammonia,51.74
+9800048,"Container - Regional Feeder (1,800 TEU)",4588.5,720.13,Ammonia,36.01
+9800048,"Container - Regional Feeder (1,800 TEU)",4840.0,709.92,Ammonia,35.5
+9800048,"Container - Regional Feeder (1,800 TEU)",7156.6,998.89,Ammonia,49.94
+9800048,"Container - Regional Feeder (1,800 TEU)",5127.9,915.67,Ammonia,45.78
+9800048,"Container - Regional Feeder (1,800 TEU)",6094.7,1391.45,Ammonia,69.57
+9800049,Tanker - VLCC Class,3568.8,4016.87,Ammonia,200.84
+9800049,Tanker - VLCC Class,2386.3,1795.7,Ammonia,89.79
+9800049,Tanker - VLCC Class,7092.4,7805.2,Ammonia,390.26
+9800049,Tanker - VLCC Class,4636.7,4521.15,Ammonia,226.06
+9800049,Tanker - VLCC Class,5544.0,5738.58,Ammonia,286.93
+9800049,Tanker - VLCC Class,7121.6,6668.77,Ammonia,333.44
+9800049,Tanker - VLCC Class,5329.3,5092.87,Ammonia,254.64
+9800049,Tanker - VLCC Class,6303.4,6389.78,Ammonia,319.49
+9800049,Tanker - VLCC Class,12576.4,14118.09,Ammonia,705.9
+9800049,Tanker - VLCC Class,2079.6,1553.97,Ammonia,77.7
+9800049,Tanker - VLCC Class,4556.8,3887.81,Ammonia,194.39
+9800049,Tanker - VLCC Class,7672.0,6450.25,Ammonia,322.51
+9800049,Tanker - VLCC Class,4973.5,4366.49,Ammonia,218.32
+9800049,Tanker - VLCC Class,6518.3,4632.02,Ammonia,231.6
+9800049,Tanker - VLCC Class,6419.9,4721.4,Ammonia,236.07
+9800050,Tanker - Suezmax Class,4137.4,1968.95,Bio-Methanol,886.03
+9800050,Tanker - Suezmax Class,2494.9,1652.79,Bio-Methanol,743.76
+9800050,Tanker - Suezmax Class,7836.0,4104.55,Bio-Methanol,1847.05
+9800050,Tanker - Suezmax Class,9017.4,5931.48,Bio-Methanol,2669.17
+9800050,Tanker - Suezmax Class,7953.4,4924.88,Bio-Methanol,2216.2
+9800050,Tanker - Suezmax Class,5809.0,2830.32,Bio-Methanol,1273.64
+9800050,Tanker - Suezmax Class,9546.7,4824.9,Bio-Methanol,2171.2
+9800050,Tanker - Suezmax Class,6470.3,3315.11,Bio-Methanol,1491.8
+9800050,Tanker - Suezmax Class,7878.9,4984.2,Bio-Methanol,2242.89
+9800050,Tanker - Suezmax Class,4035.7,1944.23,Bio-Methanol,874.9
+9800051,Tanker - Aframax Class,5611.8,741.99,LNG,2040.47
+9800051,Tanker - Aframax Class,606.7,94.1,LNG,258.77
+9800051,Tanker - Aframax Class,4840.0,846.86,LNG,2328.87
+9800051,Tanker - Aframax Class,9546.7,1121.12,LNG,3083.08
+9800051,Tanker - Aframax Class,2972.3,495.07,LNG,1361.44
+9800051,Tanker - Aframax Class,4840.0,899.76,LNG,2474.34
+9800051,Tanker - Aframax Class,6091.1,1044.73,LNG,2873.01
+9800051,Tanker - Aframax Class,3497.4,611.58,LNG,1681.85
+9800051,Tanker - Aframax Class,3940.7,795.21,LNG,2186.83
+9800051,Tanker - Aframax Class,6094.7,922.42,LNG,2536.65
+9800051,Tanker - Aframax Class,4053.1,635.65,LNG,1748.04
+9800051,Tanker - Aframax Class,152.8,18.53,LNG,50.96
+9800051,Tanker - Aframax Class,3167.9,582.15,LNG,1600.91
+9800051,Tanker - Aframax Class,3819.9,545.33,LNG,1499.66
+9800052,Tanker - MR2 Chemical Class,7539.3,745.29,Biofuel (B30),1624.73
+9800052,Tanker - MR2 Chemical Class,5891.8,741.69,Biofuel (B30),1616.88
+9800052,Tanker - MR2 Chemical Class,4106.0,511.43,Biofuel (B30),1114.92
+9800052,Tanker - MR2 Chemical Class,6558.2,795.92,Biofuel (B30),1735.11
+9800052,Tanker - MR2 Chemical Class,5265.0,529.49,Biofuel (B30),1154.29
+9800052,Tanker - MR2 Chemical Class,2009.8,195.58,Biofuel (B30),426.36
+9800052,Tanker - MR2 Chemical Class,9071.4,983.0,Biofuel (B30),2142.94
+9800052,Tanker - MR2 Chemical Class,8641.2,1222.77,Biofuel (B30),2665.64
+9800052,Tanker - MR2 Chemical Class,4175.6,584.63,Biofuel (B30),1274.49
+9800052,Tanker - MR2 Chemical Class,9326.5,1183.33,Biofuel (B30),2579.66
+9800053,Reefer - Arctic Pioneer,11393.3,1189.39,LSMGO,3813.18
+9800053,Reefer - Arctic Pioneer,5596.4,657.16,LSMGO,2106.85
+9800053,Reefer - Arctic Pioneer,2550.6,297.25,LSMGO,952.98
+9800053,Reefer - Arctic Pioneer,5239.9,547.05,LSMGO,1753.84
+9800053,Reefer - Arctic Pioneer,3153.0,281.35,LSMGO,902.01
+9800053,Reefer - Arctic Pioneer,6915.3,668.64,LSMGO,2143.66
+9800053,Reefer - Arctic Pioneer,3952.9,430.56,LSMGO,1380.38
+9800053,Reefer - Arctic Pioneer,13153.7,1553.05,LSMGO,4979.08
+9800053,Reefer - Arctic Pioneer,7240.5,648.35,LSMGO,2078.61
+9800053,Reefer - Arctic Pioneer,4858.4,571.55,LSMGO,1832.39
+9800053,Reefer - Arctic Pioneer,5645.9,517.67,LSMGO,1659.65
+9800054,Reefer - Nordic Carrier,745.4,62.2,Biofuel (B30),135.6
+9800054,Reefer - Nordic Carrier,4137.4,404.4,Biofuel (B30),881.59
+9800054,Reefer - Nordic Carrier,6455.2,554.85,Biofuel (B30),1209.57
+9800054,Reefer - Nordic Carrier,3903.5,272.1,Biofuel (B30),593.18
+9800054,Reefer - Nordic Carrier,5098.4,422.79,Biofuel (B30),921.68
+9800054,Reefer - Nordic Carrier,3903.5,321.26,Biofuel (B30),700.35
+9800054,Reefer - Nordic Carrier,3586.1,292.08,Biofuel (B30),636.73
+9800054,Reefer - Nordic Carrier,7857.4,599.07,Biofuel (B30),1305.97
+9800054,Reefer - Nordic Carrier,4753.4,342.03,Biofuel (B30),745.63
+9800054,Reefer - Nordic Carrier,7843.1,772.45,Biofuel (B30),1683.94
+9800054,Reefer - Nordic Carrier,10925.5,924.91,Biofuel (B30),2016.3
+9800054,Reefer - Nordic Carrier,6903.8,661.74,Biofuel (B30),1442.59
+9800054,Reefer - Nordic Carrier,7395.1,625.23,Biofuel (B30),1363.0
+9800055,General Cargo - Multi-Purpose Heavy Lift,5119.0,160.44,Hydrogen,0.0
+9800055,General Cargo - Multi-Purpose Heavy Lift,3889.9,109.07,Hydrogen,0.0
+9800055,General Cargo - Multi-Purpose Heavy Lift,7364.3,291.17,Hydrogen,0.0
+9800055,General Cargo - Multi-Purpose Heavy Lift,6064.1,194.55,Hydrogen,0.0
+9800055,General Cargo - Multi-Purpose Heavy Lift,6805.7,230.57,Hydrogen,0.0
+9800055,General Cargo - Multi-Purpose Heavy Lift,7881.9,229.76,Hydrogen,0.0
+9800055,General Cargo - Multi-Purpose Heavy Lift,11193.5,395.79,Hydrogen,0.0
+9800055,General Cargo - Multi-Purpose Heavy Lift,6767.4,248.98,Hydrogen,0.0
+9800055,General Cargo - Multi-Purpose Heavy Lift,9223.2,343.03,Hydrogen,0.0
+9800055,General Cargo - Multi-Purpose Heavy Lift,2967.0,95.1,Hydrogen,0.0
+9800055,General Cargo - Multi-Purpose Heavy Lift,5645.9,162.39,Hydrogen,0.0
+9800055,General Cargo - Multi-Purpose Heavy Lift,11531.4,333.3,Hydrogen,0.0
+9800056,General Cargo - Standard Box-Hold,3402.3,154.07,LNG,423.69
+9800056,General Cargo - Standard Box-Hold,6097.5,398.36,LNG,1095.49
+9800056,General Cargo - Standard Box-Hold,3148.1,178.63,LNG,491.23
+9800056,General Cargo - Standard Box-Hold,8578.7,501.11,LNG,1378.05
+9800056,General Cargo - Standard Box-Hold,5319.5,288.48,LNG,793.32
+9800056,General Cargo - Standard Box-Hold,6378.7,302.74,LNG,832.54
+9800056,General Cargo - Standard Box-Hold,3644.0,166.58,LNG,458.1
+9800056,General Cargo - Standard Box-Hold,5691.3,342.7,LNG,942.42
+9800056,General Cargo - Standard Box-Hold,3483.5,179.17,LNG,492.72
+9800056,General Cargo - Standard Box-Hold,276.3,14.51,LNG,39.9
+9800056,General Cargo - Standard Box-Hold,1180.0,56.07,LNG,154.19
+9800056,General Cargo - Standard Box-Hold,2608.3,136.04,LNG,374.11
+9800057,General Cargo - Green Multi-Carrier,4388.7,173.97,Hydrogen,0.0
+9800057,General Cargo - Green Multi-Carrier,8313.7,378.02,Hydrogen,0.0
+9800057,General Cargo - Green Multi-Carrier,6199.4,196.42,Hydrogen,0.0
+9800057,General Cargo - Green Multi-Carrier,6148.6,241.92,Hydrogen,0.0
+9800057,General Cargo - Green Multi-Carrier,7640.4,281.35,Hydrogen,0.0
+9800057,General Cargo - Green Multi-Carrier,5132.7,169.88,Hydrogen,0.0
+9800057,General Cargo - Green Multi-Carrier,6522.7,258.02,Hydrogen,0.0
+9800057,General Cargo - Green Multi-Carrier,12662.0,547.44,Hydrogen,0.0
+9800057,General Cargo - Green Multi-Carrier,3153.0,119.08,Hydrogen,0.0
+9800057,General Cargo - Green Multi-Carrier,5814.7,242.58,Hydrogen,0.0
+9800057,General Cargo - Green Multi-Carrier,8982.2,357.69,Hydrogen,0.0
+9800058,Bulk Carrier - Capesize Class,2385.6,777.5,LSMGO,2492.66
+9800058,Bulk Carrier - Capesize Class,4470.2,1332.65,LSMGO,4272.48
+9800058,Bulk Carrier - Capesize Class,7110.6,2335.55,LSMGO,7487.77
+9800058,Bulk Carrier - Capesize Class,7234.7,2084.15,LSMGO,6681.78
+9800058,Bulk Carrier - Capesize Class,10276.1,2377.18,LSMGO,7621.24
+9800058,Bulk Carrier - Capesize Class,1120.7,367.0,LSMGO,1176.6
+9800058,Bulk Carrier - Capesize Class,6352.7,1797.37,LSMGO,5762.37
+9800058,Bulk Carrier - Capesize Class,2571.7,700.92,LSMGO,2247.15
+9800058,Bulk Carrier - Capesize Class,4303.8,1478.41,LSMGO,4739.78
+9800058,Bulk Carrier - Capesize Class,6860.8,1805.65,LSMGO,5788.91
+9800058,Bulk Carrier - Capesize Class,7509.2,2203.48,LSMGO,7064.36
+9800058,Bulk Carrier - Capesize Class,2406.5,676.12,LSMGO,2167.64
+9800058,Bulk Carrier - Capesize Class,5253.7,1586.62,LSMGO,5086.7
+9800058,Bulk Carrier - Capesize Class,7285.3,2276.78,LSMGO,7299.36
+9800059,Bulk Carrier - Panamax Class,8986.1,1353.51,LSMGO,4339.35
+9800059,Bulk Carrier - Panamax Class,5770.0,814.81,LSMGO,2612.28
+9800059,Bulk Carrier - Panamax Class,5136.7,728.84,LSMGO,2336.66
+9800059,Bulk Carrier - Panamax Class,6524.1,960.63,LSMGO,3079.78
+9800059,Bulk Carrier - Panamax Class,6909.3,844.11,LSMGO,2706.22
+9800059,Bulk Carrier - Panamax Class,5892.0,631.96,LSMGO,2026.06
+9800059,Bulk Carrier - Panamax Class,5915.1,737.76,LSMGO,2365.26
+9800059,Bulk Carrier - Panamax Class,278.7,44.3,LSMGO,142.03
+9800059,Bulk Carrier - Panamax Class,10195.7,1132.36,LSMGO,3630.35
+9800059,Bulk Carrier - Panamax Class,4719.8,698.44,LSMGO,2239.2
+9800059,Bulk Carrier - Panamax Class,4236.1,526.25,LSMGO,1687.16
+9800059,Bulk Carrier - Panamax Class,3597.3,396.12,LSMGO,1269.96
+9800059,Bulk Carrier - Panamax Class,5494.5,792.47,LSMGO,2540.66
+9800060,Bulk Carrier - Supramax Class,4567.4,238.61,Hydrogen,0.0
+9800060,Bulk Carrier - Supramax Class,6059.9,313.56,Hydrogen,0.0
+9800060,Bulk Carrier - Supramax Class,11333.8,442.63,Hydrogen,0.0
+9800060,Bulk Carrier - Supramax Class,2608.3,107.4,Hydrogen,0.0
+9800060,Bulk Carrier - Supramax Class,6909.3,299.82,Hydrogen,0.0
+9800060,Bulk Carrier - Supramax Class,3889.9,158.93,Hydrogen,0.0
+9800060,Bulk Carrier - Supramax Class,7302.4,355.86,Hydrogen,0.0
+9800060,Bulk Carrier - Supramax Class,3729.3,138.4,Hydrogen,0.0
+9800060,Bulk Carrier - Supramax Class,391.2,17.56,Hydrogen,0.0
+9800060,Bulk Carrier - Supramax Class,9473.8,422.62,Hydrogen,0.0
+9800060,Bulk Carrier - Supramax Class,8390.9,383.42,Hydrogen,0.0
+9800061,Bulk Carrier - Handysize Class,3437.3,128.74,Hydrogen,0.0
+9800061,Bulk Carrier - Handysize Class,7130.1,187.08,Hydrogen,0.0
+9800061,Bulk Carrier - Handysize Class,5586.7,211.41,Hydrogen,0.0
+9800061,Bulk Carrier - Handysize Class,4719.8,138.51,Hydrogen,0.0
+9800061,Bulk Carrier - Handysize Class,4950.6,123.05,Hydrogen,0.0
+9800061,Bulk Carrier - Handysize Class,9662.2,311.75,Hydrogen,0.0
+9800061,Bulk Carrier - Handysize Class,5795.9,175.42,Hydrogen,0.0
+9800061,Bulk Carrier - Handysize Class,4087.3,129.83,Hydrogen,0.0
+9800061,Bulk Carrier - Handysize Class,6805.7,266.18,Hydrogen,0.0
+9800061,Bulk Carrier - Handysize Class,9122.0,273.01,Hydrogen,0.0
+9800061,Bulk Carrier - Handysize Class,6301.6,213.52,Hydrogen,0.0
+9800061,Bulk Carrier - Handysize Class,7561.4,242.62,Hydrogen,0.0
+9800061,Bulk Carrier - Handysize Class,6627.1,165.68,Hydrogen,0.0
+9800061,Bulk Carrier - Handysize Class,5403.9,179.02,Hydrogen,0.0
+9800062,"Container - Ultra Large (24,000 TEU)",2151.9,1075.64,LSMGO,3448.5
+9800062,"Container - Ultra Large (24,000 TEU)",5940.8,2958.05,LSMGO,9483.51
+9800062,"Container - Ultra Large (24,000 TEU)",7234.7,3224.43,LSMGO,10337.52
+9800062,"Container - Ultra Large (24,000 TEU)",6641.4,3678.38,LSMGO,11792.89
+9800062,"Container - Ultra Large (24,000 TEU)",2938.2,1509.88,LSMGO,4840.68
+9800062,"Container - Ultra Large (24,000 TEU)",3493.8,2179.55,LSMGO,6987.64
+9800062,"Container - Ultra Large (24,000 TEU)",12153.8,5695.54,LSMGO,18259.9
+9800062,"Container - Ultra Large (24,000 TEU)",3990.1,2128.1,LSMGO,6822.69
+9800062,"Container - Ultra Large (24,000 TEU)",7836.0,4684.69,LSMGO,15019.12
+9800062,"Container - Ultra Large (24,000 TEU)",4386.0,2054.42,LSMGO,6586.47
+9800062,"Container - Ultra Large (24,000 TEU)",8982.2,3919.97,LSMGO,12567.42
+9800062,"Container - Ultra Large (24,000 TEU)",6097.5,3246.48,LSMGO,10408.21
+9800062,"Container - Ultra Large (24,000 TEU)",4796.8,2828.64,LSMGO,9068.62
+9800063,"Container - Neo-Panamax (15,000 TEU)",1753.5,633.99,Biofuel (B30),1382.1
+9800063,"Container - Neo-Panamax (15,000 TEU)",5566.5,2196.62,Biofuel (B30),4788.63
+9800063,"Container - Neo-Panamax (15,000 TEU)",12664.1,5880.46,Biofuel (B30),12819.4
+9800063,"Container - Neo-Panamax (15,000 TEU)",10771.3,4837.25,Biofuel (B30),10545.2
+9800063,"Container - Neo-Panamax (15,000 TEU)",1741.6,873.34,Biofuel (B30),1903.88
+9800063,"Container - Neo-Panamax (15,000 TEU)",7869.7,3389.04,Biofuel (B30),7388.11
+9800063,"Container - Neo-Panamax (15,000 TEU)",5360.8,2204.36,Biofuel (B30),4805.5
+9800063,"Container - Neo-Panamax (15,000 TEU)",3975.2,2070.36,Biofuel (B30),4513.38
+9800063,"Container - Neo-Panamax (15,000 TEU)",6222.0,2670.78,Biofuel (B30),5822.3
+9800063,"Container - Neo-Panamax (15,000 TEU)",11207.0,4671.09,Biofuel (B30),10182.98
+9800063,"Container - Neo-Panamax (15,000 TEU)",4586.6,2365.79,Biofuel (B30),5157.42
+9800063,"Container - Neo-Panamax (15,000 TEU)",6307.4,2659.21,Biofuel (B30),5797.08
+9800063,"Container - Neo-Panamax (15,000 TEU)",6278.8,2635.29,Biofuel (B30),5744.93
+9800064,"Container - Post-Panamax (8,500 TEU)",2237.6,606.09,LSMGO,1943.12
+9800064,"Container - Post-Panamax (8,500 TEU)",647.5,192.63,LSMGO,617.57
+9800064,"Container - Post-Panamax (8,500 TEU)",6342.7,2673.93,LSMGO,8572.62
+9800064,"Container - Post-Panamax (8,500 TEU)",5027.1,1687.47,LSMGO,5410.03
+9800064,"Container - Post-Panamax (8,500 TEU)",11439.9,2960.56,LSMGO,9491.56
+9800064,"Container - Post-Panamax (8,500 TEU)",5914.2,2065.78,LSMGO,6622.89
+9800064,"Container - Post-Panamax (8,500 TEU)",3940.7,1217.95,LSMGO,3904.75
+9800064,"Container - Post-Panamax (8,500 TEU)",9560.2,2708.6,LSMGO,8683.77
+9800064,"Container - Post-Panamax (8,500 TEU)",3057.3,1008.42,LSMGO,3232.99
+9800064,"Container - Post-Panamax (8,500 TEU)",6508.0,2275.44,LSMGO,7295.06
+9800064,"Container - Post-Panamax (8,500 TEU)",6073.8,2074.0,LSMGO,6649.24
+9800064,"Container - Post-Panamax (8,500 TEU)",5674.7,1908.02,LSMGO,6117.11
+9800064,"Container - Post-Panamax (8,500 TEU)",2473.5,774.6,LSMGO,2483.37
+9800064,"Container - Post-Panamax (8,500 TEU)",5768.9,2068.33,LSMGO,6631.07
+9800065,"Container - Panamax (5,000 TEU)",6903.8,1429.94,Biofuel (B30),3117.27
+9800065,"Container - Panamax (5,000 TEU)",7412.3,1525.67,Biofuel (B30),3325.96
+9800065,"Container - Panamax (5,000 TEU)",1132.8,284.86,Biofuel (B30),620.99
+9800065,"Container - Panamax (5,000 TEU)",5265.0,1023.62,Biofuel (B30),2231.49
+9800065,"Container - Panamax (5,000 TEU)",5403.9,1318.93,Biofuel (B30),2875.27
+9800065,"Container - Panamax (5,000 TEU)",6305.7,1285.76,Biofuel (B30),2802.96
+9800065,"Container - Panamax (5,000 TEU)",7710.9,1662.74,Biofuel (B30),3624.77
+9800065,"Container - Panamax (5,000 TEU)",4327.0,915.24,Biofuel (B30),1995.22
+9800065,"Container - Panamax (5,000 TEU)",7364.3,1558.39,Biofuel (B30),3397.29
+9800065,"Container - Panamax (5,000 TEU)",3499.8,663.98,Biofuel (B30),1447.48
+9800065,"Container - Panamax (5,000 TEU)",6600.9,1250.32,Biofuel (B30),2725.7
+9800065,"Container - Panamax (5,000 TEU)",2577.4,542.58,Biofuel (B30),1182.82
+9800065,"Container - Panamax (5,000 TEU)",7771.5,1641.19,Biofuel (B30),3577.79
+9800066,"Container - Feeder Max (3,500 TEU)",1029.4,103.09,LNG,283.5
+9800066,"Container - Feeder Max (3,500 TEU)",194.5,22.09,LNG,60.75
+9800066,"Container - Feeder Max (3,500 TEU)",1017.1,93.32,LNG,256.63
+9800066,"Container - Feeder Max (3,500 TEU)",1740.9,155.86,LNG,428.62
+9800066,"Container - Feeder Max (3,500 TEU)",591.7,65.98,LNG,181.45
+9800066,"Container - Feeder Max (3,500 TEU)",5967.6,688.56,LNG,1893.54
+9800066,"Container - Feeder Max (3,500 TEU)",2218.1,189.52,LNG,521.18
+9800066,"Container - Feeder Max (3,500 TEU)",4049.6,328.01,LNG,902.03
+9800066,"Container - Feeder Max (3,500 TEU)",3057.3,295.98,LNG,813.95
+9800066,"Container - Feeder Max (3,500 TEU)",5360.8,509.31,LNG,1400.6
+9800066,"Container - Feeder Max (3,500 TEU)",3636.8,415.93,LNG,1143.81
+9800066,"Container - Feeder Max (3,500 TEU)",5501.4,512.87,LNG,1410.39
+9800066,"Container - Feeder Max (3,500 TEU)",4388.7,474.93,LNG,1306.06
+9800067,"Container - Regional Feeder (1,800 TEU)",102.3,16.31,Ammonia,0.82
+9800067,"Container - Regional Feeder (1,800 TEU)",4251.4,675.55,Ammonia,33.78
+9800067,"Container - Regional Feeder (1,800 TEU)",609.9,108.0,Ammonia,5.4
+9800067,"Container - Regional Feeder (1,800 TEU)",4271.8,694.07,Ammonia,34.7
+9800067,"Container - Regional Feeder (1,800 TEU)",9223.2,1660.45,Ammonia,83.02
+9800067,"Container - Regional Feeder (1,800 TEU)",7381.7,1126.37,Ammonia,56.32
+9800067,"Container - Regional Feeder (1,800 TEU)",6830.7,916.02,Ammonia,45.8
+9800067,"Container - Regional Feeder (1,800 TEU)",2333.0,351.18,Ammonia,17.56
+9800067,"Container - Regional Feeder (1,800 TEU)",3861.2,604.18,Ammonia,30.21
+9800067,"Container - Regional Feeder (1,800 TEU)",6574.0,958.37,Ammonia,47.92
+9800067,"Container - Regional Feeder (1,800 TEU)",9046.1,1279.06,Ammonia,63.95
+9800067,"Container - Regional Feeder (1,800 TEU)",5144.9,639.58,Ammonia,31.98
+9800067,"Container - Regional Feeder (1,800 TEU)",463.0,69.72,Ammonia,3.49
+9800067,"Container - Regional Feeder (1,800 TEU)",10353.3,1652.69,Ammonia,82.63
+9800068,Tanker - VLCC Class,1748.8,1538.52,Bio-Methanol,692.33
+9800068,Tanker - VLCC Class,6400.3,6058.82,Bio-Methanol,2726.47
+9800068,Tanker - VLCC Class,7836.0,6657.61,Bio-Methanol,2995.92
+9800068,Tanker - VLCC Class,481.5,321.16,Bio-Methanol,144.52
+9800068,Tanker - VLCC Class,9326.7,8330.45,Bio-Methanol,3748.7
+9800068,Tanker - VLCC Class,6025.3,5842.25,Bio-Methanol,2629.01
+9800068,Tanker - VLCC Class,5761.2,5300.66,Bio-Methanol,2385.3
+9800068,Tanker - VLCC Class,6307.4,4864.01,Bio-Methanol,2188.8
+9800068,Tanker - VLCC Class,1184.0,1342.6,Bio-Methanol,604.17
+9800068,Tanker - VLCC Class,10977.6,9213.32,Bio-Methanol,4145.99
+9800068,Tanker - VLCC Class,5328.4,5538.77,Bio-Methanol,2492.45
+9800068,Tanker - VLCC Class,6974.9,6128.24,Bio-Methanol,2757.71
+9800068,Tanker - VLCC Class,646.9,610.53,Bio-Methanol,274.74
+9800068,Tanker - VLCC Class,9122.0,7663.84,Bio-Methanol,3448.73
+9800069,Tanker - Suezmax Class,3320.3,289.57,Hydrogen,0.0
+9800069,Tanker - Suezmax Class,3903.5,312.03,Hydrogen,0.0
+9800069,Tanker - Suezmax Class,4487.4,429.11,Hydrogen,0.0
+9800069,Tanker - Suezmax Class,11433.5,1092.02,Hydrogen,0.0
+9800069,Tanker - Suezmax Class,4484.0,484.14,Hydrogen,0.0
+9800069,Tanker - Suezmax Class,9326.5,902.54,Hydrogen,0.0
+9800069,Tanker - Suezmax Class,5090.6,487.66,Hydrogen,0.0
+9800069,Tanker - Suezmax Class,1741.6,159.84,Hydrogen,0.0
+9800069,Tanker - Suezmax Class,3941.4,419.94,Hydrogen,0.0
+9800069,Tanker - Suezmax Class,6543.0,562.84,Hydrogen,0.0
+9800070,Tanker - Aframax Class,3153.0,666.81,VLSFO,2076.45
+9800070,Tanker - Aframax Class,2218.1,377.3,VLSFO,1174.91
+9800070,Tanker - Aframax Class,1120.7,234.12,VLSFO,729.05
+9800070,Tanker - Aframax Class,2945.4,565.8,VLSFO,1761.9
+9800070,Tanker - Aframax Class,5754.7,873.79,VLSFO,2720.98
+9800070,Tanker - Aframax Class,8204.1,1816.71,VLSFO,5657.23
+9800070,Tanker - Aframax Class,5344.2,1084.32,VLSFO,3376.57
+9800070,Tanker - Aframax Class,6499.9,1172.07,VLSFO,3649.83
+9800070,Tanker - Aframax Class,6385.9,1128.79,VLSFO,3515.05
+9800070,Tanker - Aframax Class,6455.2,1184.39,VLSFO,3688.19
+9800070,Tanker - Aframax Class,6385.9,1122.95,VLSFO,3496.87
+9800071,Tanker - MR2 Chemical Class,6870.1,1803.2,Bio-Methanol,811.44
+9800071,Tanker - MR2 Chemical Class,8003.8,2177.43,Bio-Methanol,979.84
+9800071,Tanker - MR2 Chemical Class,2000.8,567.82,Bio-Methanol,255.52
+9800071,Tanker - MR2 Chemical Class,12532.8,3025.99,Bio-Methanol,1361.7
+9800071,Tanker - MR2 Chemical Class,3601.1,1159.49,Bio-Methanol,521.77
+9800071,Tanker - MR2 Chemical Class,8139.8,2147.29,Bio-Methanol,966.28
+9800071,Tanker - MR2 Chemical Class,10711.9,3230.55,Bio-Methanol,1453.75
+9800071,Tanker - MR2 Chemical Class,1367.1,330.11,Bio-Methanol,148.55
+9800071,Tanker - MR2 Chemical Class,10749.5,3271.32,Bio-Methanol,1472.09
+9800071,Tanker - MR2 Chemical Class,3503.7,976.2,Bio-Methanol,439.29
+9800072,Reefer - Arctic Pioneer,5265.0,522.31,LSMGO,1674.53
+9800072,Reefer - Arctic Pioneer,3212.8,261.43,LSMGO,838.14
+9800072,Reefer - Arctic Pioneer,6499.9,522.48,LSMGO,1675.07
+9800072,Reefer - Arctic Pioneer,7594.6,601.64,LSMGO,1928.86
+9800072,Reefer - Arctic Pioneer,6431.7,626.29,LSMGO,2007.89
+9800072,Reefer - Arctic Pioneer,5008.6,382.53,LSMGO,1226.39
+9800072,Reefer - Arctic Pioneer,5953.4,558.75,LSMGO,1791.35
+9800072,Reefer - Arctic Pioneer,4689.2,501.4,LSMGO,1607.49
+9800072,Reefer - Arctic Pioneer,1365.6,137.97,LSMGO,442.33
+9800072,Reefer - Arctic Pioneer,9029.7,730.88,LSMGO,2343.2
+9800072,Reefer - Arctic Pioneer,818.9,91.77,LSMGO,294.21
+9800072,Reefer - Arctic Pioneer,10977.6,1162.03,LSMGO,3725.47
+9800072,Reefer - Arctic Pioneer,6600.9,722.34,LSMGO,2315.82
+9800072,Reefer - Arctic Pioneer,1192.1,107.67,LSMGO,345.19
+9800072,Reefer - Arctic Pioneer,5468.4,425.93,LSMGO,1365.53
+9800073,Reefer - Nordic Carrier,11193.5,647.17,Biofuel (B30),1410.83
+9800073,Reefer - Nordic Carrier,5754.7,396.39,Biofuel (B30),864.13
+9800073,Reefer - Nordic Carrier,6059.9,387.89,Biofuel (B30),845.6
+9800073,Reefer - Nordic Carrier,4536.4,392.93,Biofuel (B30),856.59
+9800073,Reefer - Nordic Carrier,2550.6,184.73,Biofuel (B30),402.71
+9800073,Reefer - Nordic Carrier,4888.8,357.74,Biofuel (B30),779.87
+9800073,Reefer - Nordic Carrier,1197.1,93.72,Biofuel (B30),204.31
+9800073,Reefer - Nordic Carrier,8459.3,584.89,Biofuel (B30),1275.06
+9800073,Reefer - Nordic Carrier,3941.4,275.41,Biofuel (B30),600.39
+9800073,Reefer - Nordic Carrier,12158.9,766.96,Biofuel (B30),1671.97
+9800073,Reefer - Nordic Carrier,7609.6,668.59,Biofuel (B30),1457.53
+9800074,General Cargo - Multi-Purpose Heavy Lift,3750.4,805.13,Ammonia,40.26
+9800074,General Cargo - Multi-Purpose Heavy Lift,4651.6,847.28,Ammonia,42.36
+9800074,General Cargo - Multi-Purpose Heavy Lift,7285.3,1395.51,Ammonia,69.78
+9800074,General Cargo - Multi-Purpose Heavy Lift,11264.6,2573.47,Ammonia,128.67
+9800074,General Cargo - Multi-Purpose Heavy Lift,224.2,49.11,Ammonia,2.46
+9800074,General Cargo - Multi-Purpose Heavy Lift,6634.4,1467.28,Ammonia,73.36
+9800074,General Cargo - Multi-Purpose Heavy Lift,1047.2,245.46,Ammonia,12.27
+9800074,General Cargo - Multi-Purpose Heavy Lift,818.9,171.89,Ammonia,8.59
+9800074,General Cargo - Multi-Purpose Heavy Lift,591.7,122.67,Ammonia,6.13
+9800074,General Cargo - Multi-Purpose Heavy Lift,5636.0,1090.31,Ammonia,54.52
+9800075,General Cargo - Standard Box-Hold,7876.7,146.93,Hydrogen,0.0
+9800075,General Cargo - Standard Box-Hold,1407.4,22.68,Hydrogen,0.0
+9800075,General Cargo - Standard Box-Hold,753.2,16.88,Hydrogen,0.0
+9800075,General Cargo - Standard Box-Hold,1963.2,48.59,Hydrogen,0.0
+9800075,General Cargo - Standard Box-Hold,5904.5,108.66,Hydrogen,0.0
+9800075,General Cargo - Standard Box-Hold,7864.4,193.88,Hydrogen,0.0
+9800075,General Cargo - Standard Box-Hold,5372.1,107.23,Hydrogen,0.0
+9800075,General Cargo - Standard Box-Hold,4858.4,92.45,Hydrogen,0.0
+9800075,General Cargo - Standard Box-Hold,1740.9,28.67,Hydrogen,0.0
+9800075,General Cargo - Standard Box-Hold,3861.2,85.84,Hydrogen,0.0
+9800075,General Cargo - Standard Box-Hold,6408.2,125.68,Hydrogen,0.0
+9800075,General Cargo - Standard Box-Hold,12585.4,238.07,Hydrogen,0.0
+9800075,General Cargo - Standard Box-Hold,17.5,0.38,Hydrogen,0.0
+9800075,General Cargo - Standard Box-Hold,11193.5,319.34,Hydrogen,0.0
+9800075,General Cargo - Standard Box-Hold,6805.7,151.07,Hydrogen,0.0
+9800076,General Cargo - Green Multi-Carrier,7627.7,987.59,LNG,2715.87
+9800076,General Cargo - Green Multi-Carrier,11536.0,1215.47,LNG,3342.54
+9800076,General Cargo - Green Multi-Carrier,561.6,63.65,LNG,175.04
+9800076,General Cargo - Green Multi-Carrier,2115.6,197.4,LNG,542.85
+9800076,General Cargo - Green Multi-Carrier,3794.9,406.0,LNG,1116.5
+9800076,General Cargo - Green Multi-Carrier,7640.4,816.1,LNG,2244.28
+9800076,General Cargo - Green Multi-Carrier,7224.7,734.12,LNG,2018.83
+9800076,General Cargo - Green Multi-Carrier,9753.2,1181.28,LNG,3248.52
+9800076,General Cargo - Green Multi-Carrier,5645.7,688.34,LNG,1892.94
+9800076,General Cargo - Green Multi-Carrier,5114.8,543.36,LNG,1494.24
+9800076,General Cargo - Green Multi-Carrier,4137.4,501.9,LNG,1380.22
+9800076,General Cargo - Green Multi-Carrier,7932.0,787.09,LNG,2164.5
+9800077,Bulk Carrier - Capesize Class,5735.2,1364.42,LNG,3752.16
+9800077,Bulk Carrier - Capesize Class,9212.8,2214.02,LNG,6088.56
+9800077,Bulk Carrier - Capesize Class,1249.2,253.83,LNG,698.03
+9800077,Bulk Carrier - Capesize Class,638.2,147.44,LNG,405.46
+9800077,Bulk Carrier - Capesize Class,6418.6,1643.16,LNG,4518.69
+9800077,Bulk Carrier - Capesize Class,1120.7,206.35,LNG,567.46
+9800077,Bulk Carrier - Capesize Class,8613.9,2031.24,LNG,5585.91
+9800077,Bulk Carrier - Capesize Class,609.9,132.53,LNG,364.46
+9800077,Bulk Carrier - Capesize Class,7110.6,1612.61,LNG,4434.68
+9800077,Bulk Carrier - Capesize Class,5904.5,1217.39,LNG,3347.82
+9800077,Bulk Carrier - Capesize Class,7876.7,1865.91,LNG,5131.25
+9800077,Bulk Carrier - Capesize Class,3153.0,685.1,LNG,1884.03
+9800077,Bulk Carrier - Capesize Class,8836.0,2319.2,LNG,6377.8
+9800077,Bulk Carrier - Capesize Class,2000.8,379.77,LNG,1044.37
+9800078,Bulk Carrier - Panamax Class,6508.3,1141.77,LSMGO,3660.51
+9800078,Bulk Carrier - Panamax Class,2514.3,382.29,LSMGO,1225.62
+9800078,Bulk Carrier - Panamax Class,3123.7,463.34,LSMGO,1485.47
+9800078,Bulk Carrier - Panamax Class,10348.7,1970.0,LSMGO,6315.82
+9800078,Bulk Carrier - Panamax Class,1597.0,276.45,LSMGO,886.3
+9800078,Bulk Carrier - Panamax Class,5428.6,761.34,LSMGO,2440.86
+9800078,Bulk Carrier - Panamax Class,6073.8,1078.15,LSMGO,3456.55
+9800078,Bulk Carrier - Panamax Class,4754.3,758.51,LSMGO,2431.78
+9800078,Bulk Carrier - Panamax Class,6636.1,1186.64,LSMGO,3804.37
+9800078,Bulk Carrier - Panamax Class,12606.1,1961.08,LSMGO,6287.22
+9800078,Bulk Carrier - Panamax Class,4251.4,582.56,LSMGO,1867.69
+9800079,Bulk Carrier - Supramax Class,10218.6,1326.21,VLSFO,4129.82
+9800079,Bulk Carrier - Supramax Class,8982.2,855.94,VLSFO,2665.4
+9800079,Bulk Carrier - Supramax Class,7965.1,1067.81,VLSFO,3325.16
+9800079,Bulk Carrier - Supramax Class,1249.2,185.66,VLSFO,578.15
+9800079,Bulk Carrier - Supramax Class,5636.0,670.3,VLSFO,2087.31
+9800079,Bulk Carrier - Supramax Class,4636.7,591.05,VLSFO,1840.53
+9800079,Bulk Carrier - Supramax Class,2406.5,308.48,VLSFO,960.61
+9800079,Bulk Carrier - Supramax Class,1197.1,160.35,VLSFO,499.33
+9800079,Bulk Carrier - Supramax Class,1192.1,153.67,VLSFO,478.53
+9800079,Bulk Carrier - Supramax Class,10925.5,1494.02,VLSFO,4652.38
+9800080,Bulk Carrier - Handysize Class,4388.7,130.59,Hydrogen,0.0
+9800080,Bulk Carrier - Handysize Class,10986.5,384.87,Hydrogen,0.0
+9800080,Bulk Carrier - Handysize Class,2550.6,77.92,Hydrogen,0.0
+9800080,Bulk Carrier - Handysize Class,6708.4,188.51,Hydrogen,0.0
+9800080,Bulk Carrier - Handysize Class,202.7,5.82,Hydrogen,0.0
+9800080,Bulk Carrier - Handysize Class,7224.7,231.77,Hydrogen,0.0
+9800080,Bulk Carrier - Handysize Class,2742.8,73.77,Hydrogen,0.0
+9800080,Bulk Carrier - Handysize Class,10711.9,270.23,Hydrogen,0.0
+9800080,Bulk Carrier - Handysize Class,7602.3,211.57,Hydrogen,0.0
+9800080,Bulk Carrier - Handysize Class,3838.0,110.45,Hydrogen,0.0
+9800080,Bulk Carrier - Handysize Class,6098.9,205.75,Hydrogen,0.0
+9800080,Bulk Carrier - Handysize Class,3947.5,101.87,Hydrogen,0.0
+9800080,Bulk Carrier - Handysize Class,5518.2,171.69,Hydrogen,0.0
+9800080,Bulk Carrier - Handysize Class,7324.3,231.98,Hydrogen,0.0
+9800080,Bulk Carrier - Handysize Class,5940.8,179.04,Hydrogen,0.0
+9800081,"Container - Ultra Large (24,000 TEU)",5372.1,2661.0,LSMGO,8531.17
+9800081,"Container - Ultra Large (24,000 TEU)",6793.2,3169.61,LSMGO,10161.77
+9800081,"Container - Ultra Large (24,000 TEU)",6903.8,4244.0,LSMGO,13606.26
+9800081,"Container - Ultra Large (24,000 TEU)",5090.6,3376.55,LSMGO,10825.22
+9800081,"Container - Ultra Large (24,000 TEU)",1453.6,859.48,LSMGO,2755.49
+9800081,"Container - Ultra Large (24,000 TEU)",10279.7,4959.51,LSMGO,15900.19
+9800081,"Container - Ultra Large (24,000 TEU)",9326.5,4201.58,LSMGO,13470.27
+9800081,"Container - Ultra Large (24,000 TEU)",1260.7,511.1,LSMGO,1638.59
+9800081,"Container - Ultra Large (24,000 TEU)",5798.3,2808.79,LSMGO,9004.98
+9800081,"Container - Ultra Large (24,000 TEU)",1764.8,1138.48,LSMGO,3649.97
+9800082,"Container - Neo-Panamax (15,000 TEU)",10791.5,9061.78,Bio-Methanol,4077.8
+9800082,"Container - Neo-Panamax (15,000 TEU)",5914.2,5107.87,Bio-Methanol,2298.54
+9800082,"Container - Neo-Panamax (15,000 TEU)",3088.3,2128.91,Bio-Methanol,958.01
+9800082,"Container - Neo-Panamax (15,000 TEU)",4251.4,3191.38,Bio-Methanol,1436.12
+9800082,"Container - Neo-Panamax (15,000 TEU)",10754.9,8370.55,Bio-Methanol,3766.75
+9800082,"Container - Neo-Panamax (15,000 TEU)",7289.4,5656.44,Bio-Methanol,2545.4
+9800082,"Container - Neo-Panamax (15,000 TEU)",7057.1,5719.88,Bio-Methanol,2573.95
+9800082,"Container - Neo-Panamax (15,000 TEU)",3499.8,3490.77,Bio-Methanol,1570.85
+9800082,"Container - Neo-Panamax (15,000 TEU)",6981.3,5989.32,Bio-Methanol,2695.19
+9800082,"Container - Neo-Panamax (15,000 TEU)",9326.5,7824.85,Bio-Methanol,3521.18
+9800082,"Container - Neo-Panamax (15,000 TEU)",6949.5,5500.57,Bio-Methanol,2475.26
+9800082,"Container - Neo-Panamax (15,000 TEU)",4562.2,3442.33,Bio-Methanol,1549.05
+9800082,"Container - Neo-Panamax (15,000 TEU)",818.9,862.92,Bio-Methanol,388.31
+9800082,"Container - Neo-Panamax (15,000 TEU)",7633.5,8183.39,Bio-Methanol,3682.53
+9800082,"Container - Neo-Panamax (15,000 TEU)",4852.1,4875.93,Bio-Methanol,2194.17
+9800083,"Container - Post-Panamax (8,500 TEU)",11439.9,4316.42,Biofuel (B30),9409.8
+9800083,"Container - Post-Panamax (8,500 TEU)",7857.4,3285.43,Biofuel (B30),7162.24
+9800083,"Container - Post-Panamax (8,500 TEU)",6303.4,2007.64,Biofuel (B30),4376.66
+9800083,"Container - Post-Panamax (8,500 TEU)",9326.5,3506.75,Biofuel (B30),7644.72
+9800083,"Container - Post-Panamax (8,500 TEU)",5324.2,2104.55,Biofuel (B30),4587.92
+9800083,"Container - Post-Panamax (8,500 TEU)",6974.9,3305.12,Biofuel (B30),7205.16
+9800083,"Container - Post-Panamax (8,500 TEU)",6352.7,1942.47,Biofuel (B30),4234.58
+9800083,"Container - Post-Panamax (8,500 TEU)",6909.3,2302.32,Biofuel (B30),5019.06
+9800083,"Container - Post-Panamax (8,500 TEU)",2038.8,681.93,Biofuel (B30),1486.61
+9800083,"Container - Post-Panamax (8,500 TEU)",5768.0,2166.86,Biofuel (B30),4723.75
+9800083,"Container - Post-Panamax (8,500 TEU)",11207.0,4179.92,Biofuel (B30),9112.23
+9800083,"Container - Post-Panamax (8,500 TEU)",8982.4,2994.56,Biofuel (B30),6528.14
+9800083,"Container - Post-Panamax (8,500 TEU)",5501.4,1818.68,Biofuel (B30),3964.72
+9800083,"Container - Post-Panamax (8,500 TEU)",4175.6,1570.45,Biofuel (B30),3423.58
+9800083,"Container - Post-Panamax (8,500 TEU)",753.2,319.4,Biofuel (B30),696.29
+9800084,"Container - Panamax (5,000 TEU)",6419.9,1696.96,VLSFO,5284.33
+9800084,"Container - Panamax (5,000 TEU)",5967.6,1214.1,VLSFO,3780.71
+9800084,"Container - Panamax (5,000 TEU)",4562.2,1128.37,VLSFO,3513.74
+9800084,"Container - Panamax (5,000 TEU)",1029.4,230.62,VLSFO,718.15
+9800084,"Container - Panamax (5,000 TEU)",6635.3,1407.44,VLSFO,4382.77
+9800084,"Container - Panamax (5,000 TEU)",5253.7,978.1,VLSFO,3045.8
+9800084,"Container - Panamax (5,000 TEU)",7959.7,1645.28,VLSFO,5123.4
+9800084,"Container - Panamax (5,000 TEU)",4556.8,1332.53,VLSFO,4149.5
+9800084,"Container - Panamax (5,000 TEU)",4664.8,988.17,VLSFO,3077.16
+9800084,"Container - Panamax (5,000 TEU)",6558.2,1296.95,VLSFO,4038.7
+9800084,"Container - Panamax (5,000 TEU)",6322.9,1430.79,VLSFO,4455.48
+9800084,"Container - Panamax (5,000 TEU)",23.4,5.53,VLSFO,17.22
+9800084,"Container - Panamax (5,000 TEU)",8141.5,1990.93,VLSFO,6199.76
+9800084,"Container - Panamax (5,000 TEU)",5670.5,1092.61,VLSFO,3402.39
+9800084,"Container - Panamax (5,000 TEU)",6518.3,1343.43,VLSFO,4183.44
+9800085,"Container - Feeder Max (3,500 TEU)",2967.0,444.8,Biofuel (B30),969.66
+9800085,"Container - Feeder Max (3,500 TEU)",4028.6,620.45,Biofuel (B30),1352.58
+9800085,"Container - Feeder Max (3,500 TEU)",6475.1,986.93,Biofuel (B30),2151.51
+9800085,"Container - Feeder Max (3,500 TEU)",5.0,0.87,Biofuel (B30),1.9
+9800085,"Container - Feeder Max (3,500 TEU)",6896.6,896.74,Biofuel (B30),1954.89
+9800085,"Container - Feeder Max (3,500 TEU)",4087.3,570.81,Biofuel (B30),1244.37
+9800085,"Container - Feeder Max (3,500 TEU)",3101.0,350.27,Biofuel (B30),763.59
+9800085,"Container - Feeder Max (3,500 TEU)",7582.4,1180.48,Biofuel (B30),2573.45
+9800085,"Container - Feeder Max (3,500 TEU)",6142.7,1005.56,Biofuel (B30),2192.12
+9800085,"Container - Feeder Max (3,500 TEU)",9940.3,1749.52,Biofuel (B30),3813.95
+9800086,"Container - Regional Feeder (1,800 TEU)",6455.2,568.47,VLSFO,1770.22
+9800086,"Container - Regional Feeder (1,800 TEU)",1367.1,113.28,VLSFO,352.75
+9800086,"Container - Regional Feeder (1,800 TEU)",8885.1,695.68,VLSFO,2166.35
+9800086,"Container - Regional Feeder (1,800 TEU)",2009.8,233.08,VLSFO,725.81
+9800086,"Container - Regional Feeder (1,800 TEU)",11486.0,1216.44,VLSFO,3787.99
+9800086,"Container - Regional Feeder (1,800 TEU)",1722.5,160.96,VLSFO,501.23
+9800086,"Container - Regional Feeder (1,800 TEU)",7057.1,581.78,VLSFO,1811.66
+9800086,"Container - Regional Feeder (1,800 TEU)",1929.5,171.99,VLSFO,535.58
+9800086,"Container - Regional Feeder (1,800 TEU)",6148.6,517.19,VLSFO,1610.53
+9800086,"Container - Regional Feeder (1,800 TEU)",7252.8,479.88,VLSFO,1494.35
+9800086,"Container - Regional Feeder (1,800 TEU)",10195.5,1118.88,VLSFO,3484.19
+9800086,"Container - Regional Feeder (1,800 TEU)",5328.4,422.28,VLSFO,1314.98
+9800086,"Container - Regional Feeder (1,800 TEU)",7156.6,532.11,VLSFO,1656.99
+9800086,"Container - Regional Feeder (1,800 TEU)",6165.4,531.87,VLSFO,1656.24
+9800086,"Container - Regional Feeder (1,800 TEU)",19.2,1.97,VLSFO,6.13
+9800087,Tanker - VLCC Class,2897.3,586.4,Hydrogen,0.0
+9800087,Tanker - VLCC Class,752.8,99.77,Hydrogen,0.0
+9800087,Tanker - VLCC Class,9958.4,1957.15,Hydrogen,0.0
+9800087,Tanker - VLCC Class,3861.2,477.68,Hydrogen,0.0
+9800087,Tanker - VLCC Class,6091.1,808.04,Hydrogen,0.0
+9800087,Tanker - VLCC Class,6025.3,745.16,Hydrogen,0.0
+9800087,Tanker - VLCC Class,2608.3,395.81,Hydrogen,0.0
+9800087,Tanker - VLCC Class,5389.4,820.63,Hydrogen,0.0
+9800087,Tanker - VLCC Class,2894.2,469.79,Hydrogen,0.0
+9800087,Tanker - VLCC Class,1748.7,269.24,Hydrogen,0.0
+9800088,Tanker - Suezmax Class,5488.6,2852.14,Bio-Methanol,1283.46
+9800088,Tanker - Suezmax Class,7989.3,5083.79,Bio-Methanol,2287.71
+9800088,Tanker - Suezmax Class,3483.5,1784.85,Bio-Methanol,803.18
+9800088,Tanker - Suezmax Class,8016.2,4716.15,Bio-Methanol,2122.27
+9800088,Tanker - Suezmax Class,1044.2,543.92,Bio-Methanol,244.76
+9800088,Tanker - Suezmax Class,6659.0,4051.77,Bio-Methanol,1823.3
+9800088,Tanker - Suezmax Class,7640.4,3998.19,Bio-Methanol,1799.19
+9800088,Tanker - Suezmax Class,10195.5,7145.1,Bio-Methanol,3215.3
+9800088,Tanker - Suezmax Class,1372.8,634.72,Bio-Methanol,285.62
+9800088,Tanker - Suezmax Class,2967.0,1982.57,Bio-Methanol,892.16
+9800088,Tanker - Suezmax Class,9350.3,4531.49,Bio-Methanol,2039.17
+9800088,Tanker - Suezmax Class,4753.4,2912.74,Bio-Methanol,1310.73
+9800088,Tanker - Suezmax Class,2061.2,1011.85,Bio-Methanol,455.33
+9800088,Tanker - Suezmax Class,6034.6,3370.97,Bio-Methanol,1516.94
+9800089,Tanker - Aframax Class,2671.7,190.19,Hydrogen,0.0
+9800089,Tanker - Aframax Class,2671.7,192.61,Hydrogen,0.0
+9800089,Tanker - Aframax Class,7673.0,478.65,Hydrogen,0.0
+9800089,Tanker - Aframax Class,591.7,37.0,Hydrogen,0.0
+9800089,Tanker - Aframax Class,1689.7,118.92,Hydrogen,0.0
+9800089,Tanker - Aframax Class,4780.3,325.68,Hydrogen,0.0
+9800089,Tanker - Aframax Class,9665.0,589.84,Hydrogen,0.0
+9800089,Tanker - Aframax Class,6896.6,411.09,Hydrogen,0.0
+9800089,Tanker - Aframax Class,6381.9,422.24,Hydrogen,0.0
+9800089,Tanker - Aframax Class,5746.6,424.27,Hydrogen,0.0
+9800089,Tanker - Aframax Class,5764.0,395.64,Hydrogen,0.0
+9800090,Tanker - MR2 Chemical Class,6708.4,1534.73,Bio-Methanol,690.63
+9800090,Tanker - MR2 Chemical Class,7959.7,1744.02,Bio-Methanol,784.81
+9800090,Tanker - MR2 Chemical Class,5403.9,1061.82,Bio-Methanol,477.82
+9800090,Tanker - MR2 Chemical Class,5389.4,987.76,Bio-Methanol,444.49
+9800090,Tanker - MR2 Chemical Class,2237.6,493.26,Bio-Methanol,221.97
+9800090,Tanker - MR2 Chemical Class,5223.7,968.29,Bio-Methanol,435.73
+9800090,Tanker - MR2 Chemical Class,5535.7,1225.31,Bio-Methanol,551.39
+9800090,Tanker - MR2 Chemical Class,7103.3,1403.3,Bio-Methanol,631.49
+9800090,Tanker - MR2 Chemical Class,7433.1,1339.69,Bio-Methanol,602.86
+9800090,Tanker - MR2 Chemical Class,4271.8,822.38,Bio-Methanol,370.07
+9800090,Tanker - MR2 Chemical Class,7627.7,1666.48,Bio-Methanol,749.92
+9800090,Tanker - MR2 Chemical Class,3947.6,824.11,Bio-Methanol,370.85
+9800091,Reefer - Arctic Pioneer,2265.0,478.8,Bio-Methanol,215.46
+9800091,Reefer - Arctic Pioneer,9223.2,2542.81,Bio-Methanol,1144.26
+9800091,Reefer - Arctic Pioneer,3950.8,1123.43,Bio-Methanol,505.54
+9800091,Reefer - Arctic Pioneer,1525.3,443.04,Bio-Methanol,199.37
+9800091,Reefer - Arctic Pioneer,9504.9,1881.68,Bio-Methanol,846.76
+9800091,Reefer - Arctic Pioneer,2079.6,469.1,Bio-Methanol,211.1
+9800091,Reefer - Arctic Pioneer,4759.1,1038.96,Bio-Methanol,467.53
+9800091,Reefer - Arctic Pioneer,5611.8,1182.51,Bio-Methanol,532.13
+9800091,Reefer - Arctic Pioneer,7953.4,1994.75,Bio-Methanol,897.64
+9800091,Reefer - Arctic Pioneer,6999.1,2026.19,Bio-Methanol,911.79
+9800091,Reefer - Arctic Pioneer,4852.1,1416.61,Bio-Methanol,637.47
+9800091,Reefer - Arctic Pioneer,2577.4,721.24,Bio-Methanol,324.56
+9800091,Reefer - Arctic Pioneer,10802.2,2649.16,Bio-Methanol,1192.12
+9800092,Reefer - Nordic Carrier,9282.7,1665.88,Ammonia,83.29
+9800092,Reefer - Nordic Carrier,6334.6,1034.67,Ammonia,51.73
+9800092,Reefer - Nordic Carrier,6276.6,1058.29,Ammonia,52.91
+9800092,Reefer - Nordic Carrier,7509.2,1111.27,Ammonia,55.56
+9800092,Reefer - Nordic Carrier,8138.0,1715.63,Ammonia,85.78
+9800092,Reefer - Nordic Carrier,6628.1,1098.77,Ammonia,54.94
+9800092,Reefer - Nordic Carrier,3940.7,716.62,Ammonia,35.83
+9800092,Reefer - Nordic Carrier,9142.9,1549.24,Ammonia,77.46
+9800092,Reefer - Nordic Carrier,6073.8,810.56,Ammonia,40.53
+9800092,Reefer - Nordic Carrier,2945.5,385.46,Ammonia,19.27
+9800092,Reefer - Nordic Carrier,4651.6,670.94,Ammonia,33.55
+9800092,Reefer - Nordic Carrier,9093.5,1679.62,Ammonia,83.98
+9800092,Reefer - Nordic Carrier,17.5,2.6,Ammonia,0.13
+9800092,Reefer - Nordic Carrier,6097.5,1085.76,Ammonia,54.29
+9800093,General Cargo - Multi-Purpose Heavy Lift,1047.2,131.14,LSMGO,420.43
+9800093,General Cargo - Multi-Purpose Heavy Lift,4780.3,500.23,LSMGO,1603.74
+9800093,General Cargo - Multi-Purpose Heavy Lift,3750.4,340.02,LSMGO,1090.1
+9800093,General Cargo - Multi-Purpose Heavy Lift,7862.4,953.36,LSMGO,3056.47
+9800093,General Cargo - Multi-Purpose Heavy Lift,1940.9,211.79,LSMGO,679.0
+9800093,General Cargo - Multi-Purpose Heavy Lift,5328.4,655.1,LSMGO,2100.25
+9800093,General Cargo - Multi-Purpose Heavy Lift,9578.9,933.72,LSMGO,2993.51
+9800093,General Cargo - Multi-Purpose Heavy Lift,4023.7,364.04,LSMGO,1167.11
+9800093,General Cargo - Multi-Purpose Heavy Lift,6059.9,606.91,LSMGO,1945.75
+9800093,General Cargo - Multi-Purpose Heavy Lift,5860.6,651.34,LSMGO,2088.2
+9800093,General Cargo - Multi-Purpose Heavy Lift,7686.8,847.12,LSMGO,2715.87
+9800093,General Cargo - Multi-Purpose Heavy Lift,10716.5,1075.22,LSMGO,3447.16
+9800093,General Cargo - Multi-Purpose Heavy Lift,6303.4,612.57,LSMGO,1963.9
+9800093,General Cargo - Multi-Purpose Heavy Lift,6305.7,763.2,LSMGO,2446.82
+9800094,General Cargo - Standard Box-Hold,6456.9,501.92,LSMGO,1609.16
+9800094,General Cargo - Standard Box-Hold,682.0,44.74,LSMGO,143.44
+9800094,General Cargo - Standard Box-Hold,1994.6,148.68,LSMGO,476.67
+9800094,General Cargo - Standard Box-Hold,8390.9,571.55,LSMGO,1832.39
+9800094,General Cargo - Standard Box-Hold,1764.8,115.88,LSMGO,371.51
+9800094,General Cargo - Standard Box-Hold,2494.9,169.66,LSMGO,543.93
+9800094,General Cargo - Standard Box-Hold,1636.8,110.09,LSMGO,352.95
+9800094,General Cargo - Standard Box-Hold,7118.9,438.71,LSMGO,1406.5
+9800094,General Cargo - Standard Box-Hold,4177.3,269.18,LSMGO,862.99
+9800094,General Cargo - Standard Box-Hold,797.0,50.28,LSMGO,161.2
+9800094,General Cargo - Standard Box-Hold,5586.7,435.29,LSMGO,1395.54
+9800094,General Cargo - Standard Box-Hold,6352.0,305.17,LSMGO,978.38
+9800094,General Cargo - Standard Box-Hold,11536.0,747.74,LSMGO,2397.25
+9800094,General Cargo - Standard Box-Hold,4386.0,340.86,LSMGO,1092.8
+9800094,General Cargo - Standard Box-Hold,8014.3,598.13,LSMGO,1917.6
+9800095,General Cargo - Green Multi-Carrier,12401.1,568.15,Hydrogen,0.0
+9800095,General Cargo - Green Multi-Carrier,4386.0,200.99,Hydrogen,0.0
+9800095,General Cargo - Green Multi-Carrier,6636.1,306.68,Hydrogen,0.0
+9800095,General Cargo - Green Multi-Carrier,1828.3,77.64,Hydrogen,0.0
+9800095,General Cargo - Green Multi-Carrier,11486.0,384.1,Hydrogen,0.0
+9800095,General Cargo - Green Multi-Carrier,224.2,10.96,Hydrogen,0.0
+9800095,General Cargo - Green Multi-Carrier,5223.7,203.51,Hydrogen,0.0
+9800095,General Cargo - Green Multi-Carrier,1554.6,71.31,Hydrogen,0.0
+9800095,General Cargo - Green Multi-Carrier,959.6,34.12,Hydrogen,0.0
+9800095,General Cargo - Green Multi-Carrier,4754.3,195.93,Hydrogen,0.0
+9800095,General Cargo - Green Multi-Carrier,3058.8,113.19,Hydrogen,0.0
+9800096,Bulk Carrier - Capesize Class,7249.2,1489.72,LNG,4096.73
+9800096,Bulk Carrier - Capesize Class,11198.4,2193.92,LNG,6033.28
+9800096,Bulk Carrier - Capesize Class,1017.1,190.3,LNG,523.33
+9800096,Bulk Carrier - Capesize Class,3586.8,707.64,LNG,1946.01
+9800096,Bulk Carrier - Capesize Class,5225.6,1360.11,LNG,3740.3
+9800096,Bulk Carrier - Capesize Class,4587.0,908.85,LNG,2499.34
+9800096,Bulk Carrier - Capesize Class,2967.0,697.17,LNG,1917.22
+9800096,Bulk Carrier - Capesize Class,4892.9,1096.77,LNG,3016.12
+9800096,Bulk Carrier - Capesize Class,6078.4,1138.83,LNG,3131.78
+9800096,Bulk Carrier - Capesize Class,1722.5,369.94,LNG,1017.34
+9800096,Bulk Carrier - Capesize Class,9543.9,1726.1,LNG,4746.77
+9800096,Bulk Carrier - Capesize Class,7244.5,1653.78,LNG,4547.89
+9800096,Bulk Carrier - Capesize Class,10980.1,2524.4,LNG,6942.1
+9800096,Bulk Carrier - Capesize Class,5324.2,1205.2,LNG,3314.3
+9800097,Bulk Carrier - Panamax Class,11531.4,3388.64,Ammonia,169.43
+9800097,Bulk Carrier - Panamax Class,7118.9,2389.45,Ammonia,119.47
+9800097,Bulk Carrier - Panamax Class,7262.0,2795.41,Ammonia,139.77
+9800097,Bulk Carrier - Panamax Class,7959.7,2445.89,Ammonia,122.29
+9800097,Bulk Carrier - Panamax Class,5809.0,1627.27,Ammonia,81.36
+9800097,Bulk Carrier - Panamax Class,5965.1,1989.92,Ammonia,99.5
+9800097,Bulk Carrier - Panamax Class,549.8,202.86,Ammonia,10.14
+9800097,Bulk Carrier - Panamax Class,7285.3,2627.61,Ammonia,131.38
+9800097,Bulk Carrier - Panamax Class,3819.9,1109.7,Ammonia,55.49
+9800097,Bulk Carrier - Panamax Class,6504.1,1985.6,Ammonia,99.28
+9800097,Bulk Carrier - Panamax Class,11755.7,3662.77,Ammonia,183.14
+9800097,Bulk Carrier - Panamax Class,4796.8,1346.21,Ammonia,67.31
+9800097,Bulk Carrier - Panamax Class,5878.1,2405.33,Ammonia,120.27
+9800098,Bulk Carrier - Supramax Class,5239.9,255.94,Hydrogen,0.0
+9800098,Bulk Carrier - Supramax Class,7932.0,363.74,Hydrogen,0.0
+9800098,Bulk Carrier - Supramax Class,4189.4,190.26,Hydrogen,0.0
+9800098,Bulk Carrier - Supramax Class,5674.7,237.42,Hydrogen,0.0
+9800098,Bulk Carrier - Supramax Class,1249.2,54.7,Hydrogen,0.0
+9800098,Bulk Carrier - Supramax Class,7364.3,397.41,Hydrogen,0.0
+9800098,Bulk Carrier - Supramax Class,5809.0,235.08,Hydrogen,0.0
+9800098,Bulk Carrier - Supramax Class,10672.2,420.97,Hydrogen,0.0
+9800098,Bulk Carrier - Supramax Class,5389.4,290.93,Hydrogen,0.0
+9800098,Bulk Carrier - Supramax Class,3209.5,177.16,Hydrogen,0.0
+9800099,Bulk Carrier - Handysize Class,2015.1,92.7,LNG,254.93
+9800099,Bulk Carrier - Handysize Class,152.8,9.12,LNG,25.08
+9800099,Bulk Carrier - Handysize Class,7346.2,360.7,LNG,991.92
+9800099,Bulk Carrier - Handysize Class,4427.2,231.0,LNG,635.25
+9800099,Bulk Carrier - Handysize Class,11536.0,781.87,LNG,2150.14
+9800099,Bulk Carrier - Handysize Class,6385.9,348.06,LNG,957.16
+9800099,Bulk Carrier - Handysize Class,5360.9,286.33,LNG,787.41
+9800099,Bulk Carrier - Handysize Class,6078.5,374.21,LNG,1029.08
+9800099,Bulk Carrier - Handysize Class,5524.7,322.34,LNG,886.43
+9800099,Bulk Carrier - Handysize Class,1587.0,98.84,LNG,271.81
+9800099,Bulk Carrier - Handysize Class,4588.5,237.17,LNG,652.22
+9800099,Bulk Carrier - Handysize Class,13153.7,792.63,LNG,2179.73
+9800100,"Container - Ultra Large (24,000 TEU)",7563.9,4249.39,LSMGO,13623.54
+9800100,"Container - Ultra Large (24,000 TEU)",10278.3,5227.73,LSMGO,16760.1
+9800100,"Container - Ultra Large (24,000 TEU)",5488.6,2978.92,LSMGO,9550.42
+9800100,"Container - Ultra Large (24,000 TEU)",4754.3,2369.0,LSMGO,7595.01
+9800100,"Container - Ultra Large (24,000 TEU)",6627.1,3546.7,LSMGO,11370.72
+9800100,"Container - Ultra Large (24,000 TEU)",6598.0,3705.27,LSMGO,11879.1
+9800100,"Container - Ultra Large (24,000 TEU)",3813.8,2356.35,LSMGO,7554.46
+9800100,"Container - Ultra Large (24,000 TEU)",10093.6,5428.69,LSMGO,17404.38
+9800100,"Container - Ultra Large (24,000 TEU)",8461.2,3992.38,LSMGO,12799.57
+9800100,"Container - Ultra Large (24,000 TEU)",5328.4,2390.11,LSMGO,7662.69
+9800100,"Container - Ultra Large (24,000 TEU)",9546.7,5356.89,LSMGO,17174.19
+9800101,"Container - Neo-Panamax (15,000 TEU)",7412.3,2350.53,LNG,6463.96
+9800101,"Container - Neo-Panamax (15,000 TEU)",7640.4,2168.67,LNG,5963.84
+9800101,"Container - Neo-Panamax (15,000 TEU)",5965.1,1759.07,LNG,4837.44
+9800101,"Container - Neo-Panamax (15,000 TEU)",1572.5,405.63,LNG,1115.48
+9800101,"Container - Neo-Panamax (15,000 TEU)",11433.5,3121.55,LNG,8584.26
+9800101,"Container - Neo-Panamax (15,000 TEU)",1924.4,667.88,LNG,1836.67
+9800101,"Container - Neo-Panamax (15,000 TEU)",5768.9,1962.26,LNG,5396.22
+9800101,"Container - Neo-Panamax (15,000 TEU)",8583.6,2967.82,LNG,8161.51
+9800101,"Container - Neo-Panamax (15,000 TEU)",4427.2,1060.12,LNG,2915.33
+9800101,"Container - Neo-Panamax (15,000 TEU)",5100.0,1328.62,LNG,3653.7
+9800101,"Container - Neo-Panamax (15,000 TEU)",7953.4,2588.52,LNG,7118.43
+9800101,"Container - Neo-Panamax (15,000 TEU)",4438.2,1239.33,LNG,3408.16
+9800101,"Container - Neo-Panamax (15,000 TEU)",682.0,193.01,LNG,530.78
+9800101,"Container - Neo-Panamax (15,000 TEU)",6072.7,1661.89,LNG,4570.2
+9800101,"Container - Neo-Panamax (15,000 TEU)",6383.8,1765.08,LNG,4853.97
+9800102,"Container - Post-Panamax (8,500 TEU)",7124.7,2180.91,LSMGO,6992.0
+9800102,"Container - Post-Panamax (8,500 TEU)",7395.1,2566.9,LSMGO,8229.48
+9800102,"Container - Post-Panamax (8,500 TEU)",561.6,178.42,LSMGO,572.01
+9800102,"Container - Post-Panamax (8,500 TEU)",9548.5,2984.7,LSMGO,9568.95
+9800102,"Container - Post-Panamax (8,500 TEU)",9223.2,2795.55,LSMGO,8962.53
+9800102,"Container - Post-Panamax (8,500 TEU)",7118.9,2465.55,LSMGO,7904.55
+9800102,"Container - Post-Panamax (8,500 TEU)",10916.0,3423.43,LSMGO,10975.52
+9800102,"Container - Post-Panamax (8,500 TEU)",7903.3,3118.06,LSMGO,9996.5
+9800102,"Container - Post-Panamax (8,500 TEU)",3729.3,1314.7,LSMGO,4214.93
+9800102,"Container - Post-Panamax (8,500 TEU)",11529.4,3439.33,LSMGO,11026.49
+9800102,"Container - Post-Panamax (8,500 TEU)",7576.4,2259.4,LSMGO,7243.64
+9800103,"Container - Panamax (5,000 TEU)",7227.8,1782.81,LSMGO,5715.69
+9800103,"Container - Panamax (5,000 TEU)",8313.7,1830.17,LSMGO,5867.53
+9800103,"Container - Panamax (5,000 TEU)",1192.1,261.12,LSMGO,837.15
+9800103,"Container - Panamax (5,000 TEU)",6558.2,1206.6,LSMGO,3868.36
+9800103,"Container - Panamax (5,000 TEU)",6185.7,1184.14,LSMGO,3796.35
+9800103,"Container - Panamax (5,000 TEU)",4466.9,1177.0,LSMGO,3773.46
+9800103,"Container - Panamax (5,000 TEU)",10218.6,2307.85,LSMGO,7398.97
+9800103,"Container - Panamax (5,000 TEU)",3920.7,761.95,LSMGO,2442.81
+9800103,"Container - Panamax (5,000 TEU)",1423.9,250.76,LSMGO,803.94
+9800103,"Container - Panamax (5,000 TEU)",2488.5,583.29,LSMGO,1870.03
+9800103,"Container - Panamax (5,000 TEU)",5360.9,1172.39,LSMGO,3758.68
+9800103,"Container - Panamax (5,000 TEU)",4990.1,1014.38,LSMGO,3252.1
+9800103,"Container - Panamax (5,000 TEU)",7492.3,1571.03,LSMGO,5036.72
+9800104,"Container - Feeder Max (3,500 TEU)",5965.1,1046.39,Biofuel (B30),2281.13
+9800104,"Container - Feeder Max (3,500 TEU)",12476.7,1610.88,Biofuel (B30),3511.72
+9800104,"Container - Feeder Max (3,500 TEU)",828.2,147.83,Biofuel (B30),322.27
+9800104,"Container - Feeder Max (3,500 TEU)",6352.7,1037.18,Biofuel (B30),2261.05
+9800104,"Container - Feeder Max (3,500 TEU)",5524.7,851.42,Biofuel (B30),1856.1
+9800104,"Container - Feeder Max (3,500 TEU)",7594.6,1178.51,Biofuel (B30),2569.15
+9800104,"Container - Feeder Max (3,500 TEU)",1360.5,254.25,Biofuel (B30),554.26
+9800104,"Container - Feeder Max (3,500 TEU)",1707.2,292.78,Biofuel (B30),638.26
+9800104,"Container - Feeder Max (3,500 TEU)",6025.3,1066.01,Biofuel (B30),2323.9
+9800104,"Container - Feeder Max (3,500 TEU)",3966.6,565.8,Biofuel (B30),1233.44
+9800104,"Container - Feeder Max (3,500 TEU)",8991.9,1433.91,Biofuel (B30),3125.92
+9800104,"Container - Feeder Max (3,500 TEU)",560.0,88.29,Biofuel (B30),192.47
+9800104,"Container - Feeder Max (3,500 TEU)",3059.2,567.62,Biofuel (B30),1237.41
+9800104,"Container - Feeder Max (3,500 TEU)",12068.0,2263.09,Biofuel (B30),4933.54
+9800104,"Container - Feeder Max (3,500 TEU)",1260.7,216.76,Biofuel (B30),472.54
+9800105,"Container - Regional Feeder (1,800 TEU)",6499.9,516.13,LNG,1419.36
+9800105,"Container - Regional Feeder (1,800 TEU)",3146.5,223.95,LNG,615.86
+9800105,"Container - Regional Feeder (1,800 TEU)",6377.1,448.77,LNG,1234.12
+9800105,"Container - Regional Feeder (1,800 TEU)",3861.2,280.19,LNG,770.52
+9800105,"Container - Regional Feeder (1,800 TEU)",6146.7,432.5,LNG,1189.38
+9800105,"Container - Regional Feeder (1,800 TEU)",1297.4,76.76,LNG,211.09
+9800105,"Container - Regional Feeder (1,800 TEU)",1033.7,65.2,LNG,179.3
+9800105,"Container - Regional Feeder (1,800 TEU)",6870.1,534.28,LNG,1469.27
+9800105,"Container - Regional Feeder (1,800 TEU)",4327.0,303.24,LNG,833.91
+9800105,"Container - Regional Feeder (1,800 TEU)",638.2,44.7,LNG,122.93
+9800105,"Container - Regional Feeder (1,800 TEU)",5072.8,424.3,LNG,1166.83
+9800105,"Container - Regional Feeder (1,800 TEU)",6038.9,352.73,LNG,970.01
+9800105,"Container - Regional Feeder (1,800 TEU)",959.6,70.45,LNG,193.74
+9800105,"Container - Regional Feeder (1,800 TEU)",9504.9,841.13,LNG,2313.11
+9800105,"Container - Regional Feeder (1,800 TEU)",1828.3,110.45,LNG,303.74
